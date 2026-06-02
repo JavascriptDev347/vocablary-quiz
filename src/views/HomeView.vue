@@ -113,6 +113,7 @@ const checkAnswer = (index: number, isCorrect: boolean): void => {
 const nextQuestion = (): void => {
   selectedAnswer.value = null
   isAnswered.value = false
+  showDefinition.value = false
 
   if (currentQuestionIndex.value < quizQuestions.value.length - 1) {
     currentQuestionIndex.value++
