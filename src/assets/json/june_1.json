@@ -1,0 +1,494 @@
+[
+  {
+    "id": 1,
+    "word": "Renowned",
+    "definition": "very famous and respected",
+    "options": [
+      "mashhur, taniqli",
+      "iste'fo berish",
+      "tejamkor, arzon-garov",
+      "o'zgarish, o'zgartirish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 2,
+    "word": "Amend",
+    "definition": "to change or improve something",
+    "options": [
+      "o'zgartirish kiritmoq",
+      "haddan tashqari, ortiqcha)",
+      "mo'rt, sinuvchan",
+      "etishtirmoq, o'stirmoq"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 3,
+    "word": "Withdraw",
+    "definition": "to leave or pull out of something",
+    "options": [
+      "chiqib ketmoq, qaytarib olmoq",
+      "halollik, yaxlitlik)",
+      "nufuzli, obro'li",
+      "ifloslanish, zaharlanish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 4,
+    "word": "Prestigious",
+    "definition": "highly respected and admired",
+    "options": [
+      "nufuzli, obro'li",
+      "jo'natmoq, yubormoq)",
+      "(yetarli, maqbul",
+      "asosiy mahsulot"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 5,
+    "word": "Alteration",
+    "definition": "a change made to something",
+    "options": [
+      "o'zgarish, o'zgartirish",
+      "taniqli, ko'zga ko'ringan",
+      "(keskin oshmoq, yuqoriga ko'tarilmoq)",
+      "mashhur, taniqli"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 6,
+    "word": "Resignation",
+    "definition": "leaving a job or position officially",
+    "options": [
+      "iste'fo berish",
+      "o'rinbosar, almashtiruvchi",
+      "mo'rt, qattiq lekin oson sinuvchi",
+      "o'zgartirish kiritmoq"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 7,
+    "word": "Integrity",
+    "definition": "being honest and having strong moral principles",
+    "options": [
+      "halollik, yaxlitlik)",
+      "(tirikchilik, kun ko'rish)",
+      "hosil, mahsulot miqdori",
+      "tejamkor, arzon-garov"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 8,
+    "word": "Prominent",
+    "definition": "well-known and important",
+    "options": [
+      "taniqli, ko'zga ko'ringan",
+      "mo'rt, sinuvchan",
+      "chiqib ketmoq, qaytarib olmoq",
+      "o'zgarish, o'zgartirish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 9,
+    "word": "Cultivate",
+    "definition": "to grow crops or develop something",
+    "options": [
+      "etishtirmoq, o'stirmoq",
+      "nufuzli, obro'li",
+      "haddan tashqari, ortiqcha)",
+      "(yetarli, maqbul"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 10,
+    "word": "Staple",
+    "definition": "a basic and essential product or food",
+    "options": [
+      "asosiy mahsulot",
+      "ifloslanish, zaharlanish",
+      "mashhur, taniqli",
+      "jo'natmoq, yubormoq)"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 11,
+    "word": "Livelihood",
+    "definition": "the way someone earns money to live",
+    "options": [
+      "(tirikchilik, kun ko'rish)",
+      "o'zgartirish kiritmoq",
+      "o'rinbosar, almashtiruvchi",
+      "mo'rt, qattiq lekin oson sinuvchi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 12,
+    "word": "Substitute",
+    "definition": "a replacement for something else",
+    "options": [
+      "o'rinbosar, almashtiruvchi",
+      "hosil, mahsulot miqdori",
+      "tejamkor, arzon-garov",
+      "taniqli, ko'zga ko'ringan"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 13,
+    "word": "Economical",
+    "definition": "good value, not wasteful",
+    "options": [
+      "tejamkor, arzon-garov",
+      "iste'fo berish",
+      "(keskin oshmoq, yuqoriga ko'tarilmoq)",
+      "chiqib ketmoq, qaytarib olmoq"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 14,
+    "word": "Excessive",
+    "definition": "too much, more than necessary",
+    "options": [
+      "haddan tashqari, ortiqcha)",
+      "nufuzli, obro'li",
+      "etishtirmoq, o'stirmoq",
+      "halollik, yaxlitlik)"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 15,
+    "word": "Dispatch",
+    "definition": "to send something to a destination",
+    "options": [
+      "jo'natmoq, yubormoq)",
+      "asosiy mahsulot",
+      "mo'rt, sinuvchan",
+      "o'zgarish, o'zgartirish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 16,
+    "word": "Fragile",
+    "definition": "easily broken or damaged",
+    "options": [
+      "mo'rt, sinuvchan",
+      "o'zgartirish kiritmoq",
+      "ifloslanish, zaharlanish",
+      "(yetarli, maqbul"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 17,
+    "word": "Adequate",
+    "definition": "enough for what is needed",
+    "options": [
+      "(yetarli, maqbul",
+      "(tirikchilik, kun ko'rish)",
+      "mashhur, taniqli",
+      "mo'rt, qattiq lekin oson sinuvchi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 18,
+    "word": "Contamination",
+    "definition": "the presence of harmful or unwanted substances",
+    "options": [
+      "ifloslanish, zaharlanish",
+      "hosil, mahsulot miqdori",
+      "taniqli, ko'zga ko'ringan",
+      "iste'fo berish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 19,
+    "word": "Brittle",
+    "definition": "hard but easily snapped or broken",
+    "options": [
+      "mo'rt, qattiq lekin oson sinuvchi",
+      "tejamkor, arzon-garov",
+      "haddan tashqari, ortiqcha)",
+      "chiqib ketmoq, qaytarib olmoq"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 20,
+    "word": "Soar",
+    "definition": "to rise very quickly",
+    "options": [
+      "(keskin oshmoq, yuqoriga ko'tarilmoq)",
+      "o'rinbosar, almashtiruvchi",
+      "etishtirmoq, o'stirmoq",
+      "nufuzli, obro'li"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 21,
+    "word": "Yield",
+    "definition": "the amount produced from crops or effort",
+    "options": [
+      "hosil, mahsulot miqdori",
+      "asosiy mahsulot",
+      "halollik, yaxlitlik)",
+      "o'zgarish, o'zgartirish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 22,
+    "word": "dread",
+    "definition": "to feel very worried or afraid about something that is going to happen.",
+    "options": [
+      "Qo’rqinch",
+      "Hukm qilish",
+      "Bildirib o’tmoq, e’tiborni qaratmoq",
+      "Oxir oqibat"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 23,
+    "word": "conviction",
+    "definition": "a strong belief or opinion that someone is certain is true.",
+    "options": [
+      "Hukm qilish",
+      "Talab qilmoq, undamoq",
+      "Nozik",
+      "sharmandali"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 24,
+    "word": "urge",
+    "definition": "to strongly encourage someone to do something",
+    "options": [
+      "Talab qilmoq, undamoq",
+      "Tavsiya qilish, retsept yozib berish",
+      "Harakatsiz",
+      "Maruza qilish , nutq so’zlash"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 25,
+    "word": "prescribe",
+    "definition": "to officially say what should be done; to recommend something as a treatment or solution",
+    "options": [
+      "Tavsiya qilish, retsept yozib berish",
+      "Uyqusiz",
+      "Yetarlicha",
+      "Ochig’ini aytganda"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 26,
+    "word": "sleep-deprived",
+    "definition": "not having enough sleep",
+    "options": [
+      "Uyqusiz",
+      "Farmon bermoq, jar solmoq",
+      "Yodda tuting",
+      "O’zini shunday xolatda ko’radi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 27,
+    "word": "proclaim",
+    "definition": "to announce something publicly or strongly",
+    "options": [
+      "Farmon bermoq, jar solmoq",
+      "Bildirib o’tmoq, e’tiborni qaratmoq",
+      "O’rganishga moil",
+      "[yo'lovchilar va ekipaj] har ikkalasi uchun birdek foydali"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 28,
+    "word": "point out",
+    "definition": "to draw attention to something or explain something important",
+    "options": [
+      "Bildirib o’tmoq, e’tiborni qaratmoq",
+      "Nozik",
+      "Oxir oqibat",
+      "Hiralashmoq"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 29,
+    "word": "susceptible",
+    "definition": "likely to be affected by something, especially something negative",
+    "options": [
+      "Nozik",
+      "Harakatsiz",
+      "sharmandali",
+      "Qo’rqinch"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 30,
+    "word": "sedentary",
+    "definition": "involving little physical activity",
+    "options": [
+      "Harakatsiz",
+      "Yetarlicha",
+      "marhumlik",
+      "Hukm qilish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 31,
+    "word": "adequately",
+    "definition": "in a sufficient or satisfactory way",
+    "options": [
+      "Yetarlicha",
+      "Yodda tuting",
+      "Ochig’ini aytganda",
+      "Talab qilmoq, undamoq"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 32,
+    "word": "bear in mind",
+    "definition": "to remember or consider something important",
+    "options": [
+      "Yodda tuting",
+      "O’rganishga moil",
+      "Maruza qilish , nutq so’zlash",
+      "Tavsiya qilish, retsept yozib berish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 33,
+    "word": "cognitive",
+    "definition": "related to thinking, learning, and understanding",
+    "options": [
+      "O’rganishga moil",
+      "Oxir oqibat",
+      "O’zini shunday xolatda ko’radi",
+      "Uyqusiz"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 34,
+    "word": "eventually",
+    "definition": "after a long time or after many changes",
+    "options": [
+      "Oxir oqibat",
+      "sharmandali",
+      "[yo'lovchilar va ekipaj] har ikkalasi uchun birdek foydali",
+      "Farmon bermoq, jar solmoq"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 35,
+    "word": "embarrassing",
+    "definition": "causing a feeling of self-consciousness, shame, or awkwardness",
+    "options": [
+      "sharmandali",
+      "marhumlik",
+      "Hiralashmoq",
+      "Bildirib o’tmoq, e’tiborni qaratmoq"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 36,
+    "word": "deprivation",
+    "definition": "the damaging lack of material benefits considered to be basic necessities",
+    "options": [
+      "marhumlik",
+      "Ochig’ini aytganda",
+      "Qo’rqinch",
+      "Nozik"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 37,
+    "word": "To be specific",
+    "definition": "clearly defined or identified; used to give more precise details",
+    "options": [
+      "Ochig’ini aytganda",
+      "Maruza qilish , nutq so’zlash",
+      "Hukm qilish",
+      "Harakatsiz"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 38,
+    "word": "Giving a talk",
+    "definition": "speaking publicly to an audience to share information, ideas, or experiences",
+    "options": [
+      "Maruza qilish , nutq so’zlash",
+      "O’zini shunday xolatda ko’radi",
+      "Talab qilmoq, undamoq",
+      "Yetarlicha"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 39,
+    "word": "He will find himself",
+    "definition": "he will discover his true identity, passions, or purpose in life",
+    "options": [
+      "O’zini shunday xolatda ko’radi",
+      "[yo'lovchilar va ekipaj] har ikkalasi uchun birdek foydali",
+      "Tavsiya qilish, retsept yozib berish",
+      "Yodda tuting"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 40,
+    "word": "For the benefit of... alike",
+    "definition": "equally helpful/useful for both parties specified",
+    "options": [
+      "[yo'lovchilar va ekipaj] har ikkalasi uchun birdek foydali",
+      "Hiralashmoq",
+      "Uyqusiz",
+      "O’rganishga moil"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 41,
+    "word": "blur",
+    "definition": "to become unclear, distinct, or less visible",
+    "options": [
+      "Hiralashmoq",
+      "Qo’rqinch",
+      "Farmon bermoq, jar solmoq",
+      "Oxir oqibat"
+    ],
+    "correct_option_index": 0
+  }
+]
