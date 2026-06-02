@@ -3,6 +3,10 @@
     "id": 1,
     "word": "Renowned",
     "definition": "very famous and respected",
+    "sentence": {
+      "en": "The university is renowned for its cutting-edge research facilities, attracting top scholars from all over the globe.",
+      "uz": "Universitet o'zining ilg'or tadqiqot muassasalari bilan mashhur bo'lib, butun dunyodan eng yaxshi olimlarni o'ziga jalb qiladi."
+    },
     "options": [
       "mashhur, taniqli",
       "iste'fo berish",
@@ -15,9 +19,13 @@
     "id": 2,
     "word": "Amend",
     "definition": "to change or improve something",
+    "sentence": {
+      "en": "The committee voted unanimously to amend the constitution in order to protect the fundamental rights of minorities.",
+      "uz": "Qo'mita ozchiliklarning huquqlarini himoya qilish maqsadida konstitutsiyaga o'zgartirish kiritish uchun bir ovozdan ovoz berdi."
+    },
     "options": [
       "o'zgartirish kiritmoq",
-      "haddan tashqari, ortiqcha)",
+      "haddan tashqari, ortiqcha",
       "mo'rt, sinuvchan",
       "etishtirmoq, o'stirmoq"
     ],
@@ -27,9 +35,13 @@
     "id": 3,
     "word": "Withdraw",
     "definition": "to leave or pull out of something",
+    "sentence": {
+      "en": "Due to unexpected financial constraints, the tech giant decided to withdraw its sponsorship from the international chess matchup.",
+      "uz": "Kutilmagan moliyaviy qiyinchiliklar tufayli texnologiya giganti xalqaro shaxmat musobaqasidan o'z homiyligini qaytarib olishga qaror qildi."
+    },
     "options": [
       "chiqib ketmoq, qaytarib olmoq",
-      "halollik, yaxlitlik)",
+      "halollik, yaxlitlik",
       "nufuzli, obro'li",
       "ifloslanish, zaharlanish"
     ],
@@ -39,10 +51,14 @@
     "id": 4,
     "word": "Prestigious",
     "definition": "highly respected and admired",
+    "sentence": {
+      "en": "Winning a scholarship to such a prestigious academy is an accomplishment that will open endless doors for his professional career.",
+      "uz": "Bunday nufuzli akademiyaga stipendiya yutib olish — uning professional karyerasi uchun cheksiz eshiklarni ochadigan muvaffaqiyatdir."
+    },
     "options": [
       "nufuzli, obro'li",
-      "jo'natmoq, yubormoq)",
-      "(yetarli, maqbul",
+      "jo'natmoq, yubormoq",
+      "yetarli, maqbul",
       "asosiy mahsulot"
     ],
     "correct_option_index": 0
@@ -51,10 +67,14 @@
     "id": 5,
     "word": "Alteration",
     "definition": "a change made to something",
+    "sentence": {
+      "en": "The source code required a significant alteration because the legacy database schema could not synchronize with the new API microservice.",
+      "uz": "Eski ma'lumotlar bazasi sxemasi yangi API mikroxizmati bilan sinxronlasha olmagani sababli, dastur kodiga jiddiy o'zgartirish kiritish talab qilindi."
+    },
     "options": [
       "o'zgarish, o'zgartirish",
       "taniqli, ko'zga ko'ringan",
-      "(keskin oshmoq, yuqoriga ko'tarilmoq)",
+      "keskin oshmoq, yuqoriga ko'tarilmoq",
       "mashhur, taniqli"
     ],
     "correct_option_index": 0
@@ -63,6 +83,10 @@
     "id": 6,
     "word": "Resignation",
     "definition": "leaving a job or position officially",
+    "sentence": {
+      "en": "The unexpected resignation of the chief researcher left the entire development team in a state of temporary confusion.",
+      "uz": "Bosh tadqiqotchining kutilmagan iste'fosi butun ishlab chiquvchilar jamoasini vaqtinchalik chalkashlik holatida qoldirdi."
+    },
     "options": [
       "iste'fo berish",
       "o'rinbosar, almashtiruvchi",
@@ -75,9 +99,13 @@
     "id": 7,
     "word": "Integrity",
     "definition": "being honest and having strong moral principles",
+    "sentence": {
+      "en": "A true professional never compromises their integrity, even when facing immense pressure from corporate executives.",
+      "uz": "Haqiqiy professional, hatto korporativ rahbarlar tomonidan kuchli bosimga duch kelganda ham, o'z halolligi va prinsiplaridan voz kechmaydi."
+    },
     "options": [
-      "halollik, yaxlitlik)",
-      "(tirikchilik, kun ko'rish)",
+      "halollik, yaxlitlik",
+      "tirikchilik, kun ko'rish",
       "hosil, mahsulot miqdori",
       "tejamkor, arzon-garov"
     ],
@@ -87,6 +115,10 @@
     "id": 8,
     "word": "Prominent",
     "definition": "well-known and important",
+    "sentence": {
+      "en": "He played a prominent role in designing the clean architecture structure of the company’s cloud-based enterprise solution.",
+      "uz": "U kompaniyaning bulutli korporativ yechimining toza arxitektura strukturasini loyihalashda muhim va ko'zga ko'ringan rol o'ynadi."
+    },
     "options": [
       "taniqli, ko'zga ko'ringan",
       "mo'rt, sinuvchan",
@@ -99,11 +131,15 @@
     "id": 9,
     "word": "Cultivate",
     "definition": "to grow crops or develop something",
+    "sentence": {
+      "en": "The intensive training program is deliberately designed to cultivate high-performance teamwork and innovative thinking among junior software developers.",
+      "uz": "Intensiv o'quv dasturi kichik dasturchilar o'rtasida yuqori samarali jamoaviy ish va innovatsion fikrlashni shakllantirish (o'stirish) uchun ataylab ishlab chiqilgan."
+    },
     "options": [
       "etishtirmoq, o'stirmoq",
       "nufuzli, obro'li",
-      "haddan tashqari, ortiqcha)",
-      "(yetarli, maqbul"
+      "haddan tashqari, ortiqcha",
+      "yetarli, maqbul"
     ],
     "correct_option_index": 0
   },
@@ -111,6 +147,10 @@
     "id": 10,
     "word": "Staple",
     "definition": "a basic and essential product or food",
+    "sentence": {
+      "en": "While rice remains a staple commodity in Asian cuisine, high-quality data has rapidly become the staple resource for AI-driven ecosystems.",
+      "uz": "Guruch Osiyo oshxonasida asosiy mahsulot bo'lib qolayotgan bo'lsa-da, yuqori sifatli ma'lumotlar sun'iy intellektga asoslangan ekotizimlar uchun tezda asosiy manbaga aylandi."
+    },
     "options": [
       "asosiy mahsulot",
       "ifloslanish, zaharlanish",
@@ -123,6 +163,10 @@
     "id": 11,
     "word": "Livelihood",
     "definition": "the way someone earns money to live",
+    "sentence": {
+      "en": "Thousands of local farmers depend completely on stable weather conditions for their yearly crop yields and basic livelihood.",
+      "uz": "Minglab mahalliy dehqonlar o'zlarining yillik hosildorligi va asosiy tirikchiliklari uchun butunlay barqaror ob-havo sharoitlariga tayanadilar."
+    },
     "options": [
       "(tirikchilik, kun ko'rish)",
       "o'zgartirish kiritmoq",
@@ -135,6 +179,10 @@
     "id": 12,
     "word": "Substitute",
     "definition": "a replacement for something else",
+    "sentence": {
+      "en": "Artificial intelligence can enhance productivity, but it can never serve as a complete substitute for human empathy and critical creativity.",
+      "uz": "Sun'iy intellekt samaradorlikni oshirishi mumkin, biroq u hech qachon insoniy empatiya va tanqidiy ijodkorlikning to'liq o'rinbosari bo'la olmaydi."
+    },
     "options": [
       "o'rinbosar, almashtiruvchi",
       "hosil, mahsulot miqdori",
@@ -147,6 +195,10 @@
     "id": 13,
     "word": "Economical",
     "definition": "good value, not wasteful",
+    "sentence": {
+      "en": "Deploying serverless functions proved to be a highly economical approach for handling unpredictable traffic spikes in our SaaS framework.",
+      "uz": "Serverless funksiyalarni joriy qilish bizning SaaS tizimimizdagi kutilmagan trafik o'sishlarini boshqarish uchun juda tejamkor yondashuv ekanligini isbotladi."
+    },
     "options": [
       "tejamkor, arzon-garov",
       "iste'fo berish",
@@ -159,6 +211,10 @@
     "id": 14,
     "word": "Excessive",
     "definition": "too much, more than necessary",
+    "sentence": {
+      "en": "The automation test script failed because the backend handler spent excessive time resolving the nested database queries.",
+      "uz": "Avtomatlashtirilgan test skripti muvaffaqiyatsiz tugadi, chunki backend ishlovchisi ichma-ich joylashgan ma'lumotlar bazasi so'rovlarini bajarishga haddan tashqari ko'p vaqt sarfladi."
+    },
     "options": [
       "haddan tashqari, ortiqcha)",
       "nufuzli, obro'li",
@@ -171,6 +227,10 @@
     "id": 15,
     "word": "Dispatch",
     "definition": "to send something to a destination",
+    "sentence": {
+      "en": "The central warehouse is fully optimized to automatically process and dispatch client inventories within mere minutes of verification.",
+      "uz": "Markaziy ombor mijozlar zaxiralarini tekshiruvdan o'tganidan so'ng bir necha daqiqa ichida avtomatik ravishda qayta ishlash va jo'natish uchun to'liq optimallashtirilgan."
+    },
     "options": [
       "jo'natmoq, yubormoq)",
       "asosiy mahsulot",
@@ -183,6 +243,10 @@
     "id": 16,
     "word": "Fragile",
     "definition": "easily broken or damaged",
+    "sentence": {
+      "en": "Because the old monolithic system had a fragile deployment flow, even minor logic fixes frequently crashed the core product.",
+      "uz": "Eski monolit tizim mo'rt (oson shikastlanuvchi) joylashtirish oqimiga ega bo'lganligi sababli, hatto kichik mantiqiy tuzatishlar ham asosiy mahsulotni tez-tez ishdan chiqarar edi."
+    },
     "options": [
       "mo'rt, sinuvchan",
       "o'zgartirish kiritmoq",
@@ -195,6 +259,10 @@
     "id": 17,
     "word": "Adequate",
     "definition": "enough for what is needed",
+    "sentence": {
+      "en": "Before launching our application globally on production servers, we must ensure we have adequate cloud storage and bandwith capacity.",
+      "uz": "Ilovamizni ishlab chiqarish serverlarida global miqyosda ishga tushirishdan oldin, bizda yetarli bulutli xotira va tarmoq o'tkazuvchanligi mavjudligiga ishonch hosil qilishimiz kerak."
+    },
     "options": [
       "(yetarli, maqbul",
       "(tirikchilik, kun ko'rish)",
@@ -206,7 +274,11 @@
   {
     "id": 18,
     "word": "Contamination",
-    "definition": "the presence of harmful or unwanted substances",
+    "contamination": "the presence of harmful or unwanted substances",
+    "sentence": {
+      "en": "The environmental research revealed severe chemical contamination in the local river, threatening the surrounding agricultural yields.",
+      "uz": "Atrof-muhitni o'rganish tadqiqoti mahalliy daryoda og'ir kimyoviy ifloslanishni aniqladi, bu esa atrofdagi qishloq xo'jaligi hosildorligiga tahdid solmoqda."
+    },
     "options": [
       "ifloslanish, zaharlanish",
       "hosil, mahsulot miqdori",
@@ -219,6 +291,10 @@
     "id": 19,
     "word": "Brittle",
     "definition": "hard but easily snapped or broken",
+    "sentence": {
+      "en": "As certain plastics age under heavy exposure to sunlight, they become increasingly brittle and prone to fracturing under minimal pressure.",
+      "uz": "Ayrim plastmassa turlari quyosh nuri ostida qarigan sari, ular borgan sari mo'rt bo'lib qoladi va minimal bosim ostida ham sinishga moyil bo'ladi."
+    },
     "options": [
       "mo'rt, qattiq lekin oson sinuvchi",
       "tejamkor, arzon-garov",
@@ -231,6 +307,10 @@
     "id": 20,
     "word": "Soar",
     "definition": "to rise very quickly",
+    "sentence": {
+      "en": "Shares of the technology company are projected to soar once their breakthrough automated testing model is introduced at the annual convention.",
+      "uz": "Texnologiya kompaniyasining aksiyalari yillik anjumanda o'zlarining inqilobiy avtomatlashtirilgan test modeli taqdim etilgandan so'ng, keskin ko'tarilishi (oshishi) rejalashtirilmoqda."
+    },
     "options": [
       "(keskin oshmoq, yuqoriga ko'tarilmoq)",
       "o'rinbosar, almashtiruvchi",
@@ -243,6 +323,10 @@
     "id": 21,
     "word": "Yield",
     "definition": "the amount produced from crops or effort",
+    "sentence": {
+      "en": "Implementing clean code paradigms might require more initial planning, but it will ultimately yield a far more stable and scalable product.",
+      "uz": "Toza kod paradigmalarini joriy etish dastlab ko'proq rejalashtirishni talab qilishi mumkin, ammo yakuniy natijada u ancha barqaror va kengayuvchan mahsulot (hosil/natija) beradi."
+    },
     "options": [
       "hosil, mahsulot miqdori",
       "asosiy mahsulot",
@@ -255,6 +339,10 @@
     "id": 22,
     "word": "dread",
     "definition": "to feel very worried or afraid about something that is going to happen.",
+    "sentence": {
+      "en": "Many students genuinely dread the rigorous final examination, spending endless nights reviewing complex analytical frameworks.",
+      "uz": "Ko'pgina talabalar qat'iy yakuniy imtihondan chin dildan qo'rqishadi (xavotirga tushishadi) va murakkab tahliliy tuzilmalarni ko'rib chiqish uchun cheksiz tunlarni sarflashadi."
+    },
     "options": [
       "Qo’rqinch",
       "Hukm qilish",
@@ -267,6 +355,10 @@
     "id": 23,
     "word": "conviction",
     "definition": "a strong belief or opinion that someone is certain is true.",
+    "sentence": {
+      "en": "She argued with absolute conviction that implementing high-performance microservices was the only viable strategy for their tech startup.",
+      "uz": "U o'zlarining texnologik startaplari uchun yuqori samarali mikroxizmatlarni joriy etish yagona hayotiy strategiya ekanligini mutloq ishonch (hukm/qat'iyat) bilan ta'kidladi."
+    },
     "options": [
       "Hukm qilish",
       "Talab qilmoq, undamoq",
@@ -279,6 +371,10 @@
     "id": 24,
     "word": "urge",
     "definition": "to strongly encourage someone to do something",
+    "sentence": {
+      "en": "Experienced senior developers constantly urge newcomers to master fundamental concurrency patterns before jumping into advanced software frameworks.",
+      "uz": "Tajribali katta dasturchilar yangi kelganlarni murakkab dasturiy freymvorklarga sho'ng'ishdan oldin fundamental parallel bajarilish (concurrency) modellarini o'zlashtirishga astoydil undaydilar (talab qiladilar)."
+    },
     "options": [
       "Talab qilmoq, undamoq",
       "Tavsiya qilish, retsept yozib berish",
@@ -291,6 +387,10 @@
     "id": 25,
     "word": "prescribe",
     "definition": "to officially say what should be done; to recommend something as a treatment or solution",
+    "sentence": {
+      "en": "While medical professionals prescribe specific drugs for physical ailments, system engineers prescribe architectural standards to fix bottlenecks.",
+      "uz": "Tibbiyot xodimlari jismoniy kasalliklar uchun maxsus dori-darmonlarni tavsiya qilsalar (retsept yozsalar), tizim muhandislari tiqilinchlarni (bottlenecks) bartaraf etish uchun arxitektura standartlarini belgilaydilar."
+    },
     "options": [
       "Tavsiya qilish, retsept yozib berish",
       "Uyqusiz",
@@ -303,6 +403,10 @@
     "id": 26,
     "word": "sleep-deprived",
     "definition": "not having enough sleep",
+    "sentence": {
+      "en": "Working students frequently find themselves sleep-deprived as they struggle to balance professional responsibilities with intensive academic goals.",
+      "uz": "Ishlaydigan talabalar professional majburiyatlarni intensiv akademik maqsadlar bilan muvozanatlashga harakat qilar ekanlar, ko'pincha o'zlarini uyqusiz holatda ko'radilar."
+    },
     "options": [
       "Uyqusiz",
       "Farmon bermoq, jar solmoq",
@@ -315,6 +419,10 @@
     "id": 27,
     "word": "proclaim",
     "definition": "to announce something publicly or strongly",
+    "sentence": {
+      "en": "The government intends to proclaim a new digital infrastructure policy that directly supports local open-source technology initiatives.",
+      "uz": "Hukumat mahalliy ochiq kodli texnologiya tashabbuslarini to'g'ridan-to'g'ri qo'llab-quvvatlaydigan yangi raqamli infratuzilma siyosatini e'lon qilishni (jar solishni) niyat qilmoqda."
+    },
     "options": [
       "Farmon bermoq, jar solmoq",
       "Bildirib o’tmoq, e’tiborni qaratmoq",
@@ -327,6 +435,10 @@
     "id": 28,
     "word": "point out",
     "definition": "to draw attention to something or explain something important",
+    "sentence": {
+      "en": "During the rigorous code review, the team leader took time to point out several critical concurrency issues within the background tasks.",
+      "uz": "Kodni qat'iy ko'rib chiqish (code review) davomida jamoa yetakchisi fondagi vazifalar ichidagi bir nechta muhim parallel bajarilish xatolariga e'tibor qaratishga (bildirib o'tishga) vaqt ajratdi."
+    },
     "options": [
       "Bildirib o’tmoq, e’tiborni qaratmoq",
       "Nozik",
@@ -339,6 +451,10 @@
     "id": 29,
     "word": "susceptible",
     "definition": "likely to be affected by something, especially something negative",
+    "sentence": {
+      "en": "Without a robust Web Application Firewall, the entire software cloud network remains highly susceptible to malicious cyber attacks.",
+      "uz": "Mustahkam Veb Ilovalar Devori (WAF) bo'lmasa, butun dasturiy bulut tarmog'i zararli kiberhujumlarga juda nozik (zaif) bo'lib qoladi."
+    },
     "options": [
       "Nozik",
       "Harakatsiz",
@@ -351,6 +467,10 @@
     "id": 30,
     "word": "sedentary",
     "definition": "involving little physical activity",
+    "sentence": {
+      "en": "Leading a sedentary lifestyle behind an office desk for years can significantly elevate long-term health risks.",
+      "uz": "Yillar davomida ofis stoli ortida harakatsiz turmush tarzini olib borish uzoq muddatli sog'liq uchun xavflarni sezilarli darajada oshirishi mumkin."
+    },
     "options": [
       "Harakatsiz",
       "Yetarlicha",
@@ -363,6 +483,10 @@
     "id": 31,
     "word": "adequately",
     "definition": "in a sufficient or satisfactory way",
+    "sentence": {
+      "en": "We cannot deploy the SaaS application until the deployment pipeline is adequately secured and error logs are fully monitored.",
+      "uz": "Joylashtirish oqimi (pipeline) yetarlicha xavfsiz holatga keltirilmaguncha va xatoliklar jurnali to'liq nazorat qilinmaguncha, biz SaaS ilovasini ishga tushira olmaymiz."
+    },
     "options": [
       "Yetarlicha",
       "Yodda tuting",
@@ -375,6 +499,10 @@
     "id": 32,
     "word": "bear in mind",
     "definition": "to remember or consider something important",
+    "sentence": {
+      "en": "When designing a multi-tenant application database, you must bear in mind the qat'iy isolation and privacy configurations of each user.",
+      "uz": "Ko'p ijarachili (multi-tenant) ilova ma'lumotlar bazasini loyihalashda siz har bir foydalanuvchining qat'iy ajratilganligi va maxfiylik sozlamalarini yodda tutishingiz kerak."
+    },
     "options": [
       "Yodda tuting",
       "O’rganishga moil",
@@ -387,6 +515,10 @@
     "id": 33,
     "word": "cognitive",
     "definition": "related to thinking, learning, and understanding",
+    "sentence": {
+      "en": "Studies demonstrate that continuous intensive technical deep-dives significantly stimulate and strengthen advanced cognitive patterns.",
+      "uz": "Tadqiqotlar shuni ko'rsatadiki, doimiy intensiv texnik izlanishlar ilg'or fikrlash va o'rganishga moillik (kognitiv) modellarini sezilarli darajada rag'batlantiradi va mustahkamlaydi."
+    },
     "options": [
       "O’rganishga moil",
       "Oxir oqibat",
@@ -399,6 +531,10 @@
     "id": 34,
     "word": "eventually",
     "definition": "after a long time or after many changes",
+    "sentence": {
+      "en": "Although the debugging process took several exhausting hours, the software architecture team eventually stabilized the microservices network.",
+      "uz": "Garchi xatoliklarni tuzatish jarayoni bir necha charchatadigan soatlarni olgan bo'lsa-da, dasturiy ta'minot arxitekturasi jamoasi oxir-oqibat mikroxizmatlar tarmog'ini barqarorlashtirdi."
+    },
     "options": [
       "Oxir oqibat",
       "sharmandali",
@@ -408,9 +544,13 @@
     "correct_option_index": 0
   },
   {
-    "id": 35,
+    "id": 14,
     "word": "embarrassing",
     "definition": "causing a feeling of self-consciousness, shame, or awkwardness",
+    "sentence": {
+      "en": "It can feel highly embarrassing to experience a complete application crash during a live production demonstration for corporate clients.",
+      "uz": "Korporativ mijozlar uchun jonli namoyish paytida ilovaning to'liq ishdan chiqishiga duch kelish juda sharmandali tuyulishi mumkin."
+    },
     "options": [
       "sharmandali",
       "marhumlik",
@@ -423,6 +563,10 @@
     "id": 36,
     "word": "deprivation",
     "definition": "the damaging lack of material benefits considered to be basic necessities",
+    "sentence": {
+      "en": "Severe sleep deprivation negatively impairs an engineer's performance, leading to structural logical oversights during complex systems integration.",
+      "uz": "Og'ir uyqu yetishmasligi (mahrumlik) muhandisning ish faoliyatiga salbiy ta'sir ko'rsatadi, bu esa murakkab tizimlarni integratsiya qilish paytida tarkibiy mantiqiy xatoliklarga olib keladi."
+    },
     "options": [
       "marhumlik",
       "Ochig’ini aytganda",
@@ -435,6 +579,10 @@
     "id": 37,
     "word": "To be specific",
     "definition": "clearly defined or identified; used to give more precise details",
+    "sentence": {
+      "en": "To be specific, the system requirements dictate that our inventory database must handle data synchronization even when completely offline.",
+      "uz": "Ochig'ini aytganda (aniqroq qilib aytganda), tizim talablari bizning inventarizatsiya ma'lumotlar bazamiz butunlay oflayn rejimda bo'lganda ham ma'lumotlarni sinxronlashtirishni amalga oshirishi shartligini belgilaydi."
+    },
     "options": [
       "Ochig’ini aytganda",
       "Maruza qilish , nutq so’zlash",
@@ -447,6 +595,10 @@
     "id": 38,
     "word": "Giving a talk",
     "definition": "speaking publicly to an audience to share information, ideas, or experiences",
+    "sentence": {
+      "en": "Giving a talk on clean backend principles at an international conference is an exceptional way to build a professional reputation.",
+      "uz": "Xalqaro konferensiyada toza backend prinsiplari haqida ma'ruza qilish (nutq so'zlash) — professional obro'ni shakllantirishning ajoyib usulidir."
+    },
     "options": [
       "Maruza qilish , nutq so’zlash",
       "O’zini shunday xolatda ko’radi",
@@ -459,6 +611,10 @@
     "id": 39,
     "word": "He will find himself",
     "definition": "he will discover his true identity, passions, or purpose in life",
+    "sentence": {
+      "en": "If he continues to push boundaries in system design, he will find himself leading elite international tech teams in the near future.",
+      "uz": "Agar u tizim dizaynida chegaralarni kengaytirishda davom etsa, yaqin kelajakda u o'zini elita xalqaro texnologik jamoalarni boshqarayotgan holatda ko'radi."
+    },
     "options": [
       "O’zini shunday xolatda ko’radi",
       "[yo'lovchilar va ekipaj] har ikkalasi uchun birdek foydali",
@@ -471,10 +627,14 @@
     "id": 40,
     "word": "For the benefit of... alike",
     "definition": "equally helpful/useful for both parties specified",
+    "sentence": {
+      "en": "The clean documentation was deliberately curated for the benefit of junior developers and structural auditors alike.",
+      "uz": "Toza hujjatlashtirish (documentation) kichik dasturchilar va tizim auditorlari — har ikkalasi uchun birdek foydali bo'lishi maqsadida ataylab tayyorlangan."
+    },
     "options": [
       "[yo'lovchilar va ekipaj] har ikkalasi uchun birdek foydali",
       "Hiralashmoq",
-      "Uyqusiz",
+      "PostgreSQL configuration",
       "O’rganishga moil"
     ],
     "correct_option_index": 0
@@ -483,6 +643,10 @@
     "id": 41,
     "word": "blur",
     "definition": "to become unclear, distinct, or less visible",
+    "sentence": {
+      "en": "When hours of intense code writing accumulate without breaks, the lines on the monitor begin to blur into a single chaotic block.",
+      "uz": "Tanaffuslarsiz soatlab intensiv kod yozish to'planib qolganda, monitordagi qatorlar bitta tartibsiz blok bo'lib hiralashishni boshlaydi."
+    },
     "options": [
       "Hiralashmoq",
       "Qo’rqinch",

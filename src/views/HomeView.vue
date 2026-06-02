@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted, watch } from 'vue'
-import type { Question, QuizQuestion, ShuffledOption } from '@/types/quiz'
+import type { Question, QuizQuestion, ShuffledOption, WrongAnswer } from '@/types/quiz'
 
 // Mavjud kunlik JSON fayllar ro'yxati
 const availableDays = ref<string[]>(['june_1', 'june_2'])
@@ -16,6 +16,7 @@ const quizFinished = ref<boolean>(false)
 const isLoading = ref<boolean>(false)
 const errorMessage = ref<string>('')
 const showDefinition = ref<boolean>(false)
+const wrongAnswers = ref<WrongAnswer[]>([])
 
 /**
  * Fisher-Yates Shuffle algoritmi yordamida variantlarni aralashtirish.
@@ -92,6 +93,7 @@ const resetQuiz = (): void => {
   score.value = 0
   quizFinished.value = false
   showDefinition.value = false
+  wrongAnswers.value = []
 }
 
 /**
@@ -104,6 +106,23 @@ const checkAnswer = (index: number, isCorrect: boolean): void => {
 
   if (isCorrect) {
     score.value++
+  } else {
+    // Xato savolni saqlab qolish
+    const currentQuestion = quizQuestions.value[currentQuestionIndex.value]
+    if (!currentQuestion) return
+
+    const correctOption = currentQuestion.shuffledOptions.find(opt => opt.isCorrect)
+    const userSelectedOption = currentQuestion.shuffledOptions[index]
+
+    if (userSelectedOption) {
+      wrongAnswers.value.push({
+        word: currentQuestion.word,
+        definition: currentQuestion.definition,
+        sentence: currentQuestion.sentence,
+        correctAnswer: correctOption?.text || '',
+        userAnswer: userSelectedOption.text
+      })
+    }
   }
 }
 
@@ -138,6 +157,7 @@ onMounted((): void => {
     <div class="flex flex-col sm:flex-row justify-between items-center border-b pb-4 mb-6 gap-4">
       <div>
         <h1 class="text-2xl font-bold text-gray-800">Vocabulary Quiz</h1>
+
       </div>
 
       <div class="flex items-center gap-2">
@@ -173,9 +193,47 @@ onMounted((): void => {
     <div v-else-if="quizFinished" class="text-center py-8">
       <div class="text-6xl mb-4">🎉</div>
       <h2 class="text-2xl font-bold text-gray-800 mb-2">Test Yakunlandi!</h2>
-      <p class="text-lg text-gray-600 mb-6">
+      <p class="text-lg text-gray-600 mb-8">
         Sizning natijangiz: <span class="font-bold text-blue-600">{{ score }}</span> / {{ quizQuestions.length }}
       </p>
+
+      <!-- Xato savollar bo'limi -->
+      <div v-if="wrongAnswers.length > 0" class="mb-8 p-5 bg-red-50 rounded-xl border-2 border-red-200">
+        <h3 class="text-xl font-bold text-red-700 mb-4 flex items-center gap-2">
+          <span>❌ Xato Javoblar ({{ wrongAnswers.length }})</span>
+        </h3>
+        <div class="space-y-4">
+          <div v-for="(wrong, idx) in wrongAnswers" :key="idx"
+            class="p-4 bg-white rounded-lg border border-red-100 text-left">
+            <h4 class="text-lg font-semibold text-gray-800 mb-2">"{{ wrong.word }}"</h4>
+            <p class="text-sm text-gray-600 mb-3 italic">{{ wrong.definition }}</p>
+
+            <!-- Ingliz misol -->
+            <div class="p-3 bg-green-50 rounded mb-3 border border-green-200">
+              <p class="text-xs font-medium text-green-700 mb-1">📖 Misol (English):</p>
+              <p class="text-sm text-green-800 italic">{{ wrong.sentence.en }}</p>
+            </div>
+
+            <!-- O'zbek misol -->
+            <div class="p-3 bg-orange-50 rounded mb-3 border border-orange-200">
+              <p class="text-xs font-medium text-orange-700 mb-1">📖 Misol (O'zbek):</p>
+              <p class="text-sm text-orange-800">{{ wrong.sentence.uz }}</p>
+            </div>
+
+            <div class="space-y-2 pt-3 border-t border-red-100">
+              <div class="text-sm">
+                <span class="font-medium text-red-600">Sizning javobingiz:</span>
+                <p class="text-red-700">❌ {{ wrong.userAnswer }}</p>
+              </div>
+              <div class="text-sm">
+                <span class="font-medium text-green-600">To'g'ri javob:</span>
+                <p class="text-green-700">✓ {{ wrong.correctAnswer }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <button @click="resetQuiz"
         class="bg-blue-600 hover:bg-blue-700 text-white font-medium py-2.5 px-6 rounded-lg transition">
         Qayta boshlash
@@ -203,10 +261,30 @@ onMounted((): void => {
           <span v-else>👁️‍🗨️ Ta'rifni yashirish</span>
         </button>
         <transition name="fade">
-          <p v-if="showDefinition"
-            class="text-gray-700 text-base sm:text-lg mt-4 p-3 bg-white rounded-lg border border-blue-200">
-            {{ quizQuestions[currentQuestionIndex]?.definition }}
-          </p>
+          <div v-if="showDefinition" class="mt-4 space-y-4">
+            <!-- Definition -->
+            <div class="p-3 bg-white rounded-lg border border-blue-200">
+              <p class="text-gray-700 text-base sm:text-lg font-semibold text-blue-600 mb-1">Ta'rif:</p>
+              <p class="text-gray-700 text-base sm:text-lg">{{ quizQuestions[currentQuestionIndex]?.definition }}</p>
+            </div>
+
+            <!-- English Sentence -->
+            <div class="p-4 bg-white rounded-lg border border-green-200">
+              <p class="text-gray-700 font-semibold text-green-600 mb-2 flex items-center gap-2">
+                <span>🇬🇧 English:</span>
+              </p>
+              <p class="text-gray-700 text-base sm:text-lg italic">{{ quizQuestions[currentQuestionIndex]?.sentence?.en
+              }}</p>
+            </div>
+
+            <!-- Uzbek Sentence -->
+            <div class="p-4 bg-white rounded-lg border border-orange-200">
+              <p class="text-gray-700 font-semibold text-orange-600 mb-2 flex items-center gap-2">
+                <span>🇺🇿 O'zbek:</span>
+              </p>
+              <p class="text-gray-700 text-base sm:text-lg">{{ quizQuestions[currentQuestionIndex]?.sentence?.uz }}</p>
+            </div>
+          </div>
         </transition>
       </div>
 
