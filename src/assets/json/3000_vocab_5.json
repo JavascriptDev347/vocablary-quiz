@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "word": "thought",
+    "definition": "an idea or opinion produced by thinking, or occurring suddenly in the mind",
+    "sentence": {
+      "en": "The prevailing thought among software architects is that decoupling monolithic structures significantly enhances system resilience.",
+      "uz": "Dasturiy ta'minot arxitektorlari orasida keng tarqalgan fikr shundan iboratki, monolit tuzilmalarni ajratish tizimning chidamliligini sezilarli darajada oshiradi."
+    },
+    "options": ["harakat", "fikr, o'y", "natija", "maqsad"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 2,
+    "word": "through",
+    "definition": "moving in one side and out of the other side of an opening, channel, or location",
+    "sentence": {
+      "en": "Navigating through complex game-tree permutations requires sophisticated algorithms to evaluate optimal tactical decisions.",
+      "uz": "Murakkab o'yin-daraxti o'zgarishlari orqali harakatlanish maqbul taktik qarorlarni baholash uchun murakkab algoritmlarni talab qiladi."
+    },
+    "options": ["orqali, ichidan", "ustidan", "yonidan", "oldidan"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 3,
+    "word": "time",
+    "definition": "the indefinite continued progress of existence and events in the past, present, and future",
+    "sentence": {
+      "en": "Optimizing memory allocation in data-intensive applications dramatically reduces the overall processing time for large datasets.",
+      "uz": "Ma'lumotlarni ko'p talab qiluvchi ilovalarda xotira taqsimotini optimallashtirish katta ma'lumotlar to'plamlarini qayta ishlashning umumiy vaqtini keskin kamaytiradi."
+    },
+    "options": ["joy", "holat", "vaqt, payt", "usul"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 4,
+    "word": "to",
+    "definition": "expressing motion in the direction of a particular location",
+    "sentence": {
+      "en": "Migrating to a cloud-based infrastructure allows enterprises to scale their operations globally without prohibitive upfront costs.",
+      "uz": "Bulutga asoslangan infratuzilmaga o'tish korxonalarga dastlabki katta xarajatlarsiz o'z faoliyatlarini global miqyosda kengaytirish imkonini beradi."
+    },
+    "options": ["-dan", "-ga, -qarab", "-da", "bilan"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 5,
+    "word": "together",
+    "definition": "with or in proximity to another person or people",
+    "sentence": {
+      "en": "When cross-functional teams work together seamlessly, they can expedite the delivery of innovative technological solutions.",
+      "uz": "Turli soha mutaxassislaridan iborat jamoalar birgalikda muammosiz ishlaganda, ular innovatsion texnologik yechimlarni yetkazib berishni tezlashtirishlari mumkin."
+    },
+    "options": ["alohida", "yolg'iz", "birgalikda", "ketma-ket"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 6,
+    "word": "too",
+    "definition": "to a higher degree than is desirable, permissible, or possible; excessively",
+    "sentence": {
+      "en": "Relying too heavily on outdated automation scripts can obscure critical underlying vulnerabilities within the application.",
+      "uz": "Eskirgan avtomatlashtirish skriptlariga o'ta qattiq tayanish ilova ichidagi muhim asosiy zaifliklarni yashirishi mumkin."
+    },
+    "options": ["kam", "biroz", "juda, shuningdek", "hech"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 7,
+    "word": "two",
+    "definition": "equivalent to the sum of one and one; one less than three",
+    "sentence": {
+      "en": "The deployment pipeline consists of two mandatory security gateways to prevent unauthorized code modifications.",
+      "uz": "Joylashtirish (deployment) quvuri ruxsatsiz kod o'zgarishlarining oldini olish uchun ikkita majburiy xavfsizlik shlyuzidan iborat."
+    },
+    "options": ["bir", "ikki", "uch", "to'rt"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 8,
+    "word": "under",
+    "definition": "extending or directly below something",
+    "sentence": {
+      "en": "Systems operating under extreme concurrency loads must implement robust mutex mechanisms to avert catastrophic race conditions.",
+      "uz": "Ekstremal parallel yuklanishlar ostida ishlaydigan tizimlar halokatli poyga holatlarini (race conditions) oldini olish uchun kuchli muteks mexanizmlarini joriy etishi shart."
+    },
+    "options": ["tepasida", "ostida, tagida", "yonida", "orqasida"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 9,
+    "word": "up",
+    "definition": "towards a higher place or position",
+    "sentence": {
+      "en": "Scaling up the server capacity became an unavoidable necessity as the user base of the e-learning platform expanded exponentially.",
+      "uz": "Elektron ta'lim platformasining foydalanuvchilar bazasi eksponensial o'sib borishi bilan server sig'imini oshirish (tepaga ko'tarish) muqarrar zaruratga aylandi."
+    },
+    "options": ["pastga", "tepaga", "ichkariga", "tashqariga"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 10,
+    "word": "us",
+    "definition": "used by a speaker to refer to himself or herself and one or more other people as the object of a verb or preposition",
+    "sentence": {
+      "en": "The comprehensive audit report provided us with actionable insights to remediate the inefficiencies in our continuous integration pipeline.",
+      "uz": "Keng qamrovli audit hisoboti bizga uzluksiz integratsiya quvurimizdagi samarasizliklarni bartaraf etish uchun amaliy tushunchalarni taqdim etdi."
+    },
+    "options": ["ularni", "bizni", "sizni", "meni"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 11,
+    "word": "use",
+    "definition": "take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result",
+    "sentence": {
+      "en": "Engineers increasingly use specialized diagnostic tools to monitor and mitigate excessive resource consumption in backend services.",
+      "uz": "Muhandislar backend xizmatlarida ortiqcha resurslar iste'molini kuzatish va kamaytirish uchun borgan sari ixtisoslashtirilgan diagnostika vositalaridan foydalanmoqdalar."
+    },
+    "options": ["tashlamoq", "yaratmoq", "foydalanmoq", "buzmoq"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 12,
+    "word": "very",
+    "definition": "used for emphasis",
+    "sentence": {
+      "en": "The threshold for accepting a new authentication protocol must be set very high to preclude any potential security breaches.",
+      "uz": "Har qanday potentsial xavfsizlik buzilishlarining oldini olish uchun yangi autentifikatsiya protokolini qabul qilish chegarasi juda yuqori belgilanishi kerak."
+    },
+    "options": ["biroz", "kam", "juda, o'ta", "hech"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 13,
+    "word": "water",
+    "definition": "a transparent, tasteless, odorless, and nearly colorless chemical substance",
+    "sentence": {
+      "en": "Ensuring an uninterrupted supply of clean water is fundamentally critical for maintaining robust public health in sprawling metropolitan areas.",
+      "uz": "Toza suvning uzluksiz ta'minotini kafolatlash kengayib borayotgan metropoliya hududlarida mustahkam jamoat salomatligini saqlash uchun asosan muhimdir."
+    },
+    "options": ["tuproq", "havo", "olov", "suv"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 14,
+    "word": "way",
+    "definition": "a method, style, or manner of doing something",
+    "sentence": {
+      "en": "Transitioning to a functional programming paradigm offers a more predictable way to handle complex state mutations.",
+      "uz": "Funktsional dasturlash paradigmasiga o'tish murakkab holat mutatsiyalarini (state mutations) boshqarishning ko'proq bashorat qilinadigan yo'lini taklif etadi."
+    },
+    "options": ["vaqt", "yo'l, usul", "joy", "sabab"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 15,
+    "word": "we",
+    "definition": "used by a speaker to refer to himself or herself and one or more other people considered together",
+    "sentence": {
+      "en": "Unless we implement proactive measures to balance the server loads, network latency will inevitably degrade the user experience.",
+      "uz": "Agar biz server yuklanishlarini muvozanatlash uchun faol choralarni ko'rmasak, tarmoq kechikishi muqarrar ravishda foydalanuvchi tajribasini yomonlashtiradi."
+    },
+    "options": ["ular", "siz", "biz", "men"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 16,
+    "word": "well",
+    "definition": "in a good or satisfactory way",
+    "sentence": {
+      "en": "A well-architected asynchronous backend ensures that high volumes of incoming traffic do not bottleneck the central database.",
+      "uz": "Yaxshi tuzilgan asinxron backend kiruvchi trafikning yuqori hajmi markaziy ma'lumotlar bazasida tirbandlik (bottleneck) yaratmasligini ta'minlaydi."
+    },
+    "options": ["yomon", "qiyin", "yaxshi", "oson"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 17,
+    "word": "went",
+    "definition": "past tense of go",
+    "sentence": {
+      "en": "After thorough debugging, the development team finally went ahead with integrating the new payment gateway into the live environment.",
+      "uz": "Puxta nosozliklarni tuzatgandan so'ng, dasturchilar jamoasi nihoyat yangi to'lov shlyuzini jonli muhitga integratsiya qilishga kirishdilar (bordilar)."
+    },
+    "options": ["keldi", "bordi, ketdi", "qoldi", "qaytdi"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 18,
+    "word": "were",
+    "definition": "second person singular past, plural past, and past subjunctive of be",
+    "sentence": {
+      "en": "The automated test cases were meticulously designed to comprehensively cover every conceivable edge case within the mobile application.",
+      "uz": "Avtomatlashtirilgan test holatlari mobil ilovadagi har bir mumkin bo'lgan chekka holatni (edge case) to'liq qamrab olish uchun sinchkovlik bilan ishlab chiqilgan edi."
+    },
+    "options": ["edi, edilar (ko'plik)", "edi (birlik)", "bo'ladi", "bo'lmoqda"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 19,
+    "word": "what",
+    "definition": "asking for information specifying something",
+    "sentence": {
+      "en": "Determining exactly what caused the spontaneous system reboot requires a meticulous examination of the kernel logs.",
+      "uz": "Tizimning to'satdan qayta ishga tushishiga aynan nima sabab bo'lganini aniqlash yadro (kernel) jurnallarini sinchkovlik bilan tekshirishni talab qiladi."
+    },
+    "options": ["qachon", "nega", "qanday", "nima"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 20,
+    "word": "when",
+    "definition": "at what time",
+    "sentence": {
+      "en": "Data consistency must be rigorously enforced, especially when multiple concurrent processes attempt to modify the same database entry.",
+      "uz": "Ma'lumotlar izchilligi, ayniqsa, bir nechta parallel jarayonlar bir xil ma'lumotlar bazasi yozuvini o'zgartirishga harakat qilganda, qat'iy ta'minlanishi shart."
+    },
+    "options": ["qayerda", "nega", "qachon, -ganda", "kim"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 21,
+    "word": "where",
+    "definition": "in or to what place or position",
+    "sentence": {
+      "en": "Identifying environments where network bandwidth is severely constrained is crucial for optimizing media delivery protocols.",
+      "uz": "Tarmoq o'tkazuvchanligi keskin cheklangan muhitlarni (qayerda ekanligini) aniqlash media yetkazib berish protokollarini optimallashtirish uchun juda muhimdir."
+    },
+    "options": ["qachon", "qanday", "qayerda", "nima"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 22,
+    "word": "which",
+    "definition": "asking for information specifying one or more people or things from a definite set",
+    "sentence": {
+      "en": "The architectural committee must decide which programming paradigm best accommodates the long-term scalability requirements of the project.",
+      "uz": "Arxitektura qo'mitasi loyihaning uzoq muddatli miqyosiylik talablariga qaysi dasturlash paradigmasi eng mos kelishini hal qilishi kerak."
+    },
+    "options": ["nima", "qaysi", "qanday", "qachon"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 23,
+    "word": "while",
+    "definition": "during the time that; at the same time as",
+    "sentence": {
+      "en": "While implementing a microservices architecture inherently provides flexibility, it simultaneously introduces substantial operational overhead.",
+      "uz": "Mikroservislar arxitekturasini amalga oshirish tabiiy ravishda moslashuvchanlikni ta'minlasa-da (ta'minlayotgan bir vaqtda), u bir vaqtning o'zida katta operatsion qo'shimcha yukni keltirib chiqaradi."
+    },
+    "options": ["vaqt, garchi, -da", "chunki", "shuning uchun", "lekin"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 24,
+    "word": "who",
+    "definition": "what or which person or people",
+    "sentence": {
+      "en": "Engineers who possess a profound understanding of concurrency management are highly sought after in the modern tech industry.",
+      "uz": "Parallelizm boshqaruvini chuqur tushunadigan (kimki) muhandislar zamonaviy texnologiya sohasida yuqori talabga ega."
+    },
+    "options": ["nima", "qayerda", "kim", "qachon"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 25,
+    "word": "why",
+    "definition": "for what reason or purpose",
+    "sentence": {
+      "en": "Comprehending precisely why a specific algorithmic approach failed under load is essential for preventing future system degradation.",
+      "uz": "Nima uchun (nega) o'ziga xos algoritmik yondashuv yuklama ostida muvaffaqiyatsizlikka uchraganini aniq tushunish kelajakda tizim degradatsiyasini oldini olish uchun zarur."
+    },
+    "options": ["nima", "qanday", "qayerda", "nega, nima uchun"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 26,
+    "word": "will",
+    "definition": "expressing the future tense",
+    "sentence": {
+      "en": "Failure to adequately address technical debt early on will undoubtedly lead to insurmountable maintenance challenges in subsequent development phases.",
+      "uz": "Texnik qarzni erta bosqichda yetarlicha hal qilmaslik shubhasiz keyingi rivojlanish bosqichlarida yengib bo'lmaydigan texnik xizmat ko'rsatish muammolariga olib keladi (-ajak)."
+    },
+    "options": ["qildi (o'tgan zamon)", "-moqchi (maqsad)", "-ajak, -adi (kelasi zamon)", "kerak"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 27,
+    "word": "with",
+    "definition": "accompanied by (another person or thing)",
+    "sentence": {
+      "en": "Coupling a reactive frontend with a highly robust and concurrent backend produces an exceptionally smooth user interface.",
+      "uz": "Reaktiv frontendni o'ta mustahkam va parallel ishlovchi backend bilan birlashtirish favqulodda silliq foydalanuvchi interfeysini yaratadi."
+    },
+    "options": ["siz", "orqali", "uchun", "bilan"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 28,
+    "word": "word",
+    "definition": "a single distinct meaningful element of speech or writing",
+    "sentence": {
+      "en": "In academic writing, ensuring that every word contributes meaningfully to the overarching argument is a hallmark of sophisticated discourse.",
+      "uz": "Akademik yozishda, har bir so'zning umumiy dalilga mazmunli hissa qo'shishini ta'minlash murakkab nutqning o'ziga xos belgisidir."
+    },
+    "options": ["harf", "so'z", "gap", "matn"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 29,
+    "word": "work",
+    "definition": "activity involving mental or physical effort done in order to achieve a purpose or result",
+    "sentence": {
+      "en": "Pioneering new standards in mobile test automation requires relentless, innovative work and an acute attention to intricate details.",
+      "uz": "Mobil testlarni avtomatlashtirishda yangi standartlarni kashf etish tinimsiz, innovatsion ishni va murakkab detallarga e'tiborni talab qiladi."
+    },
+    "options": ["dam olish", "o'yin", "ish, mehnat", "uyqu"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 30,
+    "word": "animal",
+    "definition": "a living organism that feeds on organic matter, typically having specialized sense organs and nervous system",
+    "sentence": {
+      "en": "Preserving diverse animal habitats is fundamentally crucial for maintaining the delicate ecological balance of our fragile biosphere.",
+      "uz": "Turli xil hayvonlar yashash joylarini saqlab qolish bizning nozik biosferamizning nozik ekologik muvozanatini saqlash uchun juda muhimdir."
+    },
+    "options": ["o'simlik", "hayvon", "inson", "qush"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 31,
+    "word": "answer",
+    "definition": "a thing said, written, or done to deal with or as a reaction to a question, statement, or situation",
+    "sentence": {
+      "en": "Discovering a definitive answer to the intermittent database deadlock issue necessitated a deep dive into the transaction isolation levels.",
+      "uz": "Vaqti-vaqti bilan yuz beradigan ma'lumotlar bazasi tranzaksiyalar bloki (deadlock) muammosiga aniq javob topish tranzaksiyalarni izolyatsiya qilish darajalariga chuqur sho'ng'ishni talab qildi."
+    },
+    "options": ["savol", "javob", "muammo", "yechim"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 32,
+    "word": "base",
+    "definition": "the lowest part or edge of something, especially the part on which it rests or is supported",
+    "sentence": {
+      "en": "Establishing a solidly documented architectural base is a prerequisite before delegating complex features to junior software developers.",
+      "uz": "Murakkab funksiyalarni kichik dasturchilarga topshirishdan oldin mustahkam hujjatlashtirilgan arxitektura asosini o'rnatish dastlabki shartdir."
+    },
+    "options": ["uch, tepa", "o'rta", "asos, poydevor", "tomon"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 33,
+    "word": "bear",
+    "definition": "carry the weight of; support",
+    "sentence": {
+      "en": "A highly resilient infrastructure is designed to seamlessly bear the brunt of sudden, unprecedented spikes in concurrent user traffic.",
+      "uz": "Yuqori chidamli infratuzilma bir vaqtda foydalanuvchilar trafigining to'satdan, misli ko'rilmagan o'sishlarining asosiy zarbasini muammosiz ko'tarish (chidash) uchun mo'ljallangan."
+    },
+    "options": ["tushmoq", "ko'tarmoq, chidamoq, ayiq", "qochmoq", "yiqilmoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 34,
+    "word": "beauty",
+    "definition": "a combination of qualities, such as shape, color, or form, that pleases the aesthetic senses",
+    "sentence": {
+      "en": "Many mathematicians argue that there is an intrinsic beauty in a highly optimized, elegantly succinct algorithm.",
+      "uz": "Ko'pgina matematiklar yuqori darajada optimallashtirilgan, oqlangan tarzda qisqa bo'lgan algoritmda o'ziga xos go'zallik borligini ta'kidlaydilar."
+    },
+    "options": ["xunuklik", "kuch", "go'zallik", "tezlik"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 35,
+    "word": "bed",
+    "definition": "a piece of furniture for sleep or rest",
+    "sentence": {
+      "en": "The study suggests that utilizing screens immediately before going to bed drastically impairs the quality of restorative sleep.",
+      "uz": "Tadqiqot shuni ko'rsatadiki, yotishdan (to'shakka borishdan) oldin darhol ekranlardan foydalanish tiklovchi uyqu sifatini keskin yomonlashtiradi."
+    },
+    "options": ["stul", "stol", "to'shak, yotoq", "javon"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 36,
+    "word": "best",
+    "definition": "of the most excellent, effective, or desirable type or quality",
+    "sentence": {
+      "en": "Determining the absolute best deployment strategy requires carefully weighing the trade-offs between zero-downtime and resource expenditure.",
+      "uz": "Mutlaq eng yaxshi joylashtirish strategiyasini aniqlash nol to'xtab qolish (zero-downtime) va resurs xarajatlari o'rtasidagi kelishuvlarni diqqat bilan o'lchashni talab qiladi."
+    },
+    "options": ["eng yomon", "o'rtacha", "yaxshiroq", "eng yaxshi"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 37,
+    "word": "bird",
+    "definition": "a warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, and a beak",
+    "sentence": {
+      "en": "Observing the intricate mating rituals of a rare tropical bird provides invaluable data for evolutionary biologists.",
+      "uz": "Noyob tropik qushning murakkab juftlashish rituallarini kuzatish evolyutsion biologlar uchun bebaho ma'lumotlarni beradi."
+    },
+    "options": ["baliq", "hasharot", "qush", "sudraluvchi"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 38,
+    "word": "black",
+    "definition": "of the very darkest color owing to the absence of or complete absorption of light",
+    "sentence": {
+      "en": "The unexpected financial crisis acted as a black swan event, entirely disrupting previously stable global supply chains.",
+      "uz": "Kutilmagan moliyaviy inqiroz ilgari barqaror bo'lgan global ta'minot zanjirlarini butunlay buzadigan qora oqqush (kutilmagan halokatli) hodisasi sifatida harakat qildi."
+    },
+    "options": ["oq", "qizil", "qora", "yashil"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 39,
+    "word": "blue",
+    "definition": "of a color intermediate between green and violet, as of the sky or sea on a sunny day",
+    "sentence": {
+      "en": "Exposure to blue light emitted by electronic devices late at night significantly disrupts the body's natural circadian rhythm.",
+      "uz": "Kechasi elektron qurilmalar tomonidan chiqariladigan ko'k yorug'lik ta'sirida bo'lish tananing tabiiy sirkadiyalik ritmini sezilarli darajada buzadi."
+    },
+    "options": ["sariq", "ko'k, havorang", "qizil", "qora"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 40,
+    "word": "boat",
+    "definition": "a small vessel propelled on water by oars, sails, or an engine",
+    "sentence": {
+      "en": "The isolated island community heavily relies on a singular supply boat for importing essential medicinal and nutritional provisions.",
+      "uz": "Yakkalanib qolgan orol jamoasi zarur tibbiy va oziq-ovqat zaxiralarini import qilish uchun bitta ta'minot qayig'iga tayanadi."
+    },
+    "options": ["mashina", "samolyot", "poyezd", "qayiq, kema"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 41,
+    "word": "body",
+    "definition": "the physical structure of a person or an animal, including the bones, flesh, and organs",
+    "sentence": {
+      "en": "A vast, interconnected body of academic research unequivocally supports the correlation between regular physical exercise and cognitive longevity.",
+      "uz": "Keng va o'zaro bog'liq bo'lgan akademik tadqiqotlar tanasi (to'plami) muntazam jismoniy mashqlar va kognitiv uzoq umr ko'rish o'rtasidagi bog'liqlikni aniq qo'llab-quvvatlaydi."
+    },
+    "options": ["ruh", "tana, to'plam", "miya", "qalb"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 42,
+    "word": "book",
+    "definition": "a written or printed work consisting of pages glued or sewn together along one side and bound in covers",
+    "sentence": {
+      "en": "Publishing an authoritative book on designing data-intensive applications requires both profound theoretical knowledge and practical engineering experience.",
+      "uz": "Ma'lumotlarni ko'p talab qiluvchi ilovalarni loyihalash bo'yicha nufuzli kitob nashr etish chuqur nazariy bilim va amaliy muhandislik tajribasini talab qiladi."
+    },
+    "options": ["daftar", "qalam", "kitob", "qog'oz"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 43,
+    "word": "bottom",
+    "definition": "the lowest point or part of something",
+    "sentence": {
+      "en": "Thoroughly investigating the root cause of the system failure requires engineers to drill down to the very bottom of the error logs.",
+      "uz": "Tizim nosozligining asl sababini sinchkovlik bilan o'rganish muhandislardan xatolar jurnallarining eng tubiga (tagiga) tushishni talab qiladi."
+    },
+    "options": ["tepa, yuqori", "o'rta", "tag, tub, past", "tomon"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 44,
+    "word": "box",
+    "definition": "a container with a flat base and sides, typically square or rectangular and having a lid",
+    "sentence": {
+      "en": "Thinking outside the proverbial box is an indispensable skill for developers aiming to resolve unprecedented architectural bottlenecks.",
+      "uz": "Odatdagi qutidan tashqarida fikrlash (nostandart fikrlash) kutilmagan arxitektura tirbandliklarini hal qilishni maqsad qilgan dasturchilar uchun ajralmas mahoratdir."
+    },
+    "options": ["xalta", "quti, quticha", "shisha", "lagan"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 45,
+    "word": "boy",
+    "definition": "a male child or young man",
+    "sentence": {
+      "en": "Educational sociologists study how systemic disadvantages uniquely impact the academic trajectory of a young boy growing up in marginalized urban communities.",
+      "uz": "Ta'lim sotsiologlari tizimli kamchiliklar chekka shahar jamoalarida o'sayotgan yosh o'g'il bolaning akademik trayektoriyasiga qanday o'ziga xos ta'sir qilishini o'rganadilar."
+    },
+    "options": ["qiz", "o'g'il bola", "erkak", "qariya"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 46,
+    "word": "bring",
+    "definition": "take or go with (someone or something) to a place",
+    "sentence": {
+      "en": "Integrating advanced AI capabilities into existing management software can bring immense efficiency gains and actionable data analytics.",
+      "uz": "Mavjud boshqaruv dasturiy ta'minotiga ilg'or AI imkoniyatlarini integratsiya qilish katta samaradorlik yutuqlari va amaliy ma'lumotlar tahlilini keltirib chiqarishi mumkin."
+    },
+    "options": ["olib ketmoq", "qoldirmoq", "keltirmoq, olib kelmoq", "tashlamoq"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 47,
+    "word": "brother",
+    "definition": "a man or boy in relation to other sons and daughters of his parents",
+    "sentence": {
+      "en": "Maintaining strong familial bonds, such as checking in with a sibling or brother, can serve as a vital emotional anchor amidst high-stress corporate environments.",
+      "uz": "Yuqori stressli korporativ muhit sharoitida opa-singil yoki aka-uka bilan xabar olib turish kabi kuchli oilaviy rishtalarni saqlab qolish hayotiy muhim hissiy tayanch bo'lib xizmat qilishi mumkin."
+    },
+    "options": ["opa, singil", "aka, uka", "ota", "ona"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 48,
+    "word": "brown",
+    "definition": "of a color produced by mixing red, yellow, and blue, as of dark wood or rich soil",
+    "sentence": {
+      "en": "The transition to sustainable packaging has led many international fast-food chains to adopt unbleached, brown paper materials.",
+      "uz": "Barqaror qadoqlashga o'tish ko'plab xalqaro tez ovqatlanish tarmoqlarini oqartirilmagan, jigarrang qog'oz materiallarini qabul qilishga olib keldi."
+    },
+    "options": ["oq", "sariq", "jigarrang", "kulrang"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 49,
+    "word": "build",
+    "definition": "construct (something) by putting parts or material together",
+    "sentence": {
+      "en": "To successfully build a high-performance concurrent application, software engineers must possess a granular understanding of hardware limitations.",
+      "uz": "Yuqori samarali parallel dasturni muvaffaqiyatli qurish uchun dasturiy ta'minot muhandislari apparat cheklovlarini chuqur tushunishlari kerak."
+    },
+    "options": ["buzmoq", "qurmoq, barpo etmoq", "sotmoq", "yo'qotmoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 50,
+    "word": "burn",
+    "definition": "be destroyed, damaged, or injured by heat or fire",
+    "sentence": {
+      "en": "Consistently working overtime without adequate rest periods will inevitably cause highly skilled professionals to burn out prematurely.",
+      "uz": "Muntazam ravishda yetarli dam olish davrlarisiz ortiqcha vaqt ishlash muqarrar ravishda yuqori malakali mutaxassislarning muddatidan oldin kuyib ketishiga (ruhiy zo'riqishiga) olib keladi."
+    },
+    "options": ["muzlamoq", "o'smoq", "yonmoq, kuymoq", "cho'kmoq"],
+    "correct_option_index": 2
+  }
+]

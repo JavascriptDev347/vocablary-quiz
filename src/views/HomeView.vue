@@ -3,7 +3,7 @@ import { ref, onMounted, watch } from 'vue'
 import type { Question, QuizQuestion, ShuffledOption, WrongAnswer } from '@/types/quiz'
 
 // Mavjud kunlik JSON fayllar ro'yxati
-const availableDays = ref<string[]>(['june_1', 'june_2'])
+const availableDays = ref<string[]>(['june_1', '3000_vocab_1', '3000_vocab_2', '3000_vocab_3', '3000_vocab_4', '3000_vocab_5', '3000_vocab_common'])
 const selectedDay = ref<string>('june_1')
 
 const rawQuestions = ref<Question[]>([])
@@ -274,7 +274,7 @@ onMounted((): void => {
                 <span>🇬🇧 English:</span>
               </p>
               <p class="text-gray-700 text-base sm:text-lg italic">{{ quizQuestions[currentQuestionIndex]?.sentence?.en
-              }}</p>
+                }}</p>
             </div>
 
             <!-- Uzbek Sentence -->

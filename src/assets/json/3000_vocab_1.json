@@ -1,0 +1,337 @@
+[
+  {
+    "id": 1,
+    "word": "about",
+    "definition": "on the subject of; concerning",
+    "sentence": {
+      "en": "The documentary provides a comprehensive overview about the long-term effects of climate change on coastal infrastructure.",
+      "uz": "Hujjatli film iqlim o'zgarishining qirg'oq infratuzilmasiga uzoq muddatli ta'siri haqida keng qamrovli ma'lumot beradi."
+    },
+    "options": ["haqida, to'g'risida", "keyin, so'ng", "havo, muhit", "boshqa, o'zga"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 2,
+    "word": "after",
+    "definition": "in the time following an event or another period of time",
+    "sentence": {
+      "en": "After the successful deployment of the new software update, the engineering team monitored the system for any unexpected bugs.",
+      "uz": "Yangi dasturiy ta'minot yangilanishi muvaffaqiyatli o'rnatilgandan keyin, muhandislar jamoasi tizimni kutilmagan xatolar mavjudligiga kuzatishdi."
+    },
+    "options": ["yana, qayta", "barcha, hamma", "keyin, so'ng", "birga, yonida"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 3,
+    "word": "again",
+    "definition": "another time; once more",
+    "sentence": {
+      "en": "Despite the initial failure of the prototype, the determined researchers decided to run the complex simulation again.",
+      "uz": "Prototipning dastlabki muvaffaqiyatsizligiga qaramay, qat'iyatli tadqiqotchilar murakkab simulyatsiyani yana o'tkazishga qaror qilishdi."
+    },
+    "options": ["havo, bo'shliq", "yana, qayta", "haqida, atrofida", "boshqa, o'zgacha"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 4,
+    "word": "air",
+    "definition": "the invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen",
+    "sentence": {
+      "en": "The implementation of stringent industrial regulations significantly improved the overall air quality in the bustling metropolis.",
+      "uz": "Qat'iy sanoat qoidalarining joriy etilishi gavjum metropolda umumiy havo sifatini sezilarli darajada yaxshiladi."
+    },
+    "options": ["havo", "barcha, butun", "ham, shuningdek", "keyin, orqasidan"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 5,
+    "word": "all",
+    "definition": "the whole quantity or extent of a particular group or thing",
+    "sentence": {
+      "en": "The chief executive ensured that all regional managers were fully prepared for the upcoming corporate restructuring.",
+      "uz": "Bosh ijrochi direktor barcha mintaqaviy menejerlar bo'lajak korporativ qayta qurishga to'liq tayyor bo'lishlarini ta'minladi."
+    },
+    "options": ["boshqa, qandaydir", "atrofida, tevaragida", "yana, takroran", "barcha, hamma"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 6,
+    "word": "along",
+    "definition": "moving in a constant direction on a path or line",
+    "sentence": {
+      "en": "Local authorities have proposed constructing a new bicycle lane along the riverbank, which would significantly reduce traffic congestion in the city centre.",
+      "uz": "Mahalliy rasmiylar daryo qirg'og'i bo'ylab yangi velosiped yo'lagi qurishni taklif qilishdi, bu esa shahar markazidagi tirbandlikni sezilarli darajada kamaytiradi."
+    },
+    "options": ["bo'ylab, yoqalab", "qarshi, teskari", "ustida, tepasida", "ichida, orasida"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 7,
+    "word": "also",
+    "definition": "in addition; too",
+    "sentence": {
+      "en": "Not only does the new policy aim to improve employee well-being, but it also provides flexible working hours to boost overall productivity.",
+      "uz": "Yangi siyosat nafaqat xodimlarning farovonligini oshirishga qaratilgan, balki umumiy unumdorlikni oshirish uchun moslashuvchan ish soatlarini ham taqdim etadi."
+    },
+    "options": ["shuningdek, ham", "faqat, xolos", "garchi, qaramay", "yoki, yoxud"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 8,
+    "word": "an",
+    "definition": "the form of the indefinite article 'a' used before words beginning with a vowel sound",
+    "sentence": {
+      "en": "Acquiring an advanced degree in environmental science can open up numerous career opportunities in both the public and private sectors.",
+      "uz": "Atrof-muhit fani bo'yicha ilmiy darajaga ega bo'lish davlat va xususiy sektorlarda ko'plab martaba imkoniyatlarini ochishi mumkin."
+    },
+    "options": [
+      "bir (unli harfdan oldin)",
+      "har qanday, barcha",
+      "hech qanday, yo'q",
+      "aniq, o'sha"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 9,
+    "word": "and",
+    "definition": "used to connect words of the same part of speech, clauses, or sentences",
+    "sentence": {
+      "en": "The government must invest heavily in renewable energy sources and simultaneously phase out its reliance on fossil fuels to combat global warming.",
+      "uz": "Hukumat qayta tiklanadigan energiya manbalariga katta sarmoya kiritishi va ayni paytda global isishga qarshi kurashish uchun qazib olinadigan yoqilg'iga qaramlikni bosqichma-bosqich kamaytirishi kerak."
+    },
+    "options": ["lekin, biroq", "chunki, sababli", "va, hamda", "agar, mabodo"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 10,
+    "word": "another",
+    "definition": "used to refer to an additional person or thing of the same type",
+    "sentence": {
+      "en": "While some students prefer traditional classroom learning, another group argues that online education offers greater flexibility and personalized pacing.",
+      "uz": "Ba'zi talabalar an'anaviy sinf ta'limini afzal ko'rishsa, boshqa guruh onlayn ta'lim ko'proq moslashuvchanlik va shaxsiy sur'atni taklif qilishini ta'kidlaydi."
+    },
+    "options": ["xuddi shunday", "faqat bitta", "hech qaysi", "boshqa, yana bir"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 11,
+    "word": "any",
+    "definition": "used to refer to one or some of a thing or number of things, no matter how much or how many",
+    "sentence": {
+      "en": "The researchers failed to find any conclusive evidence linking the new medication to the reported side effects.",
+      "uz": "Tadqiqotchilar yangi dori vositasini bildirilgan nojo'ya ta'sirlar bilan bog'lovchi hech qanday ishonchli dalil topa olmadilar."
+    },
+    "options": ["hech qanday, har qanday", "barcha, hamma", "faqat bitta", "ba'zi, ayrim"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 12,
+    "word": "are",
+    "definition": "second person singular present and first, second, third person plural present of be",
+    "sentence": {
+      "en": "There are numerous underlying factors contributing to the recent economic downturn, including inflation and supply chain disruptions.",
+      "uz": "So'nggi iqtisodiy pasayishga hissa qo'shadigan ko'plab asosiy omillar, jumladan inflyatsiya va ta'minot zanjiridagi uzilishlar mavjud."
+    },
+    "options": ["bo'lmoq (ko'plik)", "qilmoq", "ketmoq", "kelmoq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 13,
+    "word": "around",
+    "definition": "located or situated on every side",
+    "sentence": {
+      "en": "The city council implemented new zoning laws around the historical district to preserve its unique architectural heritage.",
+      "uz": "Shahar kengashi tarixiy tuman atrofida uning noyob me'moriy merosini saqlab qolish uchun yangi hududlashtirish qonunlarini joriy qildi."
+    },
+    "options": ["uzoqda", "atrofida", "ichida", "yonida"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 14,
+    "word": "as",
+    "definition": "used in comparisons to refer to the extent or degree of something",
+    "sentence": {
+      "en": "The transition to renewable energy is not as straightforward as many policymakers initially anticipated.",
+      "uz": "Qayta tiklanadigan energiyaga o'tish ko'plab siyosatchilar dastlab kutganidek oddiy emas."
+    },
+    "options": ["kabi, sifatida", "uchun, sababli", "bilan, hamda", "lekin, biroq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 15,
+    "word": "at",
+    "definition": "expressing location or arrival in a particular place or position",
+    "sentence": {
+      "en": "The international summit aimed at mitigating climate change will be held in Geneva next month.",
+      "uz": "Iqlim o'zgarishini yumshatishga qaratilgan xalqaro sammit kelasi oy Jenevada bo'lib o'tadi."
+    },
+    "options": ["-da, -ga", "-dan", "bilan", "uchun"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 16,
+    "word": "away",
+    "definition": "to or at a distance from a particular place, person, or thing",
+    "sentence": {
+      "en": "The company decided to shift away from traditional marketing strategies and focus entirely on digital campaigns.",
+      "uz": "Kompaniya an'anaviy marketing strategiyalaridan uzoqlashishga va butunlay raqamli kampaniyalarga e'tibor qaratishga qaror qildi."
+    },
+    "options": ["uzoqqa, nariga", "yaqinga", "ichkariga", "tashqariga"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 17,
+    "word": "back",
+    "definition": "in, to, or towards an original place or condition",
+    "sentence": {
+      "en": "After years of extensive renovations, the museum has finally restored the ancient artifacts back to their original glory.",
+      "uz": "Ko'p yillik keng ko'lamli ta'mirlash ishlaridan so'ng, muzey nihoyat qadimiy artefaktlarni o'zining asl holatiga qaytardi."
+    },
+    "options": ["oldinga", "orqaga, qaytish", "tepaga", "pastga"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 18,
+    "word": "be",
+    "definition": "exist or occur",
+    "sentence": {
+      "en": "It is crucial that environmental sustainability be prioritized in all future urban development projects.",
+      "uz": "Barcha kelajakdagi shaharsozlik loyihalarida ekologik barqarorlikka ustuvor ahamiyat berilishi o'ta muhimdir."
+    },
+    "options": ["bo'lmoq", "qilmoq", "ko'rmoq", "yozmoq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 19,
+    "word": "because",
+    "definition": "for the reason that; since",
+    "sentence": {
+      "en": "The flight was severely delayed because of unprecedented weather conditions across the eastern seaboard.",
+      "uz": "Sharqiy qirg'oq bo'ylab misli ko'rilmagan ob-havo sharoitlari tufayli parvoz jiddiy ravishda kechiktirildi."
+    },
+    "options": ["shuning uchun", "chunki, sababli", "garchi", "yoki"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 20,
+    "word": "been",
+    "definition": "past participle of be",
+    "sentence": {
+      "en": "There has been a noticeable shift in consumer preferences towards ethically sourced and manufactured products.",
+      "uz": "Iste'molchilarning xohish-istaklarida axloqiy jihatdan olingan va ishlab chiqarilgan mahsulotlarga nisbatan sezilarli o'zgarishlar kuzatilmoqda."
+    },
+    "options": ["bo'lgan", "qilingan", "ko'rilgan", "olingan"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 21,
+    "word": "before",
+    "definition": "during the period of time preceding a particular event or time",
+    "sentence": {
+      "en": "Before implementing the new tax regulations, the government conducted a comprehensive socio-economic impact assessment.",
+      "uz": "Yangi soliq qoidalarini joriy etishdan oldin hukumat ijtimoiy-iqtisodiy ta'sirni har tomonlama baholashni o'tkazdi."
+    },
+    "options": ["keyin", "oldin", "davomida", "o'rniga"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 22,
+    "word": "below",
+    "definition": "at a lower level or layer than",
+    "sentence": {
+      "en": "The region's annual rainfall has dropped significantly below the historical average, leading to severe droughts.",
+      "uz": "Mintaqadagi yillik yog'ingarchilik miqdori tarixiy o'rtacha ko'rsatkichdan sezilarli darajada pastlab, jiddiy qurg'oqchilikka olib keldi."
+    },
+    "options": ["tepasida", "yonida", "pastida, quyida", "orasida"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 23,
+    "word": "between",
+    "definition": "at, into, or across the space separating two objects or regions",
+    "sentence": {
+      "en": "The diplomatic negotiations aimed to strike a delicate balance between national security and international cooperation.",
+      "uz": "Diplomatik muzokaralar milliy xavfsizlik va xalqaro hamkorlik o'rtasida nozik muvozanat o'rnatishga qaratilgan edi."
+    },
+    "options": ["o'rtasida", "orqasida", "ichida", "ustida"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 24,
+    "word": "both",
+    "definition": "used to refer to two people or things, regarded and identified together",
+    "sentence": {
+      "en": "The proposed legislation has garnered substantial support from both environmental activists and industry leaders.",
+      "uz": "Taklif etilayotgan qonunchilik ham ekologik faollar, ham sanoat yetakchilari tomonidan sezilarli qo'llab-quvvatlandi."
+    },
+    "options": ["har ikkisi", "hech qaysi", "faqat biri", "barchasi"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 25,
+    "word": "but",
+    "definition": "used to introduce a phrase or clause contrasting with what has already been mentioned",
+    "sentence": {
+      "en": "The technological advancements are impressive, but they raise profound ethical questions regarding data privacy.",
+      "uz": "Texnologik yutuqlar ta'sirli, biroq ular ma'lumotlar maxfiyligi borasida chuqur axloqiy savollarni tug'diradi."
+    },
+    "options": ["va", "yoki", "lekin, biroq", "shuning uchun"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 26,
+    "word": "by",
+    "definition": "identifying the agent performing an action",
+    "sentence": {
+      "en": "The novel approach to waste management was pioneered by a team of dedicated researchers from a local university.",
+      "uz": "Chiqindilarni boshqarishga bo'lgan yangicha yondashuv mahalliy universitetning fidoyi tadqiqotchilari jamoasi tomonidan ishlab chiqilgan."
+    },
+    "options": ["orqali, tomonidan", "uchun", "bilan", "kabi"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 27,
+    "word": "came",
+    "definition": "past tense of come",
+    "sentence": {
+      "en": "The realization that their business model was unsustainable came only after substantial financial losses.",
+      "uz": "Ularning biznes modeli barqaror emasligini anglash faqatgina katta moliyaviy yo'qotishlardan keyingina sodir bo'ldi (keldi)."
+    },
+    "options": ["keldi", "ketdi", "ko'rdi", "qildi"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 28,
+    "word": "can",
+    "definition": "be able to",
+    "sentence": {
+      "en": "Integrating artificial intelligence into healthcare can significantly enhance diagnostic accuracy and patient outcomes.",
+      "uz": "Sun'iy intellektni sog'liqni saqlash tizimiga integratsiya qilish tashxis aniqligini va bemorlarning sog'ayish natijalarini sezilarli darajada oshirishi mumkin."
+    },
+    "options": ["qila olmoq, mumkin", "kerak, lozim", "majbur bo'lmoq", "xohlamoq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 29,
+    "word": "come",
+    "definition": "move or travel towards or into a place thought of as near or familiar to the speaker",
+    "sentence": {
+      "en": "Scholars from various disciplines have come together to address the multifaceted challenges of global poverty.",
+      "uz": "Turli fan sohalari olimlari global qashshoqlikning ko'p qirrali muammolarini hal qilish uchun bir joyga yig'ilishdi (kelishdi)."
+    },
+    "options": ["kelmoq", "ketmoq", "yurmoq", "turmoq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 30,
+    "word": "could",
+    "definition": "used to indicate possibility or past ability",
+    "sentence": {
+      "en": "If the current trend of deforestation continues, it could lead to the extinction of countless indigenous species.",
+      "uz": "Agar o'rmonlarni kesishning hozirgi tendentsiyasi davom etsa, bu ko'plab mahalliy turlarning yo'q bo'lib ketishiga olib kelishi mumkin."
+    },
+    "options": ["qila olar edi, mumkin", "qilishi shart", "qilmaydi", "qilmoqchi"],
+    "correct_option_index": 0
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "word": "pattern",
+    "definition": "a regular and intelligible form or sequence discernible in the way in which something happens or is done [cite: 163]",
+    "sentence": {
+      "en": "Implementing a clean architecture pattern significantly enhances the scalability and maintainability of enterprise-level applications written in Golang.",
+      "uz": "Toza arxitektura namunasini joriy etish Golang tilida yozilgan korporativ darajadagi ilovalarning kengayish imkoniyati va qo'llab-quvvatlanishini sezilarli darajada oshiradi."
+    },
+    "options": ["xato, kamchilik", "namuna, qolip", "yechim, javob", "muammo, to'siq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 2,
+    "word": "distance",
+    "definition": "an amount of space between two things or people [cite: 158]",
+    "sentence": {
+      "en": "The geographical distance between tech hubs like Tashkent and Guzar is increasingly bridged by the utilization of highly efficient remote collaboration tools.",
+      "uz": "Toshkent va G'uzor kabi texnologik markazlar o'rtasidagi geografik masofa yuqori samarali masofaviy hamkorlik vositalaridan foydalanish orqali tobora qisqarmoqda."
+    },
+    "options": ["masofa, oraliq", "vaqt, muddat", "tezlik, sur'at", "kenglik, hajm"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 3,
+    "word": "common",
+    "definition": "occurring, found, or done often; prevalent [cite: 150]",
+    "sentence": {
+      "en": "A highly common bottleneck in distributed microservices arises when offline data conflict resolution algorithms are inadequately conceptualized.",
+      "uz": "Taqsimlangan mikroservislardagi o'ta keng tarqalgan tirbandlik oflayn ma'lumotlar ziddiyatlarini hal qilish algoritmlari yetarli darajada konseptuallashtirilmaganda yuzaga keladi."
+    },
+    "options": ["kamyob, noyob", "keng tarqalgan, umumiy", "yangi, zamonaviy", "eski, qadimiy"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 4,
+    "word": "complete",
+    "definition": "having all the necessary or appropriate parts; finish making or doing [cite: 152]",
+    "sentence": {
+      "en": "To successfully complete a rigorous 45-day intensive study plan, an individual must cultivate profound discipline and an unwavering focus on advanced algorithms.",
+      "uz": "Qat'iy 45 kunlik intensiv o'quv rejasini muvaffaqiyatli yakunlash uchun shaxs chuqur intizom va ilg'or algoritmlarga e'tiborni qaratishi kerak."
+    },
+    "options": ["boshlamoq", "buzmoq", "tugatmoq, to'liq", "to'xtatmoq"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 5,
+    "word": "possible",
+    "definition": "able to be done; within the power or capacity of someone or something [cite: 173]",
+    "sentence": {
+      "en": "By synergistically leveraging platforms like Supabase alongside Gemini AI, it is entirely possible to construct highly responsive vocabulary training bots.",
+      "uz": "Supabase kabi platformalarni Gemini AI bilan birgalikda sinergik tarzda qo'llash orqali, yuqori reaktivlikka ega lug'at o'rgatuvchi botlarni yaratish to'la imkoniyatli."
+    },
+    "options": ["mumkin emas", "qiyin, murakkab", "imkonli, mumkin", "mavhum, noaniq"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 6,
+    "word": "power",
+    "definition": "the ability to do something or act in a particular way, especially as a faculty or quality [cite: 175]",
+    "sentence": {
+      "en": "The sheer computational power required to execute comprehensive automated QA tests via Appium necessitates meticulously optimized integrated development environments.",
+      "uz": "Appium orqali keng qamrovli avtomatlashtirilgan sifat nazorati (QA) testlarini bajarish uchun zarur bo'lgan hisoblash quvvati o'ta optimallashtirilgan integratsiyalashgan ishlab chiqish muhitlarini talab qiladi."
+    },
+    "options": ["kuch, quvvat", "zaiflik", "tezlik", "xotira"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 7,
+    "word": "problem",
+    "definition": "a matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome [cite: 179]",
+    "sentence": {
+      "en": "A ubiquitous problem in modern SaaS product development, such as architecting barcode management systems, is ensuring absolute data consistency across all nodes.",
+      "uz": "Shtrix-kodlarni boshqarish tizimlari kabi zamonaviy SaaS mahsulotlarini yaratishdagi eng keng tarqalgan muammo barcha tugunlarda ma'lumotlarning mutlaq izchilligini ta'minlashdir."
+    },
+    "options": ["yechim", "muammo", "maqsad", "natija"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 8,
+    "word": "question",
+    "definition": "a sentence worded or expressed so as to elicit information [cite: 181]",
+    "sentence": {
+      "en": "When systematically reviewing over a hundred candidate applications, the fundamental question remains whether the applicant genuinely possesses analytical problem-solving acumen.",
+      "uz": "Yuzdan ortiq nomzodlarning arizalarini tizimli ravishda ko'rib chiqishda, arizachi haqiqatan ham tahliliy muammolarni hal qilish qobiliyatiga egami degan asosiy savol qoladi."
+    },
+    "options": ["javob", "xulosa", "savol, masala", "dalil"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 9,
+    "word": "surface",
+    "definition": "the outside part or uppermost layer of something [cite: 243]",
+    "sentence": {
+      "en": "While a specific tactical chess position may appear entirely stable on the surface, a deeper analytical evaluation often reveals hidden structural vulnerabilities.",
+      "uz": "O'ziga xos taktik shaxmat pozitsiyasi sirtda (yuzada) butunlay barqaror bo'lib tuyulsa-da, chuqurroq tahliliy baholash ko'pincha yashirin tarkibiy zaifliklarni ochib beradi."
+    },
+    "options": ["tub, tag", "yuza, sirt", "ichkari", "orqa"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 10,
+    "word": "system",
+    "definition": "a set of connected things or parts forming a complex whole [cite: 245]",
+    "sentence": {
+      "en": "Architecting a highly decoupled backend system requires an intricate understanding of robust database schemas and efficient API routing.",
+      "uz": "Yuqori darajada ajratilgan (decoupled) backend tizimini loyihalash mustahkam ma'lumotlar bazasi sxemalari va samarali API marshrutini murakkab tushunishni talab qiladi."
+    },
+    "options": ["tizim", "qoida", "jarayon", "qism"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 11,
+    "word": "language",
+    "definition": "the method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way [cite: 244]",
+    "sentence": {
+      "en": "Mastering the nuanced lexicon of the English language is unequivocally indispensable for developers aiming to comprehend advanced technical documentation.",
+      "uz": "Ingliz tilining nozik leksikonini o'zlashtirish murakkab texnik hujjatlarni tushunishni maqsad qilgan dasturchilar uchun shubhasiz o'ta muhimdir."
+    },
+    "options": ["til", "madaniyat", "tarix", "san'at"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 12,
+    "word": "measure",
+    "definition": "ascertain the size, amount, or degree of (something) by using an instrument or device marked in standard units [cite: 252]",
+    "sentence": {
+      "en": "QA engineers must rigorously measure the precise execution time of automated scripts to ensure adherence to strict performance benchmarks.",
+      "uz": "QA muhandislari qat'iy ishlash mezonlariga rioya qilishni ta'minlash uchun avtomatlashtirilgan skriptlarning aniq bajarilish vaqtini qattiq o'lchashlari kerak."
+    },
+    "options": ["o'ylamoq", "kesmoq", "o'lchamoq, chora", "yozmoq"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 13,
+    "word": "information",
+    "definition": "facts provided or learned about something or someone [cite: 252]",
+    "sentence": {
+      "en": "Relational databases like PostgreSQL are exquisitely designed to seamlessly store, retrieve, and manage vast repositories of structured information.",
+      "uz": "PostgreSQL kabi relyatsion ma'lumotlar bazalari katta hajmdagi tuzilgan ma'lumotlarni (axborotni) muammosiz saqlash, olish va boshqarish uchun ajoyib tarzda ishlab chiqilgan."
+    },
+    "options": ["ma'lumot, axborot", "savol", "kitob", "qog'oz"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 14,
+    "word": "necessary",
+    "definition": "required to be done, achieved, or present; needed; essential [cite: 252]",
+    "sentence": {
+      "en": "Configuring explicit server-side rendering routes in Nuxt is absolutely necessary to drastically optimize search engine visibility.",
+      "uz": "Nuxt-da aniq server tomonida renderlash marshrutlarini sozlash qidiruv tizimi ko'rinishini keskin optimallashtirish uchun mutlaqo zarurdir."
+    },
+    "options": ["ixtiyoriy", "zarur, kerakli", "tasodifiy", "mumkin bo'lmagan"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 15,
+    "word": "product",
+    "definition": "an article or substance that is manufactured or refined for sale [cite: 252]",
+    "sentence": {
+      "en": "Deploying a minimum viable product to the market rapidly is a critical strategy for gathering actionable user feedback in the SaaS domain.",
+      "uz": "SaaS sohasida foydalanuvchilarning amaliy fikr-mulohazalarini to'plash uchun minimal yashovchan mahsulotni (MVP) bozorga tezkor joylashtirish muhim strategiyadir."
+    },
+    "options": ["xizmat", "jarayon", "mahsulot", "g'oya"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 16,
+    "word": "reason",
+    "definition": "a cause, explanation, or justification for an action or event [cite: 252]",
+    "sentence": {
+      "en": "The primary reason for adopting a minimalist, typography-focused web design is to guarantee an unparalleled and distraction-free user experience.",
+      "uz": "Minimalist, tipografiyaga qaratilgan veb-dizaynni qabul qilishning asosiy sababi misli ko'rilmagan va chalg'itmaydigan foydalanuvchi tajribasini kafolatlashdir."
+    },
+    "options": ["natija", "sabab, mantiq", "maqsad", "xulosa"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 17,
+    "word": "record",
+    "definition": "a thing constituting a piece of evidence about the past, especially an account kept in writing or some other permanent form [cite: 252]",
+    "sentence": {
+      "en": "Maintaining a meticulously detailed daily activity record is immensely beneficial for professionals attempting to optimize their task management efficiency.",
+      "uz": "O'zining vazifalarni boshqarish samaradorligini optimallashtirishga urinayotgan mutaxassislar uchun sinchkovlik bilan batafsil yuritilgan kundalik faoliyat yozuvini (rekordini) saqlash juda foydalidir."
+    },
+    "options": ["yozuv, qayd, rekord", "xato", "reja", "orzu"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 18,
+    "word": "difference",
+    "definition": "a point or way in which people or things are not the same [cite: 252]",
+    "sentence": {
+      "en": "Understanding the precise architectural difference between placing static assets in a source directory versus a public folder is imperative for flawless deployments.",
+      "uz": "Statik aktivlarni manba katalogiga yoki ochiq (public) papkaga joylashtirish o'rtasidagi aniq arxitektura farqini tushunish benuqson joylashtirishlar uchun o'ta muhimdir."
+    },
+    "options": ["o'xshashlik", "farq, tafovut", "bog'liqlik", "natija"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 19,
+    "word": "direction",
+    "definition": "a course along which someone or something moves [cite: 252]",
+    "sentence": {
+      "en": "The software engineering industry is unequivocally moving in the direction of highly scalable, cloud-native infrastructural paradigms.",
+      "uz": "Dasturiy injiniring sohasi shubhasiz yuqori darajada kengaytiriladigan, bulutli infratuzilma paradigmalari yo'nalishida harakat qilmoqda."
+    },
+    "options": ["yo'nalish", "tezlik", "to'xtash", "hajm"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 20,
+    "word": "energy",
+    "definition": "the strength and vitality required for sustained physical or mental activity [cite: 252]",
+    "sentence": {
+      "en": "Regulating a consistent sleep schedule is vitally important for energetic pet birds, enabling them to naturally replenish their expended energy.",
+      "uz": "G'ayratli uy qushlari uchun doimiy uyqu jadvalini tartibga solish o'ta muhim bo'lib, bu ularga sarflangan energiyani tabiiy ravishda to'ldirishga imkon beradi."
+    },
+    "options": ["quvvat, energiya", "charchoq", "uyqu", "ochlik"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 21,
+    "word": "especially",
+    "definition": "used to single out one person, thing, or situation over all others [cite: 252]",
+    "sentence": {
+      "en": "Conducting comprehensive technical interviews is exceptionally challenging, especially when tasked with evaluating numerous highly qualified applicants concurrently.",
+      "uz": "Keng qamrovli texnik suhbatlar o'tkazish, ayniqsa bir vaqtning o'zida ko'plab yuqori malakali arizachilarni baholash vazifasi yuklanganda, favqulodda qiyin."
+    },
+    "options": ["hech qachon", "har doim", "ayniqsa", "ba'zan"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 22,
+    "word": "exactly",
+    "definition": "used to emphasize the accuracy of a figure or description [cite: 252]",
+    "sentence": {
+      "en": "Configuring sophisticated integrated development environments requires knowing exactly how internal compiler extensions interact with the host operating system.",
+      "uz": "Murakkab integratsiyalashgan ishlab chiqish muhitlarini sozlash ichki kompilyator kengaytmalari asosiy operatsion tizim bilan aynan qanday o'zaro ta'sir qilishini bilishni talab qiladi."
+    },
+    "options": ["taxminan", "aynan, aniq", "qariyb", "balki"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 23,
+    "word": "explain",
+    "definition": "make (an idea, situation, or problem) clear to someone by describing it in more detail or revealing relevant facts [cite: 252]",
+    "sentence": {
+      "en": "A seasoned technical lead must possess the profound ability to articulate and explain highly abstract architectural concepts to junior engineers.",
+      "uz": "Tajribali texnik rahbar yuqori darajadagi mavhum arxitektura tushunchalarini kichik muhandislarga yetkazish va tushuntirish kabi chuqur qobiliyatga ega bo'lishi kerak."
+    },
+    "options": ["yashirmoq", "chalkashtirmoq", "tushuntirmoq", "so'ramoq"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 24,
+    "word": "famous",
+    "definition": "known about by many people [cite: 252]",
+    "sentence": {
+      "en": "Analyzing the tactical maneuvers deployed in famous grandmaster tournaments provides invaluable insights into advanced positional strategy.",
+      "uz": "Mashhur grossmeysterlar turnirlarida qo'llanilgan taktik manyovrlarni tahlil qilish ilg'or pozitsion strategiya haqida bebaho tushunchalarni beradi."
+    },
+    "options": ["noma'lum", "mashhur, taniqli", "oddiy", "zerikarli"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 25,
+    "word": "figure",
+    "definition": "think, consider, or expect to be the case; a number [cite: 252]",
+    "sentence": {
+      "en": "Professionals must continuously experiment with novel methodologies to figure out the most optimal pathways for resolving complex technical debt.",
+      "uz": "Mutaxassislar murakkab texnik qarzni hal qilishning eng maqbul yo'llarini aniqlash (tushunib yetish) uchun doimiy ravishda yangi metodologiyalar bilan tajriba o'tkazishlari kerak."
+    },
+    "options": ["aniqlamoq, raqam, shakl", "yo'qotmoq", "yashirmoq", "unutmoq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 26,
+    "word": "control",
+    "definition": "the power to influence or direct people's behavior or the course of events [cite: 280]",
+    "sentence": {
+      "en": "Mastering the precise control of hardware functionalities, such as utilizing designated function keys for screen brightness, streamlines the daily professional workflow.",
+      "uz": "Ekran yorqinligi uchun belgilangan funksiya tugmalaridan foydalanish kabi apparat funksiyalarini aniq boshqarishni o'zlashtirish kundalik kasbiy ish jarayonini osonlashtiradi."
+    },
+    "options": ["bo'ysunish", "nazorat, boshqaruv", "ozodlik", "tartibsizlik"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 27,
+    "word": "cause",
+    "definition": "a person or thing that gives rise to an action, phenomenon, or condition [cite: 268]",
+    "sentence": {
+      "en": "Inadequate resource provisioning in a monolithic application will inevitably cause severe latency issues during unprecedented traffic spikes.",
+      "uz": "Monolit ilovada resurslarni yetarli darajada ta'minlamaslik misli ko'rilmagan trafik o'sishi paytida muqarrar ravishda jiddiy kechikish muammolariga sabab bo'ladi."
+    },
+    "options": ["sabab, sabab bo'lmoq", "natija", "yechim", "tomon"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 28,
+    "word": "century",
+    "definition": "a period of one hundred years [cite: 270]",
+    "sentence": {
+      "en": "The transition toward decentralized computing unequivocally represents one of the most transformative technological paradigm shifts of the twenty-first century.",
+      "uz": "Markazlashtirilmagan hisoblashga o'tish shubhasiz yigirma birinchi asrning eng o'zgartiruvchi texnologik paradigma siljishlaridan birini ifodalaydi."
+    },
+    "options": ["o'n yillik", "ming yillik", "asr", "yil"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 29,
+    "word": "subject",
+    "definition": "a person or thing that is being discussed, described, or dealt with [cite: 287]",
+    "sentence": {
+      "en": "Although an individual may not be a formal university student, the subject of advanced algorithmic optimization remains a paramount focus for dedicated software professionals.",
+      "uz": "Garchi shaxs rasmiy universitet talabasi bo'lmasa-da, ilg'or algoritmik optimallashtirish mavzusi fidoyi dasturiy ta'minot mutaxassislari uchun eng muhim e'tibor markazi bo'lib qolmoqda."
+    },
+    "options": ["mavzu, fan, tobe", "obyekt", "fe'l", "harakat"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 30,
+    "word": "suppose",
+    "definition": "assume that something is the case on the basis of evidence or probability but without proof or certain knowledge [cite: 289]",
+    "sentence": {
+      "en": "Financial analysts generally suppose that mitigating macroeconomic inflation requires aggressively tightening current monetary policies.",
+      "uz": "Moliyaviy tahlilchilar odatda makroiqtisodiy inflyatsiyani yumshatish joriy pul-kredit siyosatini agressiv ravishda qat'iylashtirishni talab qiladi deb faraz qiladilar."
+    },
+    "options": ["bilmoq", "ko'rmoq", "faraz qilmoq, o'ylamoq", "tasdiqlamoq"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 31,
+    "word": "travel",
+    "definition": "make a journey, typically of some length or abroad [cite: 299]",
+    "sentence": {
+      "en": "Professionals who frequently travel between diverse geographical regions must cultivate profound adaptability to varied cultural and operational paradigms.",
+      "uz": "Turli geografik mintaqalar o'rtasida tez-tez sayohat qiladigan mutaxassislar turli madaniy va operatsion paradigmalarga chuqur moslashuvchanlikni rivojlantirishlari kerak."
+    },
+    "options": ["qolmoq", "sayohat qilmoq", "yashamoq", "uxlamoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 32,
+    "word": "decide",
+    "definition": "come or bring to a resolution in the mind as a result of consideration [cite: 300]",
+    "sentence": {
+      "en": "Corporate executives must often rigorously analyze massive datasets before they can definitively decide on a long-term strategic pivot.",
+      "uz": "Korporativ rahbarlar uzoq muddatli strategik burilish (pivot) to'g'risida qat'iy qaror qabul qilishdan oldin ko'pincha katta ma'lumotlar to'plamlarini qattiq tahlil qilishlari kerak."
+    },
+    "options": ["ikkilanmoq", "qaror qilmoq", "so'ramoq", "javob bermoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 33,
+    "word": "difficult",
+    "definition": "needing much effort or skill to accomplish, deal with, or understand [cite: 302]",
+    "sentence": {
+      "en": "Engineering a fault-tolerant microservices architecture is inherently difficult, requiring an acute comprehension of distributed systems and network latency.",
+      "uz": "Xatolarga chidamli mikroservislar arxitekturasini yaratish tabiiy ravishda qiyin bo'lib, taqsimlangan tizimlar va tarmoq kechikishini chuqur tushunishni talab qiladi."
+    },
+    "options": ["oson", "qiyin, murakkab", "tez", "sekin"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 34,
+    "word": "trouble",
+    "definition": "difficulty or problems [cite: 303]",
+    "sentence": {
+      "en": "Encountering unforeseen trouble within a continuous integration pipeline fundamentally underscores the critical necessity of comprehensive automated testing.",
+      "uz": "Uzluksiz integratsiya quvuri doirasida kutilmagan muammoga (qiyinchilikka) duch kelish asosan keng qamrovli avtomatlashtirilgan testlarning muhim zarurligini ta'kidlaydi."
+    },
+    "options": ["osonlik", "yordam", "muammo, qiyinchilik", "xursandchilik"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 35,
+    "word": "unit",
+    "definition": "an individual thing or person regarded as single and complete but which can also form an individual component of a larger or more complex whole [cite: 305]",
+    "sentence": {
+      "en": "Meticulously crafting isolated unit tests guarantees that specific logical functions operate independently of broader systemic fluctuations.",
+      "uz": "Izolyatsiya qilingan birlik (unit) testlarini sinchkovlik bilan yaratish o'ziga xos mantiqiy funksiyalarning kengroq tizimli tebranishlardan mustaqil ravishda ishlashini kafolatlaydi."
+    },
+    "options": ["birlik, bo'lim", "butun", "guruh", "jamoa"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 36,
+    "word": "village",
+    "definition": "a group of houses and associated buildings, larger than a hamlet and smaller than a town, situated in a rural area [cite: 307]",
+    "sentence": {
+      "en": "The unprecedented implementation of robust satellite internet has successfully integrated even the most remote rural village into the global digital economy.",
+      "uz": "Mustahkam sun'iy yo'ldosh internetining misli ko'rilmagan joriy etilishi hatto eng chekka qishloqni ham global raqamli iqtisodiyotga muvaffaqiyatli integratsiya qildi."
+    },
+    "options": ["shahar", "poytaxt", "qishloq", "viloyat"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 37,
+    "word": "force",
+    "definition": "strength or energy as an attribute of physical action or movement [cite: 322]",
+    "sentence": {
+      "en": "The relentless force of globalization has inextricably intertwined international financial markets, amplifying both opportunities and systemic vulnerabilities.",
+      "uz": "Globallashuvning tinimsiz kuchi xalqaro moliya bozorlarini ajralmas tarzda bog'lab, imkoniyatlarni ham, tizimli zaifliklarni ham kuchaytirdi."
+    },
+    "options": ["zaiflik", "kuch, majbur qilmoq", "ixtiyor", "xohish"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 38,
+    "word": "forward",
+    "definition": "toward the front; in the direction that one is facing or traveling [cite: 324]",
+    "sentence": {
+      "en": "Pushing an innovative technological agenda forward inevitably demands bold leadership and a substantial allocation of exploratory venture capital.",
+      "uz": "Innovatsion texnologik kun tartibini oldinga surish muqarrar ravishda dadil yetakchilikni va izlanishga qaratilgan venchur kapitalini sezilarli darajada ajratishni talab qiladi."
+    },
+    "options": ["orqaga", "oldinga", "chapga", "o'ngga"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 39,
+    "word": "general",
+    "definition": "affecting or concerning all or most people, places, or things; widespread [cite: 332]",
+    "sentence": {
+      "en": "There is a general consensus among esteemed climatologists that transitioning to sustainable infrastructure is not merely beneficial, but existentially imperative.",
+      "uz": "Hurmatli iqlimshunoslar orasida barqaror infratuzilmaga o'tish nafaqat foydali, balki ekzistensial (mavjudlik uchun) zarurat ekanligi haqida umumiy kelishuv mavjud."
+    },
+    "options": ["xususiy, shaxsiy", "noyob", "umumiy, asosiy", "yashirin"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 40,
+    "word": "action",
+    "definition": "the fact or process of doing something, typically to achieve an aim [cite: 338]",
+    "sentence": {
+      "en": "Proactive climate intervention requires immediate, coordinated governmental action rather than prolonged periods of speculative bureaucratic debate.",
+      "uz": "Iqlimga faol aralashuv uzoq davom etadigan spekulyativ byurokratik bahslarni emas, balki zudlik bilan, muvofiqlashtirilgan hukumat harakatini talab qiladi."
+    },
+    "options": ["harakat, amal", "harakatsizlik", "kutish", "reja"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 41,
+    "word": "addition",
+    "definition": "the action or process of adding something to something else [cite: 340]",
+    "sentence": {
+      "en": "The seamless integration of a robust relational database, in addition to sophisticated AI endpoints, dramatically elevates the application's overall utility.",
+      "uz": "Murakkab AI so'rov nuqtalariga qo'shimcha ravishda mustahkam relyatsion ma'lumotlar bazasining uzluksiz integratsiyasi ilovaning umumiy foydaliligini keskin oshiradi."
+    },
+    "options": ["ayirish", "bo'lish", "qo'shish, qo'shimcha", "ko'paytirish"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 42,
+    "word": "amount",
+    "definition": "a quantity of something, typically the total of a thing or things in number, size, value, or extent [cite: 348]",
+    "sentence": {
+      "en": "Carefully evaluating a massive amount of technical recruitment applications requires an inherently structured and impeccably objective analytical methodology.",
+      "uz": "Katta miqdordagi texnik ishga qabul qilish arizalarini diqqat bilan baholash tabiiy ravishda tuzilgan va mukammal darajada xolis tahliliy metodologiyani talab qiladi."
+    },
+    "options": ["sifat", "miqdor, hajm", "tur", "rang"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 43,
+    "word": "ancient",
+    "definition": "belonging to the very distant past and no longer in existence [cite: 350]",
+    "sentence": {
+      "en": "Studying the foundational principles of ancient strategic board games provides contemporary enthusiasts with a profound understanding of long-term tactical planning.",
+      "uz": "Qadimiy strategik stol o'yinlarining asosiy tamoyillarini o'rganish zamonaviy ishqibozlarga uzoq muddatli taktik rejalashtirishni chuqur tushunish imkonini beradi."
+    },
+    "options": ["zamonaviy", "yangi", "qadimiy, ko'hna", "kelajak"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 44,
+    "word": "interest",
+    "definition": "the state of wanting to know or learn about something or someone [cite: 355]",
+    "sentence": {
+      "en": "Cultivating a deep, aesthetic interest in minimalist, typography-driven user interfaces ultimately yields a vastly superior, globally accessible digital product.",
+      "uz": "Minimalist, tipografiyaga asoslangan foydalanuvchi interfeyslariga chuqur estetik qiziqishni shakllantirish pirovardida butun dunyo bo'ylab ochiq bo'lgan, beqiyos darajada ustun raqamli mahsulotni beradi."
+    },
+    "options": ["qiziqish, foiz", "zerikish", "nafrat", "qo'rquv"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 45,
+    "word": "level",
+    "definition": "a position on a real or imaginary scale of amount, quantity, extent, or quality [cite: 371]",
+    "sentence": {
+      "en": "Achieving an unprecedented level of proficiency in distributed systems architecture unequivocally distinguishes a developer in today's fiercely competitive technological landscape.",
+      "uz": "Taqsimlangan tizimlar arxitekturasida misli ko'rilmagan malaka darajasiga erishish bugungi shiddatli raqobatbardosh texnologik manzarada dasturchini shubhasiz ajratib turadi."
+    },
+    "options": ["pastlik", "chuqurlik", "daraja, sath", "qiyalik"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 46,
+    "word": "material",
+    "definition": "the matter from which a thing is or can be made [cite: 378]",
+    "sentence": {
+      "en": "Assimilating highly complex academic material during an intensive study sprint demands cognitive resilience and rigorously structured pedagogical techniques.",
+      "uz": "Intensiv o'quv sprinti davomida o'ta murakkab akademik materialni o'zlashtirish kognitiv chidamlilik va qat'iy tuzilgan pedagogik usullarni talab qiladi."
+    },
+    "options": ["modda, material", "g'oya", "tushuncha", "ruh"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 47,
+    "word": "method",
+    "definition": "a particular form of procedure for accomplishing or approaching something, especially a systematic or established one [cite: 378]",
+    "sentence": {
+      "en": "Adopting an agile, iterative method for deploying continuous software updates significantly mitigates the inherent risks of catastrophic systemic regressions.",
+      "uz": "Dasturiy ta'minotning uzluksiz yangilanishlarini joylashtirish uchun moslashuvchan (agile), iterativ usulni qabul qilish halokatli tizimli regressiyalarning o'ziga xos xavflarini sezilarli darajada kamaytiradi."
+    },
+    "options": ["maqsad", "usul, metod", "natija", "muammo"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 48,
+    "word": "result",
+    "definition": "a consequence, effect, or outcome of something [cite: 378]",
+    "sentence": {
+      "en": "The profound optimization of the relational database indexing architecture yielded a highly favorable result, effectively halving overarching query latency.",
+      "uz": "Relyatsion ma'lumotlar bazasini indekslash arxitekturasini chuqur optimallashtirish so'rovlarning umumiy kechikishini samarali ravishda ikki baravar kamaytirib, juda ijobiy natija berdi."
+    },
+    "options": ["sabab", "jarayon", "natija, oqibat", "boshlanish"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 49,
+    "word": "science",
+    "definition": "the intellectual and practical activity encompassing the systematic study of the structure and behavior of the physical and natural world [cite: 378]",
+    "sentence": {
+      "en": "The foundational bedrock of modern computer science relies predominantly on the rigorous, empirical analysis of computationally intensive algorithms.",
+      "uz": "Zamonaviy kompyuter fanining asosiy poydevori asosan hisoblashni ko'p talab qiladigan algoritmlarning qat'iy, empirik tahliliga tayanadi."
+    },
+    "options": ["san'at", "ilm-fan", "tarix", "sport"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 50,
+    "word": "temperature",
+    "definition": "the degree or intensity of heat present in a substance or object [cite: 378]",
+    "sentence": {
+      "en": "Ensuring that the ambient room temperature remains impeccably regulated is utterly vital for maintaining the delicate circadian rhythms of sensitive avian pets.",
+      "uz": "Xonaning atrof-muhit harorati benuqson tartibga solinishini ta'minlash nozik uy qushlarining nozik sirkadiyalik ritmlarini saqlab qolish uchun mutlaqo hayotiy ahamiyatga ega."
+    },
+    "options": ["namlik", "bosim", "harorat", "tezlik"],
+    "correct_option_index": 2
+  }
+]

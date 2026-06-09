@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "word": "his",
+    "definition": "belonging to or associated with a male person previously mentioned",
+    "sentence": {
+      "en": "Despite his extensive experience with QA automation tools, the senior engineer found the intricate configurations of the new Appium update quite challenging to resolve.",
+      "uz": "QA avtomatlashtirish vositalari bo'yicha katta tajribasiga qaramay, katta muhandis yangi Appium yangilanishining murakkab sozlamalarini hal qilishni ancha qiyin deb topdi."
+    },
+    "options": ["uning (qiz bola)", "uning (o'g'il bola)", "ularning", "bizning"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 2,
+    "word": "home",
+    "definition": "the place where one lives permanently, especially as a member of a family or household",
+    "sentence": {
+      "en": "Returning home to Qashqadaryo offers a much-needed respite from the relentless pace and pressure of urban metropolitan life.",
+      "uz": "Qashqadaryodagi uyga qaytish shahar metropoliteni hayotining tinimsiz sur'ati va bosimidan juda zarur bo'lgan dam olish imkoniyatini beradi."
+    },
+    "options": ["ishxona", "ko'cha", "uy, vatan", "do'kon"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 3,
+    "word": "house",
+    "definition": "a building for human habitation, especially one that is lived in by a family or small group of people",
+    "sentence": {
+      "en": "The environment inside the house must be carefully regulated to ensure that sensitive pets, such as budgerigar parrots, maintain healthy sleep hygiene.",
+      "uz": "To'tiqushlar kabi nozik uy hayvonlarining sog'lom uyqu gigiyenasini saqlab qolishini ta'minlash uchun uy ichidagi muhit diqqat bilan tartibga solinishi kerak."
+    },
+    "options": ["bino, uy", "hovli", "bog'", "tom"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 4,
+    "word": "how",
+    "definition": "in what way or manner; by what means",
+    "sentence": {
+      "en": "Understanding exactly how goroutines and mutexes operate under the hood is fundamentally essential for optimizing high-performance backend systems.",
+      "uz": "Gorutinlar va mutekslarning ichki jarayonda qanday ishlashini aniq tushunish yuqori samarali backend tizimlarini optimallashtirish uchun mutlaqo zarurdir."
+    },
+    "options": ["qachon", "qayerda", "nega", "qanday, qanaqa qilib"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 5,
+    "word": "I",
+    "definition": "used by a speaker to refer to himself or herself",
+    "sentence": {
+      "en": "Although I initially struggled to comprehend the intricacies of game-tree complexity, analyzing grandmaster chess matches has profoundly deepened my tactical awareness.",
+      "uz": "Garchi men dastlab o'yin-daraxti murakkabligi (game-tree complexity) nozikliklarini tushunishga qiynalgan bo'lsam-da, grossmeysterlarning shaxmat o'yinlarini tahlil qilish mening taktik tushunchamni chuqurlashtirdi."
+    },
+    "options": ["biz", "men", "sen", "ular"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 6,
+    "word": "if",
+    "definition": "on the condition or supposition that; in the event that",
+    "sentence": {
+      "en": "If the continuous deployment process on Render is not meticulously configured, the e-learning platform could experience significant downtime during peak usage hours.",
+      "uz": "Agar Render-da uzluksiz joylashtirish (deployment) jarayoni sinchkovlik bilan sozlanmagan bo'lsa, elektron ta'lim platformasi eng yuqori foydalanish soatlarida sezilarli uzilishlarga uchrashi mumkin."
+    },
+    "options": ["agar, mabodo", "garchi", "chunki", "lekin"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 7,
+    "word": "in",
+    "definition": "expressing the situation of something that is or appears to be enclosed or surrounded by something else",
+    "sentence": {
+      "en": "Pursuing a rigorous academic degree in economics requires a substantial commitment to empirical research and complex statistical analysis.",
+      "uz": "Iqtisodiyot sohasida qat'iy ilmiy darajaga erishish empirik tadqiqotlar va murakkab statistik tahlillarga jiddiy yondashishni talab qiladi."
+    },
+    "options": ["ichida, -da", "ustida", "yonida", "orqasida"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 8,
+    "word": "into",
+    "definition": "expressing movement or action with the result that someone or something becomes enclosed or surrounded by something else",
+    "sentence": {
+      "en": "Integrating a seamless barcode scanning functionality into the new product management system necessitated a comprehensive overhaul of the existing database schema.",
+      "uz": "Yangi mahsulotlarni boshqarish tizimiga uzluksiz shtrix-kodni skanerlash xususiyatini integratsiya qilish mavjud ma'lumotlar bazasi sxemasini har tomonlama qayta ishlashni talab qildi."
+    },
+    "options": ["tashqarisiga", "ustiga", "ichiga", "yoniga"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 9,
+    "word": "is",
+    "definition": "third person singular present of be",
+    "sentence": {
+      "en": "Implementing a scalable and efficient architectural pattern with NestJS is arguably one of the most critical steps in modern software engineering.",
+      "uz": "NestJS yordamida kengaytiriladigan va samarali arxitektura modelini joriy qilish zamonaviy dasturiy injiniringdagi eng muhim qadamlardan biri hisoblanadi (-dir)."
+    },
+    "options": ["-dir, bo'lmoq (3-shaxs)", "bo'lish (ko'plik)", "edi", "bo'ladi"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 10,
+    "word": "it",
+    "definition": "used to refer to a thing previously mentioned or easily identified",
+    "sentence": {
+      "en": "While the initial learning curve for advanced algorithms is steep, mastering it inevitably leads to writing significantly more optimal code.",
+      "uz": "Ilg'or algoritmlarni o'rganishning dastlabki bosqichi qiyin bo'lsa-da, uni o'zlashtirish oxir-oqibat sezilarli darajada maqbulroq kod yozishga olib keladi."
+    },
+    "options": ["biz", "u (narsa, hayvon)", "men", "ular"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 11,
+    "word": "its",
+    "definition": "belonging to or associated with a thing previously mentioned or easily identified",
+    "sentence": {
+      "en": "The Vue 3 framework, universally renowned for its intuitive reactivity system, allows developers to build highly interactive user interfaces efficiently.",
+      "uz": "O'zining intuitiv reaktivlik tizimi bilan butun dunyoda tanilgan Vue 3 freymvorki dasturchilarga yuqori interaktiv foydalanuvchi interfeyslarini samarali yaratishga imkon beradi."
+    },
+    "options": ["ularning", "mening", "uning (narsa, hayvon)", "sizning"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 12,
+    "word": "just",
+    "definition": "exactly; very recently; simply",
+    "sentence": {
+      "en": "Resolving the persistent DNS propagation issues was not just a technical formality, but a crucial milestone for securely launching the developer portfolio domain.",
+      "uz": "Doimiy DNS tarqalish muammolarini hal qilish shunchaki texnik rasmiyatchilik emas, balki dasturchi portfelining domenini xavfsiz ishga tushirish uchun muhim bosqich edi."
+    },
+    "options": ["faqat, shunchaki, ayni", "har doim", "hech qachon", "tez-tez"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 13,
+    "word": "know",
+    "definition": "be aware of through observation, inquiry, or information",
+    "sentence": {
+      "en": "Candidates aiming for a superior band score in standardized proficiency tests must know how to seamlessly deploy advanced lexical resources.",
+      "uz": "Standartlashtirilgan malaka testlarida yuqori ball olishni ko'zlagan nomzodlar ilg'or leksik resurslardan qanday qilib muammosiz foydalanishni bilishlari shart."
+    },
+    "options": ["ko'rmoq", "bilmoq, tanimoq", "so'ramoq", "o'ylamoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 14,
+    "word": "large",
+    "definition": "of considerable or relatively great size, extent, or capacity",
+    "sentence": {
+      "en": "Managing a large cluster of concurrent processes effectively demands a profound comprehension of memory allocation and thread synchronization.",
+      "uz": "Katta hajmdagi parallel jarayonlar klasterini samarali boshqarish xotira taqsimoti va iplar sinxronizatsiyasini chuqur tushunishni talab qiladi."
+    },
+    "options": ["katta, yirik", "kichik, mitti", "uzun, cho'ziq", "tor, qisiq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 15,
+    "word": "last",
+    "definition": "coming after all others in time or order; final",
+    "sentence": {
+      "en": "During the last quarter of the financial year, the startup pivoted its core strategy to aggressively target the emerging mobile automation market.",
+      "uz": "Moliya yilining oxirgi choragida startap rivojlanayotgan mobil avtomatlashtirish bozorini agressiv ravishda egallash uchun o'zining asosiy strategiyasini o'zgartirdi."
+    },
+    "options": ["birinchi", "o'rta", "oxirgi, so'nggi", "keyingi"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 16,
+    "word": "left",
+    "definition": "on, towards, or relating to the side of a human body or of a thing that is to the west when the person or thing is facing north",
+    "sentence": {
+      "en": "The abrupt departure of the lead architect left the engineering team scrambling to decode the undocumented microservices infrastructure.",
+      "uz": "Bosh arxitektorning to'satdan ketishi muhandislar jamoasini hujjatlashtirilmagan mikroservislar infratuzilmasini parolini ochish uchun sarosimaga tushib qoldirdi (ketdi)."
+    },
+    "options": ["o'ng, to'g'ri", "chap, qoldirdi", "tepa, yuqori", "past, quyida"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 17,
+    "word": "like",
+    "definition": "having the same characteristics or qualities as; similar to",
+    "sentence": {
+      "en": "Navigating a complex enterprise codebase is often like attempting to solve a multifaceted puzzle without having the reference picture.",
+      "uz": "Murakkab korporativ kodlar bazasini o'rganish ko'pincha asosiy rasmga ega bo'lmagan holda ko'p qirrali boshqotirmani echishga o'xshaydi (kabi)."
+    },
+    "options": ["yoqtirmoq, kabi", "nafratlanmoq", "qochmoq", "yig'lamoq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 18,
+    "word": "line",
+    "definition": "a long, narrow mark or band",
+    "sentence": {
+      "en": "The fine line between constructive feedback and demoralizing criticism is something that effective technical leaders must carefully balance.",
+      "uz": "Konstruktiv fikr-mulohaza va ruhiyatni tushiruvchi tanqid o'rtasidagi nozik chiziq shunday narsaki, samarali texnik rahbarlar uni ehtiyotkorlik bilan muvozanatlashi kerak."
+    },
+    "options": ["chiziq, qator", "nuqta", "aylana", "burchak"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 19,
+    "word": "little",
+    "definition": "small in size, amount, or degree",
+    "sentence": {
+      "en": "There is currently very little empirical evidence to definitively prove that remote work diminishes overall team productivity in the tech sector.",
+      "uz": "Hozirgi vaqtda masofaviy ishlash texnologiya sohasida jamoaning umumiy unumdorligini pasaytirishini qat'iy isbotlash uchun juda kam (kichik) empirik dalillar mavjud."
+    },
+    "options": ["ko'p, katta", "kichik, oz", "o'rta, mo'tadil", "gigant"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 20,
+    "word": "long",
+    "definition": "measuring a great distance from end to end",
+    "sentence": {
+      "en": "The transition to a completely paperless educational institution is a long and arduous process requiring substantial infrastructural investments.",
+      "uz": "Butunlay qog'ozsiz ta'lim muassasasiga o'tish katta infratuzilma sarmoyalarini talab qiladigan uzun va mashaqqatli jarayondir."
+    },
+    "options": ["qisqa", "keng", "uzun, uzoq", "tor"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 21,
+    "word": "look",
+    "definition": "direct one's gaze toward someone or something or in a specified direction",
+    "sentence": {
+      "en": "Instead of relying on outdated methodologies, modern businesses must look towards adopting cloud-native architectures to remain competitive.",
+      "uz": "Zamonaviy korxonalar raqobatbardosh bo'lib qolish uchun eskirgan metodologiyalarga tayanish o'rniga, bulutli texnologiyalarga asoslangan arxitekturalarni joriy etishga qarashlari (e'tibor qaratishlari) kerak."
+    },
+    "options": ["yurmoq", "gapirmoq", "qaramoq, ko'rinmoq", "tinglamoq"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 22,
+    "word": "made",
+    "definition": "past tense and past participle of make",
+    "sentence": {
+      "en": "The recent breakthroughs in machine learning have made it entirely possible to automate highly complex data analysis procedures.",
+      "uz": "Mashinali o'qitishdagi so'nggi yutuqlar o'ta murakkab ma'lumotlarni tahlil qilish tartib-qoidalarini avtomatlashtirishni to'la imkoniyatli qildi."
+    },
+    "options": ["buzilgan", "yasalgan, qilingan", "sotilgan", "yo'qotilgan"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 23,
+    "word": "make",
+    "definition": "form (something) by putting parts together or combining substances; construct; create",
+    "sentence": {
+      "en": "To make a compelling argument in an academic essay, one must seamlessly synthesize multiple sources of peer-reviewed research.",
+      "uz": "Akademik esseda ishonchli dalil keltirish (qilish) uchun, kishi ko'rib chiqilgan ko'plab ilmiy tadqiqot manbalarini uzluksiz sintez qilishi kerak."
+    },
+    "options": ["buzmoq", "qilmoq, yasamoq", "sotib olmoq", "berkitmoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 24,
+    "word": "man",
+    "definition": "an adult male human being",
+    "sentence": {
+      "en": "The keynote speaker, a man of profound intellectual rigor, delivered a fascinating presentation on the future of decentralized finance.",
+      "uz": "Chuqur intellektual qat'iylikka ega inson (erkak) bo'lgan asosiy ma'ruzachi markazlashtirilmagan moliyaning kelajagi haqida qiziqarli taqdimot qildi."
+    },
+    "options": ["ayol", "bola", "erkak, inson", "qiz"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 25,
+    "word": "many",
+    "definition": "a large number of",
+    "sentence": {
+      "en": "While implementing microservices offers scalability, it simultaneously introduces many unforeseeable challenges regarding inter-service communication.",
+      "uz": "Mikroservislarni joriy qilish miqyosiylikni taqdim etsa-da, u bir vaqtning o'zida xizmatlararo aloqa bo'yicha ko'plab kutilmagan qiyinchiliklarni keltirib chiqaradi."
+    },
+    "options": ["kam", "biroz", "hech qancha", "ko'p"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 26,
+    "word": "may",
+    "definition": "expressing possibility",
+    "sentence": {
+      "en": "Fluctuations in the global cryptocurrency market may inherently affect the funding avenues available for emerging technological startups.",
+      "uz": "Global kriptovalyuta bozoridagi tebranishlar yangi paydo bo'layotgan texnologik startaplar uchun mavjud bo'lgan moliyalashtirish yo'llariga tabiiy ravishda ta'sir qilishi mumkin."
+    },
+    "options": ["mumkin (ehtimol)", "qatiq man etiladi", "majbur", "kerak"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 27,
+    "word": "me",
+    "definition": "used by a speaker to refer to himself or herself as the object of a verb or preposition",
+    "sentence": {
+      "en": "Reviewing system logs generated by ADB tools frequently helps me identify and troubleshoot elusive mobile application bugs with greater precision.",
+      "uz": "ADB vositalari tomonidan yaratilgan tizim jurnallarini ko'rib chiqish menga tez-tez mobil ilovalardagi yashirin xatolarni aniqlash va ularni katta aniqlik bilan bartaraf etishga yordam beradi."
+    },
+    "options": ["ularni", "meni, menga", "sizni", "bizni"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 28,
+    "word": "men",
+    "definition": "plural form of man",
+    "sentence": {
+      "en": "Throughout history, visionary men and women have relentlessly pushed the boundaries of what is considered scientifically feasible.",
+      "uz": "Tarix davomida kelajakni ko'ra oladigan erkaklar va ayollar ilmiy jihatdan amalga oshirish mumkin deb hisoblangan narsalar chegarasini tinimsiz ravishda kengaytirishgan."
+    },
+    "options": ["ayollar", "erkaklar, insonlar", "bolalar", "qariyalar"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 29,
+    "word": "might",
+    "definition": "expressing a possibility based on a condition not fulfilled",
+    "sentence": {
+      "en": "Had the developers properly insulated the deployment pipeline, the catastrophic data leak might have been entirely prevented.",
+      "uz": "Agar dasturchilar joylashtirish (deployment) quvurini to'g'ri izolyatsiya qilganlarida edi, fojiali ma'lumotlar sizib chiqishi butunlay oldini olingan bo'lishi ehtimoli bor edi."
+    },
+    "options": ["shart", "ehtimol, mumkin", "kerak", "aslo"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 30,
+    "word": "more",
+    "definition": "a greater or additional amount or degree",
+    "sentence": {
+      "en": "In modern backend development, writing readable and maintainable code is often more valuable than achieving negligible performance micro-optimizations.",
+      "uz": "Zamonaviy backend dasturlashda o'qilishi oson va qo'llab-quvvatlanadigan kod yozish ko'pincha sezilmas ishlash mikro-optimallashtirishlariga erishishdan ko'ra qimmatliroqdir."
+    },
+    "options": ["kamroq", "ozgina", "ko'proq, yana", "barcha"],
+    "correct_option_index": 2
+  }
+]

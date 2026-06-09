@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "word": "became",
+    "definition": "began to be; past tense of become",
+    "sentence": {
+      "en": "The small startup rapidly became a dominant force in the global technology sector. [cite: 39]",
+      "uz": "Kichik startap tezda global texnologiya sektorida hukmron kuchga aylandi."
+    },
+    "options": ["aylandi, bo'ldi", "boshladi", "ketdi", "qoldi"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 2,
+    "word": "become",
+    "definition": "begin to be",
+    "sentence": {
+      "en": "To become a proficient full-stack developer, consistent practice and theoretical understanding are required. [cite: 41]",
+      "uz": "Yetuk full-stack dasturchisi bo'lish uchun doimiy amaliyot va nazariy tushuncha talab qilinadi."
+    },
+    "options": ["yo'qolmoq", "bo'lmoq, aylanmoq", "qolmoq", "izlamoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 3,
+    "word": "began",
+    "definition": "perform or undergo the first part of an action; past tense of begin",
+    "sentence": {
+      "en": "The research team began their comprehensive study by analyzing a decade of climate data. [cite: 43]",
+      "uz": "Tadqiqot guruhi o'n yillik iqlim ma'lumotlarini tahlil qilish orqali o'zlarining keng qamrovli izlanishlarini boshladilar."
+    },
+    "options": ["tugatdi", "davom ettirdi", "boshladi", "to'xtatdi"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 4,
+    "word": "them",
+    "definition": "used as the object of a verb or preposition to refer to two or more people or things",
+    "sentence": {
+      "en": "The newly implemented policies were designed to protect marginalized communities and empower them economically. [cite: 44]",
+      "uz": "Yangi joriy qilingan siyosatlar zaif jamoalarni himoya qilish va ularni iqtisodiy jihatdan kuchaytirish uchun ishlab chiqilgan."
+    },
+    "options": ["bizni", "sizni", "meni", "ularni, ularga"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 5,
+    "word": "behind",
+    "definition": "at or to the far side of something, typically so as to be hidden by it",
+    "sentence": {
+      "en": "Leaving obsolete legacy systems behind is a necessary step for modern enterprise architecture. [cite: 45]",
+      "uz": "Eskirgan meros tizimlarini ortda qoldirish zamonaviy korporativ arxitektura uchun zarur qadamdir."
+    },
+    "options": ["orqada, ortida", "oldinda", "yonida", "ustida"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 6,
+    "word": "then",
+    "definition": "at that time; at the time in question",
+    "sentence": {
+      "en": "If the initial hypothesis is proven correct, then we must reevaluate our entire methodological approach. [cite: 46]",
+      "uz": "Agar dastlabki faraz to'g'ri bo'lib chiqsa, u holda biz butun metodologik yondashuvimizni qayta ko'rib chiqishimiz kerak."
+    },
+    "options": ["hozir", "u holda, keyin", "qachon", "ilgari"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 7,
+    "word": "being",
+    "definition": "existence; the nature or essence of a person",
+    "sentence": {
+      "en": "The transition to renewable energy is currently being prioritized by leading international organizations. [cite: 47]",
+      "uz": "Qayta tiklanadigan energiyaga o'tish hozirgi vaqtda yetakchi xalqaro tashkilotlar tomonidan ustuvor vazifa qilib belgilanmoqda (bo'lmoqda)."
+    },
+    "options": ["qilish", "ko'rish", "bo'lish, mavjudot", "yozish"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 8,
+    "word": "there",
+    "definition": "in, at, or to that place or position",
+    "sentence": {
+      "en": "There remains a significant disparity in educational resource allocation across different socioeconomic districts. [cite: 48]",
+      "uz": "Turli xil ijtimoiy-iqtisodiy tumanlarda ta'lim resurslarini taqsimlashda u yerda sezilarli tafovut saqlanib qolmoqda."
+    },
+    "options": ["bu yerda", "qayerda", "hech qayerda", "u yerda, mavjud"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 9,
+    "word": "better",
+    "definition": "of a more excellent or effective type or quality",
+    "sentence": {
+      "en": "Investing in continuous employee training yields significantly better overall corporate performance. [cite: 49]",
+      "uz": "Xodimlarni doimiy o'qitishga sarmoya kiritish umumiy korporativ ko'rsatkichlarning sezilarli darajada yaxshiroq bo'lishini ta'minlaydi."
+    },
+    "options": ["yaxshiroq", "yomonroq", "qiyinroq", "kattaroq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 10,
+    "word": "these",
+    "definition": "plural of this",
+    "sentence": {
+      "en": "Addressing these intricate logistical bottlenecks requires an innovative and multifaceted strategy. [cite: 50]",
+      "uz": "Ushbu murakkab logistik tirbandliklarni hal qilish innovatsion va ko'p qirrali strategiyani talab qiladi."
+    },
+    "options": ["ular", "bular, ushbu", "shular", "qaysilar"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 11,
+    "word": "they",
+    "definition": "used to refer to two or more people or things previously mentioned or easily identified",
+    "sentence": {
+      "en": "When autonomous systems encounter unforeseen edge cases, they must default to a secure fail-safe mode. [cite: 52]",
+      "uz": "Avtonom tizimlar kutilmagan favqulodda vaziyatlarga duch kelganda, ular xavfsiz himoya rejimiga o'tishi kerak."
+    },
+    "options": ["biz", "siz", "ular", "u"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 12,
+    "word": "thing",
+    "definition": "an object that one need not, cannot, or does not wish to give a specific name to",
+    "sentence": {
+      "en": "Identifying the single most critical thing that hinders user retention is paramount for product managers. [cite: 54]",
+      "uz": "Foydalanuvchilarni saqlab qolishga xalaqit beradigan eng muhim yagona narsani aniqlash mahsulot menejerlari uchun o'ta muhimdir."
+    },
+    "options": ["shaxs", "joy", "vaqt", "narsa, buyum"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 13,
+    "word": "this",
+    "definition": "used to identify a specific person or thing close at hand or being indicated or experienced",
+    "sentence": {
+      "en": "Implementing this highly optimized algorithm reduced the database query execution time by half. [cite: 56]",
+      "uz": "Ushbu yuqori optimallashtirilgan algoritmni joriy etish ma'lumotlar bazasi so'rovini bajarish vaqtini yarmiga qisqartirdi."
+    },
+    "options": ["bu, ushbu", "anavi", "u", "shu"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 14,
+    "word": "three",
+    "definition": "equivalent to the sum of one and two",
+    "sentence": {
+      "en": "The comprehensive audit revealed three fundamental flaws in the organization's cybersecurity framework. [cite: 57]",
+      "uz": "Keng qamrovli audit tashkilotning kiberxavfsizlik tizimidagi uchta asosiy kamchilikni aniqladi."
+    },
+    "options": ["bir", "uch", "besh", "yetti"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 15,
+    "word": "think",
+    "definition": "have a particular opinion, belief, or idea about someone or something",
+    "sentence": {
+      "en": "Strategic leaders must constantly think several steps ahead to mitigate potential market disruptions. [cite: 58]",
+      "uz": "Strategik rahbarlar bozordagi potentsial uzilishlarni yumshatish uchun doimo bir necha qadam oldinga o'ylashlari kerak."
+    },
+    "options": ["gapirmoq", "yozmoq", "o'ylamoq, fikrlamoq", "uxlamoq"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 16,
+    "word": "those",
+    "definition": "plural of that",
+    "sentence": {
+      "en": "Specialized development grants are exclusively awarded to those demonstrating exceptional technical prowess. [cite: 61]",
+      "uz": "Ixtisoslashtirilgan rivojlantirish grantlari faqatgina ajoyib texnik mahoratni namoyish etgan anavilarga (kimsalarga) beriladi."
+    },
+    "options": ["bular", "hech kim", "hamma", "anavilar, o'shalar"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 17,
+    "word": "brought",
+    "definition": "past and past participle of bring",
+    "sentence": {
+      "en": "The advent of quantum computing has brought unprecedented possibilities to the field of cryptography. [cite: 62]",
+      "uz": "Kvant hisoblashning paydo bo'lishi kriptografiya sohasiga misli ko'rilmagan imkoniyatlarni olib keldi."
+    },
+    "options": ["olib keldi", "olib ketdi", "sotdi", "yo'qotdi"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 18,
+    "word": "call",
+    "definition": "cry out to (someone) in order to summon them or attract their attention",
+    "sentence": {
+      "en": "Environmental activists continuously call for stricter international regulations on industrial carbon emissions. [cite: 64]",
+      "uz": "Ekologik faollar sanoat uglerod chiqindilari bo'yicha qat'iyroq xalqaro qoidalarni o'rnatishga doimiy ravishda chaqiradilar."
+    },
+    "options": ["jim turmoq", "chaqirmoq, atamoq", "yashirmoq", "qochmoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 19,
+    "word": "cannot",
+    "definition": "can not",
+    "sentence": {
+      "en": "One cannot accurately assess the macroeconomic impact without considering inflation rates. [cite: 65]",
+      "uz": "Inflyatsiya darajasini hisobga olmasdan turib makroiqtisodiy ta'sirni aniq baholab bo'lmaydi."
+    },
+    "options": ["mumkin", "kerak", "qila olmaydi, mumkin emas", "qila oladi"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 20,
+    "word": "car",
+    "definition": "a four-wheeled road vehicle that is powered by an engine and is able to carry a small number of people",
+    "sentence": {
+      "en": "The mass production of the electric car represents a monumental shift towards sustainable transportation. [cite: 67]",
+      "uz": "Elektr avtomobilning ommaviy ishlab chiqarilishi barqaror transport tizimiga qarab ulkan burilishni ifodalaydi."
+    },
+    "options": ["kema", "samolyot", "poyezd", "avtomobil, mashina"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 21,
+    "word": "certain",
+    "definition": "known for sure; established beyond doubt",
+    "sentence": {
+      "en": "Achieving a perfectly distributed microservices architecture inherently involves certain unavoidable trade-offs. [cite: 69]",
+      "uz": "Mukammal taqsimlangan mikroservislar arxitekturasiga erishish tabiiy ravishda ma'lum muqarrar murosaga kelishlarni o'z ichiga oladi."
+    },
+    "options": ["ma'lum, aniq, ba'zi", "shubhasiz", "noto'g'ri", "tasodifiy"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 22,
+    "word": "change",
+    "definition": "make or become different",
+    "sentence": {
+      "en": "Profound systemic change is often met with fierce resistance from established industry stakeholders. [cite: 71]",
+      "uz": "Chuqur tizimli o'zgarish ko'pincha sohaning shakllangan manfaatdor tomonlari tomonidan qattiq qarshilikka uchraydi."
+    },
+    "options": ["qolmoq", "o'zgarish, o'zgartirmoq", "davom etmoq", "to'xtamoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 23,
+    "word": "children",
+    "definition": "plural of child",
+    "sentence": {
+      "en": "Ensuring that all children have equal access to high-quality education is a fundamental human right. [cite: 73]",
+      "uz": "Barcha bolalarning yuqori sifatli ta'lim olishiga teng huquqli bo'lishini ta'minlash insonning asosiy huquqidir."
+    },
+    "options": ["kattalar", "qariyalar", "bolalar", "hayvonlar"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 24,
+    "word": "city",
+    "definition": "a large town",
+    "sentence": {
+      "en": "The rapid expansion of the metropolitan city necessitated a massive overhaul of its public transit infrastructure. [cite: 75]",
+      "uz": "Metropoliya shahrining tez kengayishi uning jamoat transporti infratuzilmasini keng ko'lamli ta'mirlashni taqozo etdi."
+    },
+    "options": ["qishloq", "tuman", "viloyat", "shahar"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 25,
+    "word": "close",
+    "definition": "a short distance away or apart in space or time",
+    "sentence": {
+      "en": "The investigative journalists came extremely close to uncovering the elaborate financial fraud. [cite: 77]",
+      "uz": "Tergovchi jurnalistlar murakkab moliyaviy firibgarlikni fosh qilishga juda yaqin keldilar."
+    },
+    "options": ["yaqin, yopmoq", "uzoq", "keng", "tor"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 26,
+    "word": "cold",
+    "definition": "of or at a low or relatively low temperature, especially when compared with the human body",
+    "sentence": {
+      "en": "Unprecedented cold weather fronts have severely damaged agricultural yields across the northern hemisphere. [cite: 79]",
+      "uz": "Misli ko'rilmagan sovuq ob-havo oqimlari shimoliy yarimsharda qishloq xo'jaligi hosiliga jiddiy zarar yetkazdi."
+    },
+    "options": ["issiq", "sovuq", "iliq", "nam"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 27,
+    "word": "country",
+    "definition": "a nation with its own government, occupying a particular territory",
+    "sentence": {
+      "en": "Transforming a developing country into a technological hub demands substantial foreign and domestic investment. [cite: 81]",
+      "uz": "Rivojlanayotgan mamlakatni texnologik markazga aylantirish katta miqdordagi xorijiy va mahalliy sarmoyalarni talab qiladi."
+    },
+    "options": ["qit'a", "shahar", "mamlakat, qishloq", "dengiz"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 28,
+    "word": "course",
+    "definition": "the route or direction followed by a ship, aircraft, road, or river",
+    "sentence": {
+      "en": "Over the course of the intensive semester, students master complex mathematical modeling techniques. [cite: 83]",
+      "uz": "Intensiv semestr davomida (kursida) talabalar murakkab matematik modellashtirish usullarini o'zlashtiradilar."
+    },
+    "options": ["yo'nalish", "to'xtash", "kurs, yo'nalish, davom", "yakun"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 29,
+    "word": "cut",
+    "definition": "make an opening, incision, or wound in (something) with a sharp-edged tool or object",
+    "sentence": {
+      "en": "To maintain fiscal stability, the executive board was forced to drastically cut operational expenditures. [cite: 85]",
+      "uz": "Moliyaviy barqarorlikni saqlab qolish uchun ijroiya kengashi operatsion xarajatlarni keskin qisqartirishga (kesishga) majbur bo'ldi."
+    },
+    "options": ["qurmoq", "qo'shmoq", "uzaytirmoq", "kesmoq, qisqartirmoq"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 30,
+    "word": "didn't",
+    "definition": "did not",
+    "sentence": {
+      "en": "The aggressive marketing campaign didn't yield the anticipated surge in consumer engagement. [cite: 87]",
+      "uz": "Agressiv marketing kampaniyasi iste'molchilar ishtirokining kutilgan o'sishini ta'minlamadi."
+    },
+    "options": ["qilmadi", "qildi", "qiladi", "qilyapti"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 31,
+    "word": "want",
+    "definition": "have a desire to possess or do (something); wish for",
+    "sentence": {
+      "en": "Consumers increasingly want transparent supply chains that guarantee ethically sourced materials. [cite: 88]",
+      "uz": "Iste'molchilar axloqiy manbalardan olingan materiallarni kafolatlaydigan shaffof ta'minot zanjirlarini tobora ko'proq xohlashmoqda."
+    },
+    "options": ["qochmoq", "xohlamoq, istamoq", "yig'lamoq", "kulmoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 32,
+    "word": "dog",
+    "definition": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice",
+    "sentence": {
+      "en": "Domestication of the dog fundamentally altered human hunting practices in prehistoric societies. [cite: 89]",
+      "uz": "Itning xonakilashtirilishi tarixgacha bo'lgan jamiyatlarda insonning ov qilish amaliyotini tubdan o'zgartirdi."
+    },
+    "options": ["mushuk", "ot", "it", "qush"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 33,
+    "word": "done",
+    "definition": "past participle of do",
+    "sentence": {
+      "en": "Once the rigorous testing phase is completely done, the software will be deployed to production. [cite: 91]",
+      "uz": "Qat'iy sinov bosqichi to'liq bajarilgandan so'ng, dasturiy ta'minot ishlab chiqarishga joriy etiladi."
+    },
+    "options": ["boshlangan", "yo'qotilgan", "bajarilgan, qilingan", "sotilgan"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 34,
+    "word": "door",
+    "definition": "a hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle",
+    "sentence": {
+      "en": "Mastering advanced programming languages essentially opens the door to lucrative career opportunities. [cite: 93]",
+      "uz": "Murakkab dasturlash tillarini o'zlashtirish asosan daromadli martaba imkoniyatlariga eshik ochadi."
+    },
+    "options": ["deraza", "tom", "devor", "eshik"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 35,
+    "word": "draw",
+    "definition": "produce (a picture or diagram) by making lines and marks, especially with a pen or pencil, on paper",
+    "sentence": {
+      "en": "Data scientists must draw meaningful conclusions from massive and often chaotic datasets. [cite: 95]",
+      "uz": "Ma'lumotlar olimlari ulkan va ko'pincha tartibsiz ma'lumotlar to'plamlaridan mazmunli xulosalar chiqarishlari (chizishlari) kerak."
+    },
+    "options": ["chizmoq, tortmoq", "yozmoq", "o'qimoq", "tinglamoq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 36,
+    "word": "during",
+    "definition": "throughout the course or duration of (a period of time)",
+    "sentence": {
+      "en": "Network latency significantly increased during the peak hours of the highly anticipated virtual event. [cite: 97]",
+      "uz": "Tarmoq kechikishi uzoq kutilgan virtual tadbirning tig'iz soatlari davomida sezilarli darajada oshdi."
+    },
+    "options": ["oldin", "davomida, mobaynida", "keyin", "qadar"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 37,
+    "word": "early",
+    "definition": "happening or done before the usual or expected time",
+    "sentence": {
+      "en": "Detecting chronic illnesses at an early stage drastically improves the probability of a full recovery. [cite: 99]",
+      "uz": "Surunkali kasalliklarni erta bosqichda aniqlash to'liq tiklanish ehtimolini keskin yaxshilaydi."
+    },
+    "options": ["kech", "qorong'i", "erta, vaqtli", "uzoq"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 38,
+    "word": "earth",
+    "definition": "the planet on which we live; the world",
+    "sentence": {
+      "en": "Preserving the ecological balance of the earth is the most pressing moral imperative of our era. [cite: 101]",
+      "uz": "Yerning ekologik muvozanatini saqlab qolish bizning davrimizning eng dolzarb axloqiy vazifasidir."
+    },
+    "options": ["quyosh", "oy", "yulduz", "yer, tuproq"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 39,
+    "word": "eat",
+    "definition": "put (food) into the mouth and chew and swallow it",
+    "sentence": {
+      "en": "Nutritional scientists recommend that individuals eat a diverse array of organic, plant-based foods. [cite: 103]",
+      "uz": "Ovqatlanish bo'yicha olimlar odamlarga turli xil organik, o'simliklarga asoslangan oziq-ovqatlarni iste'mol qilishni tavsiya qiladilar."
+    },
+    "options": ["yemoq", "ichmoq", "uxlamoq", "yurmoq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 40,
+    "word": "enough",
+    "definition": "as much or as many as required",
+    "sentence": {
+      "en": "Merely addressing the symptoms is not enough; we must systematically eradicate the root cause of the crisis. [cite: 105]",
+      "uz": "Shunchaki alomatlarni hal qilish yetarli emas; biz inqirozning asl sababini tizimli ravishda yo'q qilishimiz kerak."
+    },
+    "options": ["kam", "yetarli", "ko'p", "hech qancha"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 41,
+    "word": "ever",
+    "definition": "at any time",
+    "sentence": {
+      "en": "The integration of artificial intelligence is transforming the healthcare industry faster than ever before. [cite: 107]",
+      "uz": "Sun'iy intellektning integratsiyasi sog'liqni saqlash sohasini har qachongidan (qachondir) ham tezroq o'zgartirmoqda."
+    },
+    "options": ["hech qachon", "doim", "qachondir, har qachon", "ba'zan"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 42,
+    "word": "example",
+    "definition": "a thing characteristic of its kind or illustrating a general rule",
+    "sentence": {
+      "en": "The sudden collapse of the major bank serves as a stark example of inadequate regulatory oversight. [cite: 109]",
+      "uz": "Yirik bankning to'satdan qulashi nazorat qoidalarining yetarli emasligining yaqqol misoli bo'lib xizmat qiladi."
+    },
+    "options": ["savol", "javob", "xato", "misol, namuna"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 43,
+    "word": "eye",
+    "definition": "each of a pair of globular organs in the head through which people and vertebrate animals see",
+    "sentence": {
+      "en": "With a keen eye for detail, the quality assurance tester identified the subtle UI inconsistency. [cite: 111]",
+      "uz": "Tafsilotlarga o'tkir ko'z bilan qaraydigan sifat nazorati sinovchisi UI (foydalanuvchi interfeysi) dagi nozik nomuvofiqlikni aniqladi."
+    },
+    "options": ["ko'z", "quloq", "burun", "og'iz"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 44,
+    "word": "face",
+    "definition": "the front part of a person's head from the forehead to the chin",
+    "sentence": {
+      "en": "Global economies now face the daunting challenge of recovering from an unprecedented financial recession. [cite: 113]",
+      "uz": "Hozirda global iqtisodiyotlar misli ko'rilmagan moliyaviy tanazzuldan qutulishdek qiyin vazifaga yuz tutmoqdalar."
+    },
+    "options": ["qochmoq", "yuz, duch kelmoq", "yashirinmoq", "qo'rqmoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 45,
+    "word": "family",
+    "definition": "a group of one or more parents and their children living together as a unit",
+    "sentence": {
+      "en": "The socio-economic stability of the nuclear family is deeply interconnected with overarching governmental policies. [cite: 117]",
+      "uz": "Yadroviy oilaning ijtimoiy-iqtisodiy barqarorligi hukumatning umumiy siyosati bilan chuqur o'zaro bog'liqdir."
+    },
+    "options": ["do'stlar", "jamoa", "oila", "dushmanlar"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 46,
+    "word": "far",
+    "definition": "at, to, or by a great distance (used to indicate the extent to which one thing is distant from another)",
+    "sentence": {
+      "en": "The implications of widespread automation reach far beyond simple blue-collar job displacement. [cite: 118]",
+      "uz": "Keng tarqalgan avtomatlashtirishning oqibatlari oddiy jismoniy mehnat joylarini almashtirishdan ancha uzoqqa yetib boradi."
+    },
+    "options": ["yaqin", "qisqa", "tor", "uzoq"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 47,
+    "word": "father",
+    "definition": "a man in relation to his natural child or children",
+    "sentence": {
+      "en": "The founding father of modern computer science laid the theoretical groundwork for artificial intelligence. [cite: 119]",
+      "uz": "Zamonaviy kompyuter fanining asoschi otasi sun'iy intellekt uchun nazariy zamin yaratdi."
+    },
+    "options": ["ota", "ona", "aka", "uka"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 48,
+    "word": "feel",
+    "definition": "experience (an emotion or sensation)",
+    "sentence": {
+      "en": "Designing intuitive user interfaces ensures that clients feel completely comfortable navigating complex applications. [cite: 121]",
+      "uz": "Intuitiv foydalanuvchi interfeyslarini loyihalash mijozlarning murakkab ilovalarda harakatlanishda o'zlarini butunlay qulay his qilishlarini ta'minlaydi."
+    },
+    "options": ["ko'rmoq", "his qilmoq", "eshitmoq", "hidlamoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 49,
+    "word": "feet",
+    "definition": "plural of foot",
+    "sentence": {
+      "en": "The newly constructed skyscraper stands thousands of feet above the bustling urban landscape. [cite: 124]",
+      "uz": "Yangi qurilgan osmono'par bino gavjum shahar manzarasi ustidan minglab fut (oyoqlar) balandlikda qad ko'tarib turadi."
+    },
+    "options": ["qo'llar", "ko'zlar", "oyoqlar, futlar", "boshlar"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 50,
+    "word": "fire",
+    "definition": "combustion or burning, in which substances combine chemically with oxygen from the air and typically give out bright light, heat, and smoke",
+    "sentence": {
+      "en": "The devastating forest fire underscored the urgent necessity for proactive environmental management protocols. [cite: 126]",
+      "uz": "Dahshatli o'rmon yong'ini (olovi) atrof-muhitni faol boshqarish protokollarining tezkor zaruratini ta'kidladi."
+    },
+    "options": ["suv", "havo", "tuproq", "olov, yong'in"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 51,
+    "word": "red",
+    "definition": "of a color at the end of the spectrum next to orange and opposite violet",
+    "sentence": {
+      "en": "The system dashboard displays a flashing red indicator whenever a critical server malfunction occurs. [cite: 126]",
+      "uz": "Kritik server nosozligi yuz berganda, tizim boshqaruv panelida yonib-o'chuvchi qizil indikator ko'rsatiladi."
+    },
+    "options": ["qizil", "ko'k", "yashil", "sariq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 52,
+    "word": "fish",
+    "definition": "a limbless cold-blooded vertebrate animal with gills and fins and living wholly in water",
+    "sentence": {
+      "en": "Over-exploitation of international waters has driven numerous fish species to the brink of extinction. [cite: 126]",
+      "uz": "Xalqaro suvlardan ortiqcha foydalanish ko'plab baliq turlarini yo'q bo'lib ketish yoqasiga olib keldi."
+    },
+    "options": ["qush", "baliq", "hayvon", "hasharot"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 53,
+    "word": "remember",
+    "definition": "have in or be able to bring to one's mind an awareness of",
+    "sentence": {
+      "en": "It is crucial to always remember that robust cybersecurity requires constant vigilance and proactive patching. [cite: 126]",
+      "uz": "Mustahkam kiberxavfsizlik doimiy hushyorlik va faol yamoqlar (yangilanishlar) talab qilishini doimo eslab qolish juda muhimdir."
+    },
+    "options": ["unutmoq", "yo'qotmoq", "eslamoq, esda tutmoq", "bilmaslik"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 54,
+    "word": "five",
+    "definition": "equivalent to the sum of two and three",
+    "sentence": {
+      "en": "The comprehensive strategic plan outlines five primary objectives for achieving sustainable corporate growth. [cite: 126]",
+      "uz": "Keng qamrovli strategik reja barqaror korporativ o'sishga erishish uchun beshta asosiy maqsadni belgilab beradi."
+    },
+    "options": ["uch", "to'rt", "olti", "besh"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 55,
+    "word": "rest",
+    "definition": "cease work or movement in order to relax, refresh oneself, or recover strength",
+    "sentence": {
+      "en": "After completing the exhaustive deployment sequence, the engineering team finally took a well-deserved rest. [cite: 126]",
+      "uz": "Charchatuvchi joylashtirish ketma-ketligini tugatgandan so'ng, muhandislar jamoasi nihoyat munosib dam oldilar."
+    },
+    "options": ["dam olmoq, qolgan qism", "ishlamoq", "yugurmoq", "kurashmoq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 56,
+    "word": "food",
+    "definition": "any nutritious substance that people or animals eat or drink",
+    "sentence": {
+      "en": "Ensuring global food security amidst a rapidly changing climate requires revolutionary agricultural innovations. [cite: 126]",
+      "uz": "Tez o'zgarib borayotgan iqlim sharoitida global oziq-ovqat xavfsizligini ta'minlash inqilobiy qishloq xo'jaligi innovatsiyalarini talab qiladi."
+    },
+    "options": ["suv", "oziq-ovqat", "dori", "kiyim"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 57,
+    "word": "room",
+    "definition": "space that can be occupied or where something can be done",
+    "sentence": {
+      "en": "There is absolutely no room for error when calculating the trajectory of an orbital spacecraft. [cite: 126]",
+      "uz": "Orbital kosmik kemaning trayektoriyasini hisoblashda xato qilish uchun mutlaqo joy (xona) yo'q."
+    },
+    "options": ["deraza", "eshik", "xona, joy", "tom"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 58,
+    "word": "form",
+    "definition": "the visible shape or configuration of something",
+    "sentence": {
+      "en": "Developing a secure authentication form is a fundamental requirement for any modern web application. [cite: 126]",
+      "uz": "Xavfsiz autentifikatsiya shaklini (formasini) ishlab chiqish har qanday zamonaviy veb-ilova uchun asosiy talabdir."
+    },
+    "options": ["buzilish", "tashkilot", "qoida", "shakl, forma"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 59,
+    "word": "run",
+    "definition": "move at a speed faster than a walk",
+    "sentence": {
+      "en": "To effectively run a large-scale enterprise, executives must seamlessly delegate responsibilities across departments. [cite: 126]",
+      "uz": "Keng ko'lamli korxonani samarali boshqarish (yurgizish) uchun rahbarlar bo'limlar bo'ylab majburiyatlarni muammosiz topshirishlari kerak."
+    },
+    "options": ["yugurmoq, boshqarmoq", "uxlamoq", "to'xtamoq", "qulamoq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 60,
+    "word": "four",
+    "definition": "equivalent to the product of two and two",
+    "sentence": {
+      "en": "The complex algorithmic puzzle can primarily be solved using one of four distinct mathematical approaches. [cite: 126]",
+      "uz": "Murakkab algoritmik boshqotirmani asosan to'rtta alohida matematik yondashuvdan biri yordamida hal qilish mumkin."
+    },
+    "options": ["uch", "to'rt", "besh", "olti"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 61,
+    "word": "school",
+    "definition": "an institution for educating children",
+    "sentence": {
+      "en": "A progressive school curriculum should prioritize critical thinking and adaptability over rote memorization. [cite: 126]",
+      "uz": "Ilg'or maktab o'quv dasturi quruq yodlashdan ko'ra tanqidiy fikrlash va moslashuvchanlikni birinchi o'ringa qo'yishi kerak."
+    },
+    "options": ["bog'cha", "universitet", "maktab", "kasalxona"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 62,
+    "word": "front",
+    "definition": "the side or part of an object that presents itself to view or that is normally seen or used first",
+    "sentence": {
+      "en": "The revolutionary tech company is currently at the forefront of developing fully autonomous vehicles. [cite: 126]",
+      "uz": "Inqilobiy texnologiya kompaniyasi hozirda to'liq avtonom transport vositalarini ishlab chiqishning eng oldida (old qismida) turibdi."
+    },
+    "options": ["orqa", "tepa", "past", "old, oldingi"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 63,
+    "word": "sea",
+    "definition": "the expanse of salt water that covers most of the earth's surface",
+    "sentence": {
+      "en": "Rising sea levels pose an existential threat to heavily populated coastal metropolitan regions globally. [cite: 126]",
+      "uz": "Dengiz sathining ko'tarilishi butun dunyo bo'ylab aholi zich joylashgan qirg'oq bo'yidagi metropoliten mintaqalariga jiddiy tahdid solmoqda."
+    },
+    "options": ["dengiz", "okean", "ko'l", "daryo"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 64,
+    "word": "gave",
+    "definition": "past tense of give",
+    "sentence": {
+      "en": "The anonymous philanthropist gave a massive financial endowment to the leading cancer research institute. [cite: 126]",
+      "uz": "Anonim xayriyachi yetakchi saraton kasalligini o'rganish institutiga katta miqdorda moliyaviy yordam berdi."
+    },
+    "options": ["oldi", "berdi", "sotdi", "yo'qotdi"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 65,
+    "word": "second",
+    "definition": "constituting number two in a sequence; coming after the first in time or order",
+    "sentence": {
+      "en": "Optimizing the application's load time by just one second can drastically improve overall user retention. [cite: 126]",
+      "uz": "Ilovaning yuklanish vaqtini atigi bir soniyaga optimallashtirish foydalanuvchilarning umumiy saqlanishini keskin yaxshilashi mumkin."
+    },
+    "options": ["birinchi", "uchinchi", "ikkinchi, soniya", "oxirgi"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 66,
+    "word": "given",
+    "definition": "specified or stated; past participle of give",
+    "sentence": {
+      "en": "Given the current economic volatility, conservative fiscal strategies are highly recommended by leading analysts. [cite: 126]",
+      "uz": "Hozirgi iqtisodiy o'zgaruvchanlikni hisobga olgan holda (berilgan), yetakchi tahlilchilar tomonidan konservativ fiskal strategiyalar qat'iy tavsiya etiladi."
+    },
+    "options": ["olingan", "topilgan", "yashirilgan", "berilgan, hisobga olib"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 67,
+    "word": "seen",
+    "definition": "past participle of see",
+    "sentence": {
+      "en": "We have seen a remarkable paradigm shift in how consumers interact with decentralized digital currencies. [cite: 126]",
+      "uz": "Biz iste'molchilarning markazlashmagan raqamli valyutalar bilan qanday munosabatda bo'lishida ajoyib paradigma o'zgarishini ko'rdik."
+    },
+    "options": ["ko'rilgan, ko'rgan", "eshitilgan", "yozilgan", "o'qilgan"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 68,
+    "word": "got",
+    "definition": "past tense and past participle of get",
+    "sentence": {
+      "en": "The ambitious startup got a massive injection of venture capital after demonstrating their revolutionary prototype. [cite: 126]",
+      "uz": "Shuhratparast startap o'zlarining inqilobiy prototipini namoyish etgandan so'ng katta hajmdagi venchur kapitaliga ega bo'ldi (oldi)."
+    },
+    "options": ["berdi", "oldi", "ketdi", "qoldi"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 69,
+    "word": "sentence",
+    "definition": "a set of words that is complete in itself, typically containing a subject and predicate",
+    "sentence": {
+      "en": "Crafting a perfectly structured academic sentence requires a deep understanding of grammatical nuances and varied vocabulary. [cite: 126]",
+      "uz": "Mukammal tuzilgan akademik gap yaratish grammatik nuanslar va turli xil lug'atni chuqur tushunishni talab qiladi."
+    },
+    "options": ["so'z", "harf", "gap, hukm", "matn"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 70,
+    "word": "green",
+    "definition": "of the color between blue and yellow in the spectrum",
+    "sentence": {
+      "en": "Transitioning towards green energy alternatives is no longer an option, but an absolute global necessity. [cite: 126]",
+      "uz": "Yashil energiya muqobillariga o'tish endi tanlov emas, balki mutlaq global zaruratdir."
+    },
+    "options": ["qizil", "ko'k", "sariq", "yashil"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 71,
+    "word": "several",
+    "definition": "more than two but not many",
+    "sentence": {
+      "en": "The sophisticated cyberattack successfully bypassed several layers of advanced institutional network security. [cite: 126]",
+      "uz": "Murakkab kiberhujum ilg'or institutsional tarmoq xavfsizligining bir necha qatlamlarini muvaffaqiyatli aylanib o'tdi."
+    },
+    "options": ["bir necha, bir qancha", "faqat bitta", "hech qancha", "barcha"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 72,
+    "word": "short",
+    "definition": "measuring a small distance from end to end",
+    "sentence": {
+      "en": "Despite its exceedingly short duration, the intense earthquake caused catastrophic structural damage to the city. [cite: 126]",
+      "uz": "O'ta qisqa davom etishiga qaramay, kuchli zilzila shaharga halokatli tuzilmaviy zarar yetkazdi."
+    },
+    "options": ["uzun", "qisqa", "keng", "tor"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 73,
+    "word": "shown",
+    "definition": "past participle of show",
+    "sentence": {
+      "en": "Empirical studies have consistently shown a strong correlation between early childhood education and lifelong success. [cite: 126]",
+      "uz": "Empirik tadqiqotlar erta yoshdagi bolalar ta'limi va umrbod muvaffaqiyat o'rtasidagi kuchli bog'liqlikni doimiy ravishda ko'rsatmoqda."
+    },
+    "options": ["yashirilgan", "berkitilgan", "ko'rsatilgan", "yo'qotilgan"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 74,
+    "word": "since",
+    "definition": "in the intervening period between (the time mentioned) and the time under consideration",
+    "sentence": {
+      "en": "The technological landscape has evolved exponentially since the initial introduction of the ubiquitous smartphone. [cite: 126]",
+      "uz": "Keng tarqalgan smartfonning dastlabki joriy etilishidan beri texnologik manzara eksponensial ravishda rivojlandi."
+    },
+    "options": ["gacha", "oldin", "keyin", "beri, -dan buyon"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 75,
+    "word": "six",
+    "definition": "equivalent to the product of two and three",
+    "sentence": {
+      "en": "The highly anticipated software update will be officially released across all major platforms in exactly six days. [cite: 126]",
+      "uz": "Uzoq kutilgan dasturiy ta'minot yangilanishi barcha yirik platformalarda aynan olti kundan keyin rasman chiqariladi."
+    },
+    "options": ["olti", "yetti", "sakkiz", "to'qqiz"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 76,
+    "word": "slide",
+    "definition": "move along a smooth surface while maintaining continuous contact with it",
+    "sentence": {
+      "en": "The presenter used a meticulously designed slide to visually articulate the complex macroeconomic forecasting model. [cite: 126]",
+      "uz": "Taqdimotchi murakkab makroiqtisodiy prognozlash modelini vizual tarzda ifodalash uchun sinchkovlik bilan ishlab chiqilgan slayddan (sirpanishdan) foydalangan."
+    },
+    "options": ["yugurish", "sirpanmoq, slayd", "sakramoq", "uchmoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 77,
+    "word": "sometime",
+    "definition": "at some unspecified or unknown time",
+    "sentence": {
+      "en": "The committee agreed to reconvene sometime next quarter to thoroughly evaluate the project's ongoing progress. [cite: 126]",
+      "uz": "Qo'mita loyihaning davom etayotgan jarayonini har tomonlama baholash uchun kelasi chorakda qachondir qayta yig'ilishga rozi bo'ldi."
+    },
+    "options": ["hech qachon", "har doim", "qachondir", "tez-tez"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 78,
+    "word": "soon",
+    "definition": "in or after a short time",
+    "sentence": {
+      "en": "Unless immediate action is taken, the endangered species will soon be entirely eradicated from its natural habitat. [cite: 126]",
+      "uz": "Agar zudlik bilan choralar ko'rilmasa, yo'qolib ketish xavfi ostida turgan turlar tez orada o'zining tabiiy yashash joylaridan butunlay qirilib ketadi."
+    },
+    "options": ["kech", "uzoq", "hech qachon", "tez orada, yaqinda"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 79,
+    "word": "space",
+    "definition": "a continuous area or expanse which is free, available, or unoccupied",
+    "sentence": {
+      "en": "The exploration of deep space continually challenges our fundamental understanding of advanced astrophysics. [cite: 126]",
+      "uz": "Chuqur kosmosni (bo'shliqni) o'rganish ilg'or astrofizika haqidagi asosiy tushunchalarimizni doimiy ravishda sinovdan o'tkazadi."
+    },
+    "options": ["bo'shliq, koinot", "vaqt", "joy", "yulduz"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 80,
+    "word": "States",
+    "definition": "a nation or territory considered as an organized political community under one government",
+    "sentence": {
+      "en": "The treaty requires all participating States to unconditionally surrender their stockpiles of biological weapons. [cite: 126]",
+      "uz": "Shartnoma barcha ishtirokchi davlatlardan (shtatlardan) biologik qurollar zaxiralarini so'zsiz topshirishni talab qiladi."
+    },
+    "options": ["shaharlar", "shtatlar, davlatlar", "qishloqlar", "tumanlar"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 81,
+    "word": "story",
+    "definition": "an account of imaginary or real people and events told for entertainment",
+    "sentence": {
+      "en": "The compelling story of the entrepreneur’s arduous journey serves as an inspiration to aspiring innovators worldwide. [cite: 126]",
+      "uz": "Tadbirkorning mashaqqatli sayohati haqidagi jozibali hikoya butun dunyo bo'ylab intiluvchan innovatorlar uchun ilhom manbai bo'lib xizmat qiladi."
+    },
+    "options": ["she'r", "qo'shiq", "hikoya, tarix", "maqola"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 82,
+    "word": "sun",
+    "definition": "the star around which the earth orbits",
+    "sentence": {
+      "en": "Harnessing the immense energy emitted by the sun is central to reducing our dependence on fossil fuels. [cite: 126]",
+      "uz": "Quyosh chiqaradigan ulkan energiyadan foydalanish qazib olinadigan yoqilg'ilarga qaramligimizni kamaytirishda muhim ahamiyatga ega."
+    },
+    "options": ["oy", "yulduz", "sayyora", "quyosh"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 83,
+    "word": "sure",
+    "definition": "confident in what one thinks or knows; having no doubt",
+    "sentence": {
+      "en": "Rigorous quality assurance protocols ensure that developers are absolutely sure the software is bug-free before launch. [cite: 126]",
+      "uz": "Qat'iy sifat nazorati protokollari dasturchilar ishga tushirishdan oldin dasturiy ta'minotning xatosiz ekanligiga mutlaqo ishonch hosil qilishlarini (ishonchli) ta'minlaydi."
+    },
+    "options": ["ishonchli, aniq", "shubhali", "noto'g'ri", "tasodifiy"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 84,
+    "word": "table",
+    "definition": "a piece of furniture with a flat top and one or more legs",
+    "sentence": {
+      "en": "The lead negotiator brought a highly controversial, yet necessary, proposal to the diplomatic bargaining table. [cite: 126]",
+      "uz": "Bosh muzokarachi diplomatik savdolashuv stoliga o'ta bahsli, ammo zarur taklifni olib keldi."
+    },
+    "options": ["stul", "stol, jadval", "shkaf", "karavot"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 85,
+    "word": "though",
+    "definition": "despite the fact that; although",
+    "sentence": {
+      "en": "Even though the algorithm is highly complex, its modular architecture makes it remarkably easy to maintain. [cite: 126]",
+      "uz": "Garchi algoritm o'ta murakkab bo'lsa-da, uning modulli arxitekturasi uni qo'llab-quvvatlashni ajoyib darajada osonlashtiradi."
+    },
+    "options": ["chunki", "shuning uchun", "garchi, -sa ham", "lekin"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 86,
+    "word": "today",
+    "definition": "on or in the course of this present day",
+    "sentence": {
+      "en": "The interconnected digital economy of today demands unprecedented levels of robust international cybersecurity cooperation. [cite: 126]",
+      "uz": "Bugungi kundagi o'zaro bog'liq raqamli iqtisodiyot misli ko'rilmagan darajadagi mustahkam xalqaro kiberxavfsizlik hamkorligini talab qiladi."
+    },
+    "options": ["kecha", "ertaga", "indin", "bugun"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 87,
+    "word": "told",
+    "definition": "past tense and past participle of tell",
+    "sentence": {
+      "en": "The chief executive explicitly told the board of directors that further budget cuts would be severely detrimental. [cite: 126]",
+      "uz": "Bosh ijrochi direktor direktorlar kengashiga byudjetni yanada qisqartirish jiddiy zarar yetkazishini aniq aytdi."
+    },
+    "options": ["aytdi", "so'radi", "yozdi", "o'qidi"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 88,
+    "word": "took",
+    "definition": "past tense of take",
+    "sentence": {
+      "en": "The monumental engineering project took nearly a decade of relentless effort to finally complete. [cite: 126]",
+      "uz": "Ushbu ulkan muhandislik loyihasini nihoyat yakunlash uchun qariyb o'n yillik tinimsiz harakat kerak bo'ldi (oldi)."
+    },
+    "options": ["berdi", "oldi", "ketdi", "keldi"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 89,
+    "word": "top",
+    "definition": "the highest or uppermost point, part, or surface of something",
+    "sentence": {
+      "en": "Achieving top tier performance in mobile application development requires deep knowledge of memory management. [cite: 126]",
+      "uz": "Mobil ilovalarni ishlab chiqishda yuqori (eng tepa) darajadagi unumdorlikka erishish xotirani boshqarish bo'yicha chuqur bilimlarni talab qiladi."
+    },
+    "options": ["past", "yon", "tepa, cho'qqi", "o'rta"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 90,
+    "word": "toward",
+    "definition": "in the direction of",
+    "sentence": {
+      "en": "Society is rapidly moving toward an era where artificial intelligence manages routine administrative tasks. [cite: 126]",
+      "uz": "Jamiyat sun'iy intellekt muntazam ma'muriy vazifalarni boshqaradigan davrga qarab tezkorlik bilan harakatlanmoqda."
+    },
+    "options": ["orqaga", "uzoqqa", "yoniga", "tomon, -ga qarab"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 91,
+    "word": "tree",
+    "definition": "a woody perennial plant, typically having a single stem or trunk growing to a considerable height",
+    "sentence": {
+      "en": "A robust binary search tree is fundamentally critical for optimizing high-speed database retrieval operations. [cite: 126]",
+      "uz": "Mustahkam ikkilik qidiruv daraxti ma'lumotlar bazasini yuqori tezlikda qidirish operatsiyalarini optimallashtirish uchun mutlaqo muhimdir."
+    },
+    "options": ["daraxt", "gul", "maysa", "buta"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 92,
+    "word": "try",
+    "definition": "make an attempt or effort to do something",
+    "sentence": {
+      "en": "Innovative software engineers constantly try to push the perceived boundaries of modern computational capabilities. [cite: 126]",
+      "uz": "Innovatsion dasturiy ta'minot muhandislari doimo zamonaviy hisoblash imkoniyatlarining qabul qilingan chegaralarini kengaytirishga harakat qilishadi."
+    },
+    "options": ["qochmoq", "harakat qilmoq, urinmoq", "yig'lamoq", "kulmoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 93,
+    "word": "turn",
+    "definition": "move or cause to move in a circular direction wholly or partly around an axis or point",
+    "sentence": {
+      "en": "The sudden downturn in the stock market caused many nervous investors to frantically turn to safer assets. [cite: 126]",
+      "uz": "Fond bozoridagi to'satdan pasayish ko'plab asabiy sarmoyadorlarning xavfsizroq aktivlarga vahima bilan burilishiga (o'tishiga) sabab bo'ldi."
+    },
+    "options": ["to'xtamoq", "qolmoq", "burilmoq, navbat", "yiqilmoq"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 94,
+    "word": "United",
+    "definition": "joined together politically, for a common purpose, or by common feelings",
+    "sentence": {
+      "en": "The newly forged alliance ensures that the participating nations remain united against external economic pressures. [cite: 126]",
+      "uz": "Yangi tuzilgan ittifoq ishtirokchi davlatlarning tashqi iqtisodiy bosimlarga qarshi birlashgan holda qolishini ta'minlaydi."
+    },
+    "options": ["ajralgan", "tarqoq", "urushayotgan", "birlashgan"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 95,
+    "word": "until",
+    "definition": "up to (the point in time or the event mentioned)",
+    "sentence": {
+      "en": "The heavily encrypted digital archives will remain entirely inaccessible until the strictly specified date arrives. [cite: 126]",
+      "uz": "Qattiq shifrlangan raqamli arxivlar qat'iy belgilangan sana kelguniga qadar butunlay yetishib bo'lmas bo'lib qoladi."
+    },
+    "options": ["gacha, -gunicha", "keyin", "oldin", "beri"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 96,
+    "word": "upon",
+    "definition": "more formal term for on, especially in abstract senses",
+    "sentence": {
+      "en": "The entire architectural integrity of the application rests upon a highly scalable and fault-tolerant microservices framework. [cite: 126]",
+      "uz": "Ilovaning butun me'moriy yaxlitligi yuqori darajada kengaytiriladigan va xatolarga chidamli mikroservislar tizimiga (ustiga) tayanadi."
+    },
+    "options": ["tagida", "ustiga, -da", "yonida", "orqasida"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 97,
+    "word": "using",
+    "definition": "present participle of use",
+    "sentence": {
+      "en": "Automating repetitive quality assurance tasks using advanced testing frameworks drastically accelerates the development lifecycle. [cite: 126]",
+      "uz": "Ilg'or test tizimlaridan foydalangan holda takrorlanadigan sifat nazorati vazifalarini avtomatlashtirish rivojlanish davrini keskin tezlashtiradi."
+    },
+    "options": ["tashlab", "buzib", "foydalanib", "yashirib"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 98,
+    "word": "usually",
+    "definition": "under normal conditions; generally",
+    "sentence": {
+      "en": "Highly efficient backend systems usually rely on asynchronous processing to manage concurrent data streams effectively. [cite: 126]",
+      "uz": "Yuqori samarali backend tizimlari parallel ma'lumotlar oqimini samarali boshqarish uchun odatda asinxron ishlov berishga tayanadi."
+    },
+    "options": ["kamdan-kam", "hech qachon", "har doim", "odatda"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 99,
+    "word": "white",
+    "definition": "of the color of milk or fresh snow",
+    "sentence": {
+      "en": "The pristine white aesthetic of the user interface was deliberately chosen to evoke a sense of minimalist professionalism. [cite: 126]",
+      "uz": "Foydalanuvchi interfeysining musaffo oq estetikasi minimalist professionallik hissini uyg'otish uchun ataylab tanlangan."
+    },
+    "options": ["oq", "qora", "qizil", "sariq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 100,
+    "word": "whole",
+    "definition": "all of; entire",
+    "sentence": {
+      "en": "A holistic approach to software engineering considers the whole ecosystem rather than just isolated individual components. [cite: 126]",
+      "uz": "Dasturiy injiniringga yaxlit yondashuv shunchaki ajratilgan alohida komponentlarni emas, balki butun ekotizimni ko'rib chiqadi."
+    },
+    "options": ["qism", "butun, barcha", "yarim", "parcha"],
+    "correct_option_index": 1
+  }
+]

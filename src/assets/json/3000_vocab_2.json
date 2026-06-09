@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "word": "day",
+    "definition": "a period of 24 hours as a unit of time",
+    "sentence": {
+      "en": "In the modern era, processing vast amounts of data has become a day-to-day necessity for global enterprises.",
+      "uz": "Zamonaviy davrda juda katta hajmdagi ma'lumotlarni qayta ishlash global korxonalar uchun kundalik ehtiyojga aylangan."
+    },
+    "options": ["kun", "tun", "oy", "yil"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 2,
+    "word": "did",
+    "definition": "past tense of do",
+    "sentence": {
+      "en": "The extensive research did reveal several critical vulnerabilities within the newly implemented cybersecurity framework.",
+      "uz": "Keng ko'lamli tadqiqotlar yangi joriy etilgan kiberxavfsizlik tizimidagi bir qator jiddiy zaifliklarni aniqlab berdi."
+    },
+    "options": ["qildi", "ko'rdi", "ketdi", "keldi"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 3,
+    "word": "different",
+    "definition": "not the same as another or each other",
+    "sentence": {
+      "en": "Adapting to different cultural norms is essential for expatriates aiming to thrive in international business environments.",
+      "uz": "Turli xil madaniy me'yorlarga moslashish xalqaro biznes muhitida muvaffaqiyat qozonishni maqsad qilgan chet ellik xodimlar uchun o'ta muhimdir."
+    },
+    "options": ["xuddi shunday", "turli xil, boshqacha", "aniq, o'sha", "hech qanday"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 4,
+    "word": "do",
+    "definition": "perform an action, the precise nature of which is often unspecified",
+    "sentence": {
+      "en": "Governments must do everything in their power to implement sustainable urban development policies before the situation deteriorates further.",
+      "uz": "Hukumatlar vaziyat yanada yomonlashishidan oldin barqaror shaharsozlik siyosatini amalga oshirish uchun qo'llaridan kelgan barcha ishni qilishlari shart."
+    },
+    "options": ["qilmoq", "yozmoq", "o'qimoq", "uxlamoq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 5,
+    "word": "does",
+    "definition": "third person singular present of do",
+    "sentence": {
+      "en": "Implementing a centralized database does streamline administrative processes, thereby significantly reducing operational costs.",
+      "uz": "Markazlashtirilgan ma'lumotlar bazasini joriy etish ma'muriy jarayonlarni tartibga soladi va shu orqali operatsion xarajatlarni sezilarli darajada kamaytiradi (qiladi)."
+    },
+    "options": ["qilmaydi", "qiladi", "qilgan", "qilyapti"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 6,
+    "word": "don't",
+    "definition": "do not",
+    "sentence": {
+      "en": "While some experts advocate for immediate intervention, others argue that we don't yet have sufficient data to proceed safely.",
+      "uz": "Ba'zi mutaxassislar zudlik bilan aralashishni yoqlasalar-da, boshqalar xavfsiz davom etish uchun bizda hozircha yetarli ma'lumot yo'qligini ta'kidlaydilar."
+    },
+    "options": ["qiling", "qilma, -maydi", "qildi", "qilyapti"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 7,
+    "word": "down",
+    "definition": "towards or in a lower place or position",
+    "sentence": {
+      "en": "The sudden economic recession forced several multinational corporations to shut down their less profitable regional branches.",
+      "uz": "To'satdan yuz bergan iqtisodiy tanazzul bir nechta transmilliy korporatsiyalarni o'zining kam daromadli mintaqaviy filiallarini yopishga (pastga tushirishga) majbur qildi."
+    },
+    "options": ["tepaga", "ichkariga", "pastga", "tashqariga"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 8,
+    "word": "each",
+    "definition": "used to refer to every one of two or more people or things",
+    "sentence": {
+      "en": "During the intensive workshop, each participant was required to present a detailed analysis of a real-world macroeconomic crisis.",
+      "uz": "Intensiv seminar davomida har bir ishtirokchidan real dunyodagi makroiqtisodiy inqirozning batafsil tahlilini taqdim etish talab qilindi."
+    },
+    "options": ["har bir", "barcha", "hech qaysi", "ba'zi"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 9,
+    "word": "end",
+    "definition": "the final part of something",
+    "sentence": {
+      "en": "By the end of the fiscal year, the corporation aims to have achieved a completely carbon-neutral operational footprint.",
+      "uz": "Moliya yilining oxiriga kelib, korporatsiya butunlay uglerodsiz operatsion faoliyatga erishishni maqsad qilgan."
+    },
+    "options": ["boshlanishi", "oxiri", "o'rtasi", "davomi"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 10,
+    "word": "even",
+    "definition": "used to emphasize something surprising or extreme",
+    "sentence": {
+      "en": "The architectural flaw was so subtle that even the most experienced structural engineers failed to detect it during the initial inspection.",
+      "uz": "Arxitektura xatosi shu qadar sezilarsiz ediki, hatto eng tajribali qurilish muhandislari ham dastlabki tekshiruv davomida uni aniqlay olmadilar."
+    },
+    "options": ["faqat", "hatto, -ham", "garchi", "lekin"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 11,
+    "word": "every",
+    "definition": "used to refer to all the individual members of a set without exception",
+    "sentence": {
+      "en": "Ensuring that every citizen has equal access to high-quality healthcare remains a fundamental challenge for developing nations.",
+      "uz": "Har bir fuqaroning yuqori sifatli sog'liqni saqlash xizmatlaridan teng foydalanishini ta'minlash rivojlanayotgan mamlakatlar uchun asosiy muammo bo'lib qolmoqda."
+    },
+    "options": ["har bir, barcha", "hech qaysi", "faqat biri", "ayrimlari"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 12,
+    "word": "few",
+    "definition": "a small number of",
+    "sentence": {
+      "en": "Despite the overwhelming consensus among climatologists, a few skeptics continue to dispute the severity of anthropogenic global warming.",
+      "uz": "Iqlimshunoslar orasida ko'pchilik fikri yakdil bo'lishiga qaramay, bir necha shubha bilan qarovchilar antropogen global isishning jiddiyligi borasida bahslashishda davom etmoqdalar."
+    },
+    "options": ["ko'p", "bir necha, kam", "barcha", "hech qanday"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 13,
+    "word": "find",
+    "definition": "discover or perceive by chance or unexpectedly",
+    "sentence": {
+      "en": "Researchers constantly strive to find innovative methodologies that can reliably predict catastrophic seismic events.",
+      "uz": "Tadqiqotchilar halokatli seysmik hodisalarni ishonchli bashorat qila oladigan innovatsion metodologiyalarni topishga doimo intilishadi."
+    },
+    "options": ["yo'qotmoq", "izlamoq", "topmoq", "yashirmoq"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 14,
+    "word": "first",
+    "definition": "coming before all others in time or order",
+    "sentence": {
+      "en": "The first comprehensive study on microplastics in the human bloodstream has raised profound alarms within the medical community.",
+      "uz": "Inson qon oqimidagi mikroplastmassalar bo'yicha birinchi keng qamrovli tadqiqot tibbiyot hamjamiyatida chuqur xavotirlarni uyg'otdi."
+    },
+    "options": ["oxirgi", "ikkinchi", "birinchi", "o'rta"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 15,
+    "word": "for",
+    "definition": "in support of or in favor of",
+    "sentence": {
+      "en": "The government allocated a substantial budget for the extensive restoration of the city's crumbling historical infrastructure.",
+      "uz": "Hukumat shaharning nurab borayotgan tarixiy infratuzilmasini keng ko'lamli qayta tiklash uchun katta byudjet ajratdi."
+    },
+    "options": ["uchun", "bilan", "kabi", "orqali"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 16,
+    "word": "found",
+    "definition": "past tense of find",
+    "sentence": {
+      "en": "After conducting a series of rigorous double-blind trials, the scientists found that the experimental vaccine was highly effective.",
+      "uz": "Bir qator qat'iy ikki tomonlama ko'r-kona sinovlarni o'tkazgandan so'ng, olimlar eksperimental vaksinaning o'ta samarali ekanligini topdilar (aniqladilar)."
+    },
+    "options": ["topilgan, topdi", "yo'qotdi", "qaytardi", "sotdi"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 17,
+    "word": "from",
+    "definition": "indicating the point in space at which a journey, motion, or action starts",
+    "sentence": {
+      "en": "Transitioning from a fossil fuel-based economy to one powered by renewable energy necessitates unprecedented global cooperation.",
+      "uz": "Qazib olinadigan yoqilg'iga asoslangan iqtisodiyotdan qayta tiklanadigan energiyaga asoslangan iqtisodiyotga o'tish misli ko'rilmagan xalqaro hamkorlikni talab qiladi (-dan)."
+    },
+    "options": ["uchun", "-ga, qarab", "-dan", "bilan"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 18,
+    "word": "get",
+    "definition": "come to have or hold; receive",
+    "sentence": {
+      "en": "In order to get approval for the controversial housing project, the developers had to undergo an exhausting environmental assessment.",
+      "uz": "Bahsli uy-joy loyihasini tasdiqlash (olish) uchun ishlab chiquvchilar charchatuvchi ekologik ekspertizadan o'tishlari kerak edi."
+    },
+    "options": ["bermoq", "olmoq", "qilmoq", "yozmoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 19,
+    "word": "give",
+    "definition": "freely transfer the possession of",
+    "sentence": {
+      "en": "Philanthropists frequently give substantial endowments to academic institutions to foster groundbreaking scientific research.",
+      "uz": "Xayriyachilar ko'pincha ilg'or ilmiy tadqiqotlarni rivojlantirish uchun akademik muassasalarga katta miqdorda mablag' beradilar."
+    },
+    "options": ["olmoq", "bermoq", "kutmoq", "ko'rmoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 20,
+    "word": "go",
+    "definition": "move from one place to another; travel",
+    "sentence": {
+      "en": "Unless strict conservation measures are enacted, many endangered species will inevitably go extinct within the next decade.",
+      "uz": "Agar qat'iy saqlash choralari ko'rilmasa, kelgusi o'n yil ichida ko'plab yo'qolib ketish xavfi ostida turgan turlar muqarrar ravishda qirilib ketadi (ketadi)."
+    },
+    "options": ["qolmoq", "kelmoq", "bormoq, ketmoq", "yurmoq"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 21,
+    "word": "good",
+    "definition": "to be desired or approved of",
+    "sentence": {
+      "en": "A robust educational system is not just inherently good for intellectual development, but it also drives long-term economic prosperity.",
+      "uz": "Mustahkam ta'lim tizimi nafaqat intellektual rivojlanish uchun aslo yaxshi, balki uzoq muddatli iqtisodiy farovonlikni ham rag'batlantiradi."
+    },
+    "options": ["yomon", "yaxshi", "qiyin", "oson"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 22,
+    "word": "great",
+    "definition": "of an extent, amount, or intensity considerably above the normal or average",
+    "sentence": {
+      "en": "The sudden collapse of the global supply chain has caused great disruption across numerous manufacturing sectors worldwide.",
+      "uz": "Global ta'minot zanjirining to'satdan qulashi butun dunyo bo'ylab ko'plab ishlab chiqarish sohalarida katta (ulkan) uzilishlarga olib keldi."
+    },
+    "options": ["kichik", "o'rta", "ulkan, katta", "arzimas"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 23,
+    "word": "had",
+    "definition": "past tense of have",
+    "sentence": {
+      "en": "By the time the rescue team arrived at the remote location, the survivors had already managed to build a temporary shelter.",
+      "uz": "Qutqaruv guruhi uzoq hududga yetib kelguniga qadar, omon qolganlar allaqachon vaqtinchalik boshpana qurishga ulgurishgan edi (ega edilar)."
+    },
+    "options": ["bor, ega", "ega edi", "bo'ladi", "qildi"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 24,
+    "word": "has",
+    "definition": "third person singular present of have",
+    "sentence": {
+      "en": "The rapid proliferation of artificial intelligence has sparked intense ethical debates among philosophers and technologists alike.",
+      "uz": "Sun'iy intellektning tez tarqalishi faylasuflar va texnologlar orasida kuchli axloqiy bahs-munozaralarni keltirib chiqardi (ega)."
+    },
+    "options": ["ega (uchinchi shaxs)", "yo'q", "bo'lgan", "qilgan"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 25,
+    "word": "have",
+    "definition": "possess, own, or hold",
+    "sentence": {
+      "en": "Contemporary urban planners have increasingly prioritized green infrastructure to combat the adverse effects of urban heat islands.",
+      "uz": "Zamonaviy shaharsozlar shahar issiqlik orollarining salbiy ta'siriga qarshi kurashish uchun yashil infratuzilmani tobora ustuvor vazifa qilib belgilamoqdalar (ega bo'lmoqdalar)."
+    },
+    "options": ["ega bo'lmoq, bor", "yo'qotmoq", "sotmoq", "qidirmoq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 26,
+    "word": "he",
+    "definition": "used to refer to a man, boy, or male animal",
+    "sentence": {
+      "en": "Although he lacked formal political experience, the candidate's charismatic rhetoric resonated deeply with the disenfranchised voters.",
+      "uz": "Garchi u rasmiy siyosiy tajribaga ega bo'lmasa-da, nomzodning jozibali nutqi huquqdan mahrum bo'lgan saylovchilarga chuqur ta'sir qildi."
+    },
+    "options": ["u (o'g'il bola)", "u (qiz bola)", "u (narsa, hayvon)", "ular"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 27,
+    "word": "help",
+    "definition": "make it easier for (someone) to do something",
+    "sentence": {
+      "en": "Implementing progressive tax reforms could significantly help alleviate the widening wealth gap in contemporary societies.",
+      "uz": "Progressiv soliq islohotlarini amalga oshirish zamonaviy jamiyatlarda kengayib borayotgan boylik tafovutini yumshatishga yordam berishi mumkin."
+    },
+    "options": ["xalaqit bermoq", "yordam bermoq", "kuzatmoq", "o'rgatmoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 28,
+    "word": "her",
+    "definition": "used as the object of a verb or preposition to refer to a female person",
+    "sentence": {
+      "en": "The committee commended her for an incredibly thorough analysis that exposed the fundamental flaws in the corporate strategy.",
+      "uz": "Qo'mita uni korporativ strategiyadagi asosiy kamchiliklarni fosh etuvchi puxta tahlili uchun maqtadi."
+    },
+    "options": ["uning, uni (qiz bola)", "uning, uni (o'g'il bola)", "bizning", "ularning"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 29,
+    "word": "here",
+    "definition": "in, at, or to this place or position",
+    "sentence": {
+      "en": "The core argument presented here illustrates the complex interplay between macroeconomic policy and individual consumer behavior.",
+      "uz": "Bu yerda keltirilgan asosiy dalil makroiqtisodiy siyosat va shaxsiy iste'molchi xatti-harakatlari o'rtasidagi murakkab o'zaro bog'liqlikni ko'rsatadi."
+    },
+    "options": ["u yerda", "qayerda", "bu yerda", "tepada"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 30,
+    "word": "him",
+    "definition": "used as the object of a verb or preposition to refer to a male person",
+    "sentence": {
+      "en": "The unprecedented scale of the environmental disaster left him profoundly questioning the efficacy of existing regulatory frameworks.",
+      "uz": "Ekologik ofatning misli ko'rilmagan ko'lami uni mavjud me'yoriy-huquqiy bazalarning samaradorligiga chuqur shubha qilishiga olib keldi."
+    },
+    "options": ["bizni", "uni (qiz bola)", "uni (o'g'il bola)", "ularni"],
+    "correct_option_index": 2
+  }
+]
