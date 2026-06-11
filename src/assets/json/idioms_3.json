@@ -1,0 +1,1587 @@
+[
+  {
+    "id": 100,
+    "word": "Go down like a lead balloon",
+    "definition": "To be extremely unsuccessful, unloved, or unpopular.",
+    "sentence": {
+      "en": "His political joke went down like a lead balloon.",
+      "uz": "Uning siyosiy hazili mutlaqo muvaffaqiyatsiz chiqdi (hech kimga yoqmadi)."
+    },
+    "options": [
+      "havoga ko'tarilish",
+      "mutlaqo muvaffaqiyatsiz chiqish, hech kimga yoqmaslik",
+      "pufakchani uchirish",
+      "omadli bo'lish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 101,
+    "word": "Go down like ninepins",
+    "definition": "To be damaged in large numbers; when a lot of people suddenly become ill.",
+    "sentence": {
+      "en": "Trees and road signs were going down like ninepins in a storm.",
+      "uz": "Bo'ron paytida daraxtlar va yo'l belgilari ketma-ket (ommaviy ravishda) qulab tushayotgan edi."
+    },
+    "options": [
+      "ketma-ket qulash, ko'p miqdorda zarar ko'rish/kasal bo'lish",
+      "o'yin o'ynash",
+      "mustahkam turish",
+      "o'sishni boshlash"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 102,
+    "word": "Go easy on someone",
+    "definition": "To treat someone more gently, less harshly.",
+    "sentence": {
+      "en": "Go easy on your son, he's just a kid.",
+      "uz": "O'g'lingizga yumshoqroq munosabatda bo'ling (unchalik qattiq tergamang), u hali shunchaki bola."
+    },
+    "options": [
+      "birovga nisbatan yumshoqroq/muloyimroq munosabatda bo'lish",
+      "jazolash",
+      "erkin qo'yib yuborish",
+      "mensimaslik"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 103,
+    "word": "Go off-book",
+    "definition": "To not follow the script; disturb the order of things.",
+    "sentence": {
+      "en": "Stop arguing! Let's stick to the plan. I don't like it when you two go off-book like this.",
+      "uz": "Baqirishni to'xtatinglar! Rejaga amal qilaylik. Ikkalangizning bunday rejadan (ssenariydan) tashqari ish qilishingiz menga yoqmayapti."
+    },
+    "options": [
+      "kitob o'qish",
+      "rejadan/ssenariydan chetga chiqish, tartibni buzish",
+      "kitob sotib olish",
+      "rejaga qat'iy amal qilish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 104,
+    "word": "Go off the rails",
+    "definition": "Start behaving in an uncontrollable or intolerable way.",
+    "sentence": {
+      "en": "My daughter started going off the rails shortly after graduation.",
+      "uz": "Qizim o'qishni tugatgandan so'ng ko'p o'tmay yo'ldan chiqib ketdi (yomon xulq-atvor ko'rsata boshladi)."
+    },
+    "options": [
+      "poyezd halokati",
+      "nazoratdan chiqish, yo'ldan chiqib ketish (yomon xulq ko'rsatish)",
+      "to'g'ri yo'ldan borish",
+      "sayohat qilish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 105,
+    "word": "Go the extra mile",
+    "definition": "To make an extra effort; do more than is expected of you.",
+    "sentence": {
+      "en": "We need to go the extra mile to release the game on time.",
+      "uz": "O'yinni o'z vaqtida chiqarish uchun biz qo'shimcha harakat qilishimiz (kutilganidan ko'prog'ini bajarishimiz) kerak."
+    },
+    "options": [
+      "uzoqqa yugurish",
+      "qo'shimcha harakat qilish, kutilgandan ko'prog'ini bajarish",
+      "dam olish",
+      "tezroq yurish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 106,
+    "word": "Go through the floor",
+    "definition": "To fall to an ultra-low level.",
+    "sentence": {
+      "en": "Due to the crisis, resort prices have gone through the floor.",
+      "uz": "Inqiroz tufayli kurortlar (dam olish maskanlari) narxi keskin tushib ketdi (er bilan bitta bo'ldi)."
+    },
+    "options": [
+      "poldan o'tish",
+      "keskin pasayib ketish, eng past darajaga tushish",
+      "narxlar oshishi",
+      "uy ta'mirlash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 107,
+    "word": "Guard your tongue",
+    "definition": "Being very careful about what you say.",
+    "sentence": {
+      "en": "Guard your tongue, woman, you're talking about my mother!",
+      "uz": "Tilingga ehtiyot bo'l, ayol, sen mening onam haqimda gapiryapsan!"
+    },
+    "options": [
+      "tilini tishlash",
+      "gapirayotgan gapiga juda ehtiyot bo'lish",
+      "ko'p gapirish",
+      "tilsiz bo'lish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 108,
+    "word": "Hang in the balance",
+    "definition": "Not yet decided; unsure of the future; not certain what will happen to it.",
+    "sentence": {
+      "en": "After that scandal, the future of my company still hangs in the balance.",
+      "uz": "Ushbu mojarodan keyin kompaniyamning kelajagi hali ham qil ustida turibdi (noma'lum bo'lib qolmoqda)."
+    },
+    "options": [
+      "tarozida tortish",
+      "qil ustida turish, kelajagi noma'lum/hal bo'lmagan bo'lish",
+      "qaror qabul qilish",
+      "g'alaba qozonish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 109,
+    "word": "Have a bone to pick with someone",
+    "definition": "To talk to the person about the things that annoy you; to have an issue to discuss or argue about.",
+    "sentence": {
+      "en": "Darling, I've got a bone to pick with you. Why did you have dinner with your ex?",
+      "uz": "Azizim, sen bilan gaplashib oladigan gapim (g'alvam) bor. Nega yana sobiq yigiting bilan kechki ovqat tanovul qilding?"
+    },
+    "options": [
+      "kimdir bilan gaplashib oladigan muammoli gap/g'alvasi bo'lish",
+      "ovqatlanish",
+      "suyak tozalash",
+      "sovg'a berish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 110,
+    "word": "Have a bee in your bonnet",
+    "definition": "To talk a lot about something or be extremely passionate about it (mostly in a very annoying way).",
+    "sentence": {
+      "en": "He's got a bee in his bonnet about video games.",
+      "uz": "U video o'yinlar haqida gapiraverib, hamma vaqtini o'shanga bag'ishlaydi (miyasini yeb yuborgan)."
+    },
+    "options": [
+      "bosh kiyimiga asalari kirishi",
+      "biror narsaga o'ta berilib ketib, faqat shu haqda gapiraverish",
+      "sokin bo'lish",
+      "o'yin o'ynash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 111,
+    "word": "Have another string to one's bow",
+    "definition": "To emphasize that you have another plan/idea/skill to use if it's needed.",
+    "sentence": {
+      "en": "You're right, my plan didn't work, but I have another string to my bow.",
+      "uz": "To'g'ri aytasiz, mening rejam ish bermadi, lekin menda zaxira reja (boshqa imkoniyat) bor."
+    },
+    "options": [
+      "kamondan otish",
+      "zaxira reja, chora yoki qo'shimcha ko'nikmaga ega bo'lish",
+      "ipni uzish",
+      "hech qanday chorasiz qolish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 112,
+    "word": "Have a short fuse",
+    "definition": "To get angry/mad very easily.",
+    "sentence": {
+      "en": "Her boss is known to have a short fuse.",
+      "uz": "Uning boshlig'i tez jahli chiqadigan (gugurtdek tez yonadigan) odam sifatida tanilgan."
+    },
+    "options": [
+      "tez jahli chiqadigan, tez qizishadigan bo'lish",
+      "past bo'yli bo'lish",
+      "sokin bo'lish",
+      "kechirimli bo'lish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 113,
+    "word": "Have bigger fish to fry",
+    "definition": "Have more important things to do.",
+    "sentence": {
+      "en": "Sorry, I can't help you with your project, I've got bigger fish to fry!",
+      "uz": "Kechirasiz, loyihangizda yordam berolmayman, mening muhimroq ishlarim bor!"
+    },
+    "options": [
+      "baliq qovurish",
+      "muhimroq, jiddiyroq ishlari bo'lish",
+      "bo'sh bo'lish",
+      "ovqat pishirish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 114,
+    "word": "Have feet of clay",
+    "definition": "To have hidden flaws or weaknesses.",
+    "sentence": {
+      "en": "Most of the greatest minds in history had feet of clay.",
+      "uz": "Tarixdagi eng buyuk mutafakkirlarning ham yashirin kamchiliklari yoki zaif tomonlari bo'lgan."
+    },
+    "options": [
+      "loyda yurish",
+      "yashirin kamchiliklari yoki zaif tomonlari bo'lish",
+      "baquvvat bo'lish",
+      "oyoq kiyim kiyish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 115,
+    "word": "Have it in you",
+    "definition": "To have a certain quality/skill.",
+    "sentence": {
+      "en": "You don't have it in you to make the difficult choices.",
+      "uz": "Senda qiyin qarorlar qabul qila oladigan fazilat (ichki kuch) yo'q."
+    },
+    "options": [
+      "ichida biror narsa bo'lish",
+      "kerakli fazilat yoki qobiliyatga ega bo'lish",
+      "kasal bo'lish",
+      "qo'rqoq bo'lish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 116,
+    "word": "Have one's blood up",
+    "definition": "To be angry or inflamed; to be in an aggressive or violent mood.",
+    "sentence": {
+      "en": "Her offensive jokes really got my blood up.",
+      "uz": "Uning haqoratomuz hazillari qonimni qaynatib yubordi (g'azablantirdi)."
+    },
+    "options": [
+      "qoni qaynamoq, qattiq g'azablanib tajovuzkor holatga kelish",
+      "qon bosimi oshishi",
+      "xursand bo'lish",
+      "sokinlashish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 117,
+    "word": "Have the stomach for something",
+    "definition": "To have enough determination to do something difficult, risky, or unpleasant.",
+    "sentence": {
+      "en": "I don't have the stomach for a real fight.",
+      "uz": "Menda haqiqiy jang uchun yetarli jur'at (yurak) yo'q."
+    },
+    "options": [
+      "qorni og'rish",
+      "och qolish",
+      "biror qiyin/xavfli ishga jur'ati, yuragi betlash",
+      "qo'rqib qochish"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "id": 118,
+    "word": "Have your back to the wall",
+    "definition": "Find yourself in an extremely difficult situation with limited options for action.",
+    "sentence": {
+      "en": "He really has his back to the wall because of all his debts and loans.",
+      "uz": "Barcha qarzlari va kreditlari tufayli u chindan ham chorasiz (orqasi devorga taqalgan) ahvolda qoldi."
+    },
+    "options": [
+      "devorga suyanib turish",
+      "chorasiz, o'ta qiyin ahvolda qolish",
+      "xavfsiz joyda bo'lish",
+      "dam olish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 119,
+    "word": "Have your fair share of something",
+    "definition": "A lot or more than enough of something.",
+    "sentence": {
+      "en": "He's had his fair share of failures in his life.",
+      "uz": "U hayotida yetarlicha (ancha-muncha) omadsizliklarni boshdan kechirgan."
+    },
+    "options": [
+      "o'z hissasini olish",
+      "biror narsadan yetarlicha (ortig'i bilan) boshdan kechirish/ega bo'lish",
+      "adolatli bo'lish",
+      "hech narsasiz qolish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 120,
+    "word": "Hold sway",
+    "definition": "To have a great influence on someone's opinion or behaviour; to control someone/something.",
+    "sentence": {
+      "en": "Traditional values still hold sway in our home.",
+      "uz": "Bizning uyimizda an'anaviy qadriyatlar hali ham katta ta'sirga ega (hukmronlik qiladi)."
+    },
+    "options": [
+      "tebranish",
+      "katta ta'sirga ega bo'lish, hukmronlik/nazorat qilish",
+      "yutqazish",
+      "erkinlik berish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 121,
+    "word": "Hot on the trail of",
+    "definition": "Close to catching someone; close to finding something.",
+    "sentence": {
+      "en": "A detective is hot on the trail of the murderer.",
+      "uz": "Detektiv qotilning ketidan tushgan (uni tutishga juda yaqin turibdi)."
+    },
+    "options": [
+      "issiq izidan borish, tutishga juda yaqin bo'lish",
+      "izni yo'qotish",
+      "issiq havoda yurish",
+      "yugurish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 122,
+    "word": "Hot under the collar",
+    "definition": "Extremely angry or embarrassed.",
+    "sentence": {
+      "en": "I got really hot under the collar when my ex showed up at the party.",
+      "uz": "Ziyofatda sobiq sevgilim paydo bo'lganida juda qattiq g'azablandim (yoki noqulay ahvolda qoldim)."
+    },
+    "options": [
+      "yoqasi issiq bo'lish",
+      "qattiq g'azablanish yoki qattiq xijolat bo'lish",
+      "kasal bo'lish",
+      "sovuq qotish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 123,
+    "word": "If all else fails",
+    "definition": "If all other attempts have failed; if what was planned cannot happen.",
+    "sentence": {
+      "en": "If all else fails, I can get into the fashion business.",
+      "uz": "Agar boshqa barcha rejalarim ish bermasa (chippakka chiqsa), moda biznesiga kirishishim mumkin."
+    },
+    "options": [
+      "hamma narsa muvaffaqiyatli bo'lsa",
+      "agar boshqa barcha choralar/rejalar ish bermasa",
+      "yordam so'rashsa",
+      "hech narsa qilmaslik"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 124,
+    "word": "In a bind",
+    "definition": "To be in a difficult, tough, or threatening situation.",
+    "sentence": {
+      "en": "I'm in a bind to pay my bills this month.",
+      "uz": "Bu oy to'lovlarni to'lashda qiyin (tang) ahvolda qoldim."
+    },
+    "options": [
+      "bog'langan bo'lish",
+      "qiyin, tang yoki xavfli vaziyatda bo'lish",
+      "erkin bo'lish",
+      "pul topish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 125,
+    "word": "In a stew",
+    "definition": "Worried; confused; upset.",
+    "sentence": {
+      "en": "Jennifer is all in a stew over her lost mobile phone.",
+      "uz": "Jennifer yo'qolgan telefoni tufayli juda xavotirda va es-hushini yo'qotgan ahvolda."
+    },
+    "options": [
+      "sho'rva ichida bo'lish",
+      "xavotirda, parishonxotir yoki xafa bo'lish",
+      "xursand bo'lish",
+      "ovqat pishirish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 126,
+    "word": "In cold blood",
+    "definition": "In an unemotional way; in a cruel and calm way.",
+    "sentence": {
+      "en": "She shot him in cold blood.",
+      "uz": "U uni shafqatsizlarcha va sovuqqonlik bilan (hech qanday his-tuyg'usiz) otib tashladi."
+    },
+    "options": [
+      "sovuqqonlik bilan, shafqatsizlarcha",
+      "tasodifan",
+      "o'zini himoya qilib",
+      "g'azab ustida"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 127,
+    "word": "In fits and starts",
+    "definition": "Not stable; not smooth; often stops and then starts again.",
+    "sentence": {
+      "en": "The music player works in fits and starts.",
+      "uz": "Musika pleyeri barqaror ishlamayapti (tez-tez to'xtab, keyin yana ishlab ketyapti)."
+    },
+    "options": [
+      "tez va oson",
+      "to'xtab-to'xtab, barqaror bo'lmagan tarzda",
+      "to'xtovsiz, bir tekisda",
+      "shifoxonada"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 128,
+    "word": "In full swing",
+    "definition": "At the peak of activity.",
+    "sentence": {
+      "en": "When we arrived, the party was in full swing.",
+      "uz": "Biz yetib kelganimizda, ziyofat ayni qizigan (avjiga chiqqan) pallada edi."
+    },
+    "options": [
+      "arqonda uchish",
+      "ayni avjiga chiqqan, qizigan pallada",
+      "tugash arafasida",
+      "zerikarli holatda"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 129,
+    "word": "In one piece",
+    "definition": "Unscathed; without being damaged.",
+    "sentence": {
+      "en": "An icicle fell on me, but thankfully I am still in one piece.",
+      "uz": "Ustimga muz bo'lagi tushib ketdi, lekin xayriyatki, sog'-salomatman (shikastlanmadim)."
+    },
+    "options": ["bir bo'lak", "sog'-salomat, shikastlanmasdan", "singan holda", "alohida"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 130,
+    "word": "In someone's bad books",
+    "definition": "In someone's disfavour.",
+    "sentence": {
+      "en": "I'm in her bad books because I forgot her birthday.",
+      "uz": "Tug'ilgan kunini unutib qo'yganim uchun uning nazaridan qoldim (g'azabiga duchor bo'ldim)."
+    },
+    "options": [
+      "yomon kitob o'qish",
+      "kimningdir nazaridan qolish, yoqimsiz bo'lib qolish",
+      "kutubxonada bo'lish",
+      "yaxshi ko'rish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 131,
+    "word": "In store for someone",
+    "definition": "Forthcoming; about to happen to someone; planned for someone.",
+    "sentence": {
+      "en": "I have a big surprise in store for you.",
+      "uz": "Siz uchun tayyorlab qo'yilgan (tez orada sodir bo'ladigan) katta syurprizim bor."
+    },
+    "options": [
+      "do'kon ichida",
+      "kutilayotgan, yaqin orada sodir bo'ladigan",
+      "o'tmishda qolgan",
+      "sotib olingan"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 132,
+    "word": "In the fullness of time",
+    "definition": "Eventually; after a long time.",
+    "sentence": {
+      "en": "All her secrets will be revealed in the fullness of time.",
+      "uz": "Vaqti-soati kelib (uzoq vaqtdan keyin), uning barcha sirlari fosh bo'ladi."
+    },
+    "options": [
+      "vaqti-soati kelib, uzoq vaqtdan keyin",
+      "ayni vaqtda",
+      "juda tez fursatda",
+      "vaqt yetishmasligi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 133,
+    "word": "In words of one syllable",
+    "definition": "In clear and simple language without complicated words and expressions.",
+    "sentence": {
+      "en": "Please explain this theorem to me in words of one syllable.",
+      "uz": "Iltimos, bu teoremani menga oddiy va tushunarli tilda (murakkab so'zlarsiz) tushuntirib bering."
+    },
+    "options": [
+      "bir bo'g'inli so'zlar bilan",
+      "oddiy va tushunarli tilda, londa qilib",
+      "ilm-fan tilida",
+      "chet tilida"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 134,
+    "word": "Itching to do something",
+    "definition": "Being extremely impatient because you want to do/get something as soon as possible.",
+    "sentence": {
+      "en": "He's itching to get back to work.",
+      "uz": "U ishga qaytishga oshiqmoqda (tinchlik bilmay sabrsizlanyapti)."
+    },
+    "options": [
+      "badani qashish",
+      "biror narsa qilishga o'ta sabrsizlanish/oshiqish",
+      "ishlashni xohlamaslik",
+      "dam olish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 135,
+    "word": "It's high time",
+    "definition": "To emphasize that it's time to do what should have been done a long time ago.",
+    "sentence": {
+      "en": "It's high time you got a job.",
+      "uz": "Ishga kirishingning ayni vaqti keldi (allaqachon ishga kirishing kerak edi)."
+    },
+    "options": [
+      "allaqachon bajarilishi kerak bo'lgan ayni vaqti kelish",
+      "hali vaqt borligi",
+      "baland joyda bo'lish",
+      "kech qolish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 136,
+    "word": "It's no skin off my nose",
+    "definition": "To emphasize that you don't care if someone does something, because it's not your responsibility.",
+    "sentence": {
+      "en": "It's no skin off my nose if they stop working with us, I am just a trainee.",
+      "uz": "Agar ular biz bilan ishlashni to'xtatishsa, menga farqi yo'q (menga issiq-sovug'i yo'q), men shunchaki amaliyotchiman."
+    },
+    "options": [
+      "burni shikastlanish",
+      "menga farqi yo'q, issiq-sovug'i yo'q",
+      "mening mas'uliyatim",
+      "juda xafaman"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 137,
+    "word": "Jog someone's memory",
+    "definition": "To refresh someone's memory; to help someone remember something.",
+    "sentence": {
+      "en": "That family photo jogged my memory.",
+      "uz": "Ushbu oilaviy surat xotiramni yangiladi (eslashimga yordam berdi)."
+    },
+    "options": [
+      "yugurish",
+      "xotirani yangilash, eslatib yuborish",
+      "unutib qo'yish",
+      "miya chayqalishi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 138,
+    "word": "Jumping-off point",
+    "definition": "A starting point for an activity, journey, or project.",
+    "sentence": {
+      "en": "Amsterdam is the best jumping-off point for a trip to the Netherlands.",
+      "uz": "Amsterdam Niderlandiyaga sayohat qilish uchun eng yaxshi boshlang'ich nuqtadir."
+    },
+    "options": ["sakrash joyi", "boshlang'ich nuqta, start", "yakuniy nuqta", "xavfli hudud"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 139,
+    "word": "Jumping on shadows",
+    "definition": "Being intensely frightened by things that shouldn't normally frighten you.",
+    "sentence": {
+      "en": "Ever since she returned, she's been jumping on shadows.",
+      "uz": "Qaytib kelganidan beri u vahimakash bo'lib qolgan (arzimas narsalardan, o'z soyasidan ham qo'rqadi)."
+    },
+    "options": [
+      "soyaga sakrash",
+      "arzimas narsalardan vahimaga tushish, o'z soyasidan qo'rqish",
+      "jasur bo'lish",
+      "tunda yurish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 140,
+    "word": "Keep a low profile",
+    "definition": "To avoid attracting attention.",
+    "sentence": {
+      "en": "I hope you will try to keep a low profile tonight; the police are looking for you.",
+      "uz": "Umid qilamanki, bugun kechasi e'tiborni tortmaslikka (tinchroq yurishga) harakat qilasan, chunki polisiya seni qidirmoqda."
+    },
+    "options": [
+      "o'zini pastga urish",
+      "e'tiborni tortmaslikka harakat qilish, yashirinroq yurish",
+      "mashhur bo'lish",
+      "baland ovozda gapirish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 141,
+    "word": "Keep one's chin up",
+    "definition": "To stay cheerful during difficult or challenging times.",
+    "sentence": {
+      "en": "I'll try my best to keep my chin up, thanks dad.",
+      "uz": "Ruhimni tushirmaslikka (tetik turishga) harakat qilaman, rahmat dada."
+    },
+    "options": [
+      "iyagini ko'tarish",
+      "og'ir damlarda tushkunlikka tushmaslik, tetik turish",
+      "mag'rurlanish",
+      "yig'lab yuborish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 142,
+    "word": "Keep one's nose to the grindstone",
+    "definition": "To do intensive, heavy, or continuous work.",
+    "sentence": {
+      "en": "Dina's got to keep her nose to the grindstone to feed her family.",
+      "uz": "Oilasini boqish uchun Dina tinimsiz va qattiq mehnat qilishi kerak."
+    },
+    "options": [
+      "burnini tegizish",
+      "tinimsiz va qattiq mehnat qilish",
+      "dam olish",
+      "ishdan qochish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 143,
+    "word": "Keep one's powder dry",
+    "definition": "To remain calm and be fully prepared for a particular situation/event.",
+    "sentence": {
+      "en": "Conflict may not arise, but there is no harm in keeping your powder dry.",
+      "uz": "Mojaro kelib chiqmasligi mumkin, lekin shay turishning (har qanday vaziyatga tayyor turishning) zarari yo'q."
+    },
+    "options": [
+      "dorini quruq saqlash",
+      "har qanday vaziyatga shay/tayyor turish",
+      "tinchlanish",
+      "tavakkal qilish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 144,
+    "word": "Keep one's eyes peeled",
+    "definition": "To watch very carefully.",
+    "sentence": {
+      "en": "Just drive slowly and keep your eyes peeled.",
+      "uz": "Shunchaki sekin haydang va ko'zingizni shartta ochib (hushyor bo'lib) boring."
+    },
+    "options": [
+      "ko'zini yumish",
+      "juda ehtiyotkor va hushyor bo'lib kuzatish",
+      "tez haydash",
+      "u uxlashni xohlaydi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 145,
+    "word": "Keep one's hair on",
+    "definition": "To urge someone not to panic and stay calm.",
+    "sentence": {
+      "en": "Keep your hair on, we're almost there!",
+      "uz": "Xavotirlanma, o'zingni bos, deyarli yetib keldik!"
+    },
+    "options": [
+      "sochini tarash",
+      "vafot etish",
+      "beparvo bo'lish",
+      "vahmaga tushmaslik, xotirjamlikni saqlash"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "id": 146,
+    "word": "Keep tabs on",
+    "definition": "To watch someone/something carefully; always know where someone/something is.",
+    "sentence": {
+      "en": "How should I know where Jimmy is? I don't keep tabs on him.",
+      "uz": "Jimmi qayerdaligini men qayerdan bilay? Uni nazorat qilib (kuzatib) yurganim yo'q-ku."
+    },
+    "options": [
+      "kuzatib/nazorat qilib yurish",
+      "yorliqlarni saqlash",
+      "erkin qo'yib yuborish",
+      "do'stlashish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 147,
+    "word": "Kill or cure",
+    "definition": "Either success or total failure.",
+    "sentence": {
+      "en": "This project will be kill or cure for our company.",
+      "uz": "Bu loyiha kompaniyamiz uchun yo hayot-mamot (yo to'liq g'alaba yoki butunlay inqiroz) bo'ladi."
+    },
+    "options": [
+      "o'ldirish yoki davolash",
+      "yo g'alaba yoki mutlaqo mag'lubiyat (yo hayot yo mamot)",
+      "tibbiy muolaja",
+      "doimiy daromad"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 148,
+    "word": "Know something by heart",
+    "definition": "To memorize something completely.",
+    "sentence": {
+      "en": "I'm pretty sure I know this song by heart.",
+      "uz": "Bu qo'shiqni yoddan (yurakdan) bilishimga mutlaqo aminman."
+    },
+    "options": [
+      "yoddan bilish, yodlab olish",
+      "yuragi bilan his qilish",
+      "tushunmaslik",
+      "unutib qo'yish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 149,
+    "word": "Labour the point",
+    "definition": "Keep talking or pitching your idea/plan in a boring or annoying manner.",
+    "sentence": {
+      "en": "I don't want to labour the point, but my project is much better.",
+      "uz": "Bir gapni chaynayverishni (asabga tegishni) xohlamayman-u, lekin mening loyiham ancha yaxshi."
+    },
+    "options": [
+      "og'ir mehnat qilish",
+      "bir gapni qayta-qayta gapirib jonga tegish",
+      "fikrini o'zgartirish",
+      "londa gapirish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 150,
+    "word": "Lead someone a merry dance",
+    "definition": "To treat someone unfairly or badly over a period of time; to cause a lot of problems.",
+    "sentence": {
+      "en": "She led me a merry dance before I finally got her to sign the papers.",
+      "uz": "Hujjatlarni imzolashga ko'ndirgunimcha u meni rosa sarson qildi (boshimga ko'p muammo soldi)."
+    },
+    "options": [
+      "raqsga tushish",
+      "birovni uzoq vaqt sarson qilish, boshiga muammo solish",
+      "xursand qilish",
+      "to'g'ri yo'l ko'rsatish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 151,
+    "word": "Lead someone down the garden path",
+    "definition": "To mislead; cheat; deceive.",
+    "sentence": {
+      "en": "Vince may have led me down the garden path with that investment opportunity.",
+      "uz": "Vins o'sha investisiya imkoniyati bilan meni chalg'itgan (aldagan) bo'lishi mumkin."
+    },
+    "options": [
+      "boqqa olib borish",
+      "chalg'itish, aldash, laqillatish",
+      "to'g'ri maslahat berish",
+      "yordam berish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 152,
+    "word": "Leap in the dark",
+    "definition": "An action performed without the certainty of what will happen as a result.",
+    "sentence": {
+      "en": "My move to Europe was a leap in the dark.",
+      "uz": "Yevropaga ko'chib o'tishim tavakkalchilik (natijasi noma'lum bo'lgan qadam) edi."
+    },
+    "options": [
+      "qorong'uda sakrash",
+      "tavakkalchilik, natijasi noma'lum bo'lgan ishga qo'l urish",
+      "aniq reja bilan ish qilish",
+      "yaxshi imkoniyat"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 153,
+    "word": "Leave in the lurch",
+    "definition": "To leave/abandon someone at a time when they really need your assistance or support.",
+    "sentence": {
+      "en": "My colleagues left me in the lurch and I had to finish the report myself.",
+      "uz": "Hamkasblarim meni qiyin ahvolda (yordam kerak paytda) tashlab ketishdi va hisobotni o'zim yakunlashimga to'g'ri keldi."
+    },
+    "options": [
+      "og'ir ahvolda, yordamga muhtoj paytda tashlab ketish",
+      "sovg'a qoldirish",
+      "yordamga kelish",
+      "uyda qoldirish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 154,
+    "word": "Leave no stone unturned",
+    "definition": "To do everything you can to find something.",
+    "sentence": {
+      "en": "Ginny left no stone unturned in her search for her real parents.",
+      "uz": "Jinni haqiqiy ota-onasini topish uchun hamma chorani ko'rdi (qidirilmagan joy qoldirmadi)."
+    },
+    "options": [
+      "toshlarni ag'darish",
+      "hamma chorani ko'rish, qidirilmagan joy qoldirmaslik",
+      "taslim bo'lish",
+      "hech narsa qilmaslik"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 155,
+    "word": "Lend an ear",
+    "definition": "To listen to someone in a friendly and sympathetic manner.",
+    "sentence": {
+      "en": "My friends are always ready to lend an ear to me.",
+      "uz": "Do'stlarim har doim meni chin dildan tinglashga (dardimga quloq solishga) tayyor."
+    },
+    "options": [
+      "quloq qarz berish",
+      "dardiga quloq solish, chin dildan tinglash",
+      "eshitishni xohlamaslik",
+      "shovqin solish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 156,
+    "word": "Lie low",
+    "definition": "To remain hidden; to try not to be seen or noticed.",
+    "sentence": {
+      "en": "After the last fraud, the scammers decided to lie low for a while.",
+      "uz": "Oxirgi firibgarlikdan keyin, firibgarlar bir muddat pismayib (yashirinib) turishga qaror qilishdi."
+    },
+    "options": [
+      "pismayib turish, ko'zga ko'rinmaslikka harakat qilish",
+      "yerda yotish",
+      "oshkora yurish",
+      "dam olish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 157,
+    "word": "Load the dice against someone",
+    "definition": "To put someone at a disadvantage.",
+    "sentence": {
+      "en": "Lack of experience loaded the dice against Sarah as a candidate.",
+      "uz": "Tajribasizlik Sara uchun nomzod sifatida imkoniyatlarini pasaytirdi (uni noqulay ahvolga qo'ydi)."
+    },
+    "options": [
+      "oshpazlik qilish",
+      "noqulay ahvolga solish, imkoniyatlarini cheklash",
+      "omad keltirish",
+      "osh o'yin o'ynash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 158,
+    "word": "Long shot",
+    "definition": "With very little chance of success.",
+    "sentence": {
+      "en": "It's a long shot, but I still want to try to get the job.",
+      "uz": "Imkoniyat juda kam (ehtimoli past), lekin barbir bu ishga kirishga urinib ko'rmoqchiman."
+    },
+    "options": [
+      "uzoqqa otish",
+      "ehtimoli juda past bo'lgan kichik imkoniyat",
+      "aniq g'alaba",
+      "uzun qurol"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 159,
+    "word": "Loosen someone's tongue",
+    "definition": "To make someone speak more openly or freely.",
+    "sentence": {
+      "en": "The beer had loosened John's tongue.",
+      "uz": "Pivo Jonning tilini kalitini ochgan edi (ochiqroq gapirishga majbur qildi)."
+    },
+    "options": [
+      "tilini kesish",
+      "tilini burro qilish, ochiq gapirishga majbur qilish",
+      "gapirishni taqiqlash",
+      "tili og'rish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 160,
+    "word": "Lose one's bottle",
+    "definition": "To lose one's nerve or courage in a stressful situation.",
+    "sentence": {
+      "en": "I wanted to fight him back, but I lost my bottle at the last minute.",
+      "uz": "Unga qarshi kurashmoqchi edim, lekin oxirgi soniyada yuragim orqaga tortib ketdi (g'ayratim/shijoatim so'ndi)."
+    },
+    "options": [
+      "shishani yo'qotish",
+      "shijoatini/yuragini yo'qotish, qo'rqib qolish",
+      "ichkilikni tashlash",
+      "g'alaba qozonish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 161,
+    "word": "Magic touch",
+    "definition": "The ability to do something extremely well.",
+    "sentence": {
+      "en": "He has a magic touch in the kitchen.",
+      "uz": "Uning qo'li gul (oshxonada har qanday taomni ajoyib pishiradi)."
+    },
+    "options": [
+      "sehrgarlik qilish",
+      "qo'li gul bo'lish, biror ishni o'ta mahorat bilan bajarish",
+      "teginish",
+      "yomon ishlash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 162,
+    "word": "Make a meal of something",
+    "definition": "To treat something in a way that makes it seem more significant, valuable, or important than it actually is.",
+    "sentence": {
+      "en": "Students always make such a meal of the simplest test.",
+      "uz": "Talabalar har doim eng oddiy testni ham haddan tashqari bo'rttirib (katta muammo qilib) yuborishadi."
+    },
+    "options": [
+      "ovqat tayyorlash",
+      "arzimas narsani haddan tashqari bo'rttirish/muammo qilish",
+      "tezda yeb qo'yish",
+      "beparvo bo'lish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 163,
+    "word": "Make a rod for your own back",
+    "definition": "To do something that will cause you trouble/problems in the future.",
+    "sentence": {
+      "en": "Our management made a rod for their own back when they fired skilled workers.",
+      "uz": "Rahbariyatimiz malakali xodimlarni bo'shatib, o'z boshiga o'zi balo orttirdi (kelajakda muammo yaratdi)."
+    },
+    "options": [
+      "o'z boshiga o'zi balo orttirish (kelajakda muammo tug'diradigan ish qilish)",
+      "tayoq yasash",
+      "boshqalarga yordam berish",
+      "orqasini ta'mirlash"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 164,
+    "word": "Move heaven and earth",
+    "definition": "To try as hard as you can to achieve something; to stop at nothing.",
+    "sentence": {
+      "en": "I had to move heaven and earth to get my dream job.",
+      "uz": "Orzuyimdagi ishga kirish uchun yerni ham, ko'kni ham larzaga keltirdim (bor imkoniyatimni ishga soldim)."
+    },
+    "options": [
+      "yer-u ko'kni larzaga keltirish, bor kuchini ishga solish",
+      "sayohat qilish",
+      "hech narsa qilmaslik",
+      "ko'chib ketish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 165,
+    "word": "Nip something in the bud",
+    "definition": "To stop something at an early stage before it becomes a big problem.",
+    "sentence": {
+      "en": "It is extremely important to nip this problem in the bud.",
+      "uz": "Bu muammoni kurtak yozmasidanoq (ildizi bilan boshlang'ich bosqichda) bartaraf etish o'ta muhim."
+    },
+    "options": [
+      "gullarni uzish",
+      "muammoni boshlang'ich bosqichidayoq bartaraf etish",
+      "katta bo'lishini kutish",
+      "yordam berish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 166,
+    "word": "Nod is as good as a wink",
+    "definition": "To emphasize that there is no need to explain something further, because the person already understands or knows enough about it.",
+    "sentence": {
+      "en": "Come on, a nod is as good as a wink. It's all because of him.",
+      "uz": "Bo'ldi-da endi, tushunganga ishora ham kifoya (ortiqcha tushuntirish shart emas)."
+    },
+    "options": [
+      "bosh irg'atish",
+      "tushunganga ishora kifoya (ortiqcha tushuntirish shart emasligi)",
+      "ko'z qisish",
+      "hech narsani tushunmaslik"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 167,
+    "word": "No holds barred",
+    "definition": "Without any restrictions or limits.",
+    "sentence": {
+      "en": "In my house you can do whatever you want, no holds barred.",
+      "uz": "Mening uyimda nima xohlasang qilishing mumkin, hech qanday cheklovlar yo'q."
+    },
+    "options": [
+      "hech qanday cheklovlarsiz, erkin",
+      "qat'iy qoidalar ostida",
+      "taqiqlangan joy",
+      "urush maydoni"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 168,
+    "word": "No picnic",
+    "definition": "Quite difficult or unpleasant.",
+    "sentence": {
+      "en": "College life is no picnic; it requires hard work.",
+      "uz": "Kollej hayoti senga bayram (yengil-yelpi sayr) emas, u qattiq mehnat talab qiladi."
+    },
+    "options": [
+      "pknik taqiqlangan",
+      "oson yoki yoqimli ish emas (ancha qiyin)",
+      "tabiat qo'ynida dam olish",
+      "juda oson"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 169,
+    "word": "No prizes for guessing",
+    "definition": "To emphasize that it is very easy to guess something; something that is very obvious.",
+    "sentence": {
+      "en": "No prizes for guessing where John is; he is always at the bar.",
+      "uz": "Jonning qayerdaligini topish qiyin emas (bu hammaga ayon), u doim barda."
+    },
+    "options": [
+      "topish/taxmin qilish qiyin emas, hammaga ayon",
+      "sovg'a bermaslik",
+      "topishning ilojisi yo'q",
+      "yangi o'yin"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 170,
+    "word": "Not a bed of roses",
+    "definition": "Having some unpleasant aspects.",
+    "sentence": {
+      "en": "My job is not a bed of roses.",
+      "uz": "Mening ishim senga atirgullar to'shalgan joy emas (o'ziga yarasha qiyinchiliklari bor)."
+    },
+    "options": [
+      "atirgul ekish",
+      "gullagan hayot",
+      "hayot hamma vaqt ham oson/yoqimli bo'lavermasligi",
+      "uxlaydigan joy"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "id": 171,
+    "word": "Not a hair out of place",
+    "definition": "To have a very neat/tidy appearance.",
+    "sentence": {
+      "en": "He was so gorgeous in his new suit, not a hair out of place.",
+      "uz": "Yangi kostyumida shunchalik kelishgan ediki, ust-boshi top-toza va saranjom (sochining bir tolamasi ham asliga bejo emas) edi."
+    },
+    "options": [
+      "sochi to'kilish",
+      "ust-boshi o'ta saranjom, top-toza bo'lish",
+      "tartibsiz bo'lish",
+      "yangi kiyim sotib olish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 172,
+    "word": "Not budge an inch",
+    "definition": "To refuse to change your mind/position.",
+    "sentence": {
+      "en": "I tried to negotiate a better offer but they wouldn't budge an inch.",
+      "uz": "Men yaxshiroq taklif bo'yicha kelishmoqchi bo'ldim, lekin ular bir qadam ham ortga chekinishmadi (o'z so'zida qat'iy turishdi)."
+    },
+    "options": [
+      "bir dyuym yurish",
+      "o'z fikridan/pozisiyasidan mutlaqo chekinmaslik",
+      "tezda rozi bo'lish",
+      "yo'qolib qolish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 173,
+    "word": "Not have a care in the world",
+    "definition": "Without worrying about anything.",
+    "sentence": {
+      "en": "I miss the old school days, when I didn't have a care in the world.",
+      "uz": "Eski maktab davrlarini sog'inaman, o'shanda dunyoda hech qanday tashvishim yo'q edi."
+    },
+    "options": [
+      "hech qanday g'am-tashvishi bo'lmaslik, beparvo yashash",
+      "dunyo kezish",
+      "juda ko'p muammosi bo'lish",
+      "bemor bo'lish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 174,
+    "word": "Not have a leg to stand on",
+    "definition": "To have no proof of your rightness/correctness.",
+    "sentence": {
+      "en": "I don't have a leg to stand on. It's only my word against hers.",
+      "uz": "Menda o'zimni oqlash uchun hech qanday dalil (asoslash) yo'q. Bu shunchaki mening gapim uning gapiga qarshi xolos."
+    },
+    "options": [
+      "oyog'i bo'lmaslik",
+      "o'z fikrini isbotlash uchun hech qanday dalil/asosga ega bo'lmaslik",
+      "tik tura olmaslik",
+      "g'alaba qozonish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 175,
+    "word": "Not in one's right mind",
+    "definition": "Mentally ill; cannot think clearly.",
+    "sentence": {
+      "en": "Leave her alone, she's not in her right mind at the moment.",
+      "uz": "Uni tinch qo'ying, u hozir o'ziga kelganicha yo'q (es-hushi joyida emas)."
+    },
+    "options": [
+      "es-hushi joyida bo'lmaslik, sog'lom o'ylay olmaslik",
+      "to'g'ri yo'lda bo'lish",
+      "haq bo'lish",
+      "juda aqlli bo'lish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 176,
+    "word": "Not best pleased",
+    "definition": "Annoyed; irritated; angry; unhappy.",
+    "sentence": {
+      "en": "I wasn't best pleased when my mother married again.",
+      "uz": "Onam qaytadan turmushga chiqqanida men bundan unchalik xursand bo'lmadim (jahlim chiqdi)."
+    },
+    "options": [
+      "juda mamnun bo'lish",
+      "unchalik xursand bo'lmaslik, norozi/g'azabda bo'lish",
+      "eng yaxshisini tanlash",
+      "beparvo bo'lish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 177,
+    "word": "No two ways about it",
+    "definition": "Definitely; for sure; without a doubt.",
+    "sentence": {
+      "en": "If you leave me here alone, I'll break up with you! No two ways about it!",
+      "uz": "Agar meni bu yerda yolg'iz qoldirib ketsang, sendan ajralaman! Buning boshqa yo'li (shubhasi) yo'q!"
+    },
+    "options": [
+      "ikki xil yo'l bo'lishi",
+      "buning boshqa yo'li yo'q, bu aniq/shubhasiz",
+      "ikkilanish",
+      "noto'g'ri qaror"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 178,
+    "word": "Off one's hands",
+    "definition": "Removed from one's responsibility; no longer needing to be looked after.",
+    "sentence": {
+      "en": "If you are unable to complete these tasks, I'll be glad to take them off your hands.",
+      "uz": "Agar bu vazifalarni bajara olmasangiz, ularni zimmangizdan soqit qilishdan (o'z zimmamga olishdan) xursand bo'laman."
+    },
+    "options": [
+      "qo'lidan tushib ketish",
+      "mas'uliyatdan/zimmadan soqit bo'lish",
+      "yordam so'rash",
+      "qo'li bilan bajarish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 179,
+    "word": "Off the mark",
+    "definition": "Not correct; inaccurate; wrong.",
+    "sentence": {
+      "en": "The facts she provided are way off the mark.",
+      "uz": "U taqdim etgan faktlar mutlaqo noto'g'ri (haqiqatdan yiroq)."
+    },
+    "options": [
+      "to'g'ri, aniq",
+      "nishonga tegish",
+      "noto'g'ri, haqiqatdan yiroq, xato",
+      "yangi belgi"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "id": 180,
+    "word": "Of the essence",
+    "definition": "Absolutely necessary in a particular situation.",
+    "sentence": {
+      "en": "We must hurry, time is of the essence!",
+      "uz": "Shoshilishimiz kerak, vaqt o'ta muhim (g'animat)!"
+    },
+    "options": [
+      "mohiyatini tushunish",
+      "o'ta muhim, hal qiluvchi ahamiyatga ega",
+      "foydasiz narsa",
+      "kechikish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 181,
+    "word": "On a hiding to nothing",
+    "definition": "Without the slightest chance of success; sure to fail.",
+    "sentence": {
+      "en": "He's on a hiding to nothing in this competition.",
+      "uz": "Bu musobaqada uning g'alaba qozonishga zarracha ham imkoni yo'q (muvaffaqiyatsizlikka mahkum)."
+    },
+    "options": [
+      "yashirinib olish",
+      "muvaffaqiyatga zarracha imkoni bo'lmaslik, mag'lubiyatga mahkumlik",
+      "g'alaba qozonish",
+      "hech narsani yo'qotmaslik"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 182,
+    "word": "One for the books",
+    "definition": "Very surprising or unexpected.",
+    "sentence": {
+      "en": "His last-minute goal was one for the books.",
+      "uz": "Uning so'nggi soniyalarda urgan goli mutlaqo kutilmagan (hayratlanarli) holat bo'ldi."
+    },
+    "options": ["kitob javoni", "kutilmagan, hayratlanarli voqea", "odatiy holat", "yangi darslik"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 183,
+    "word": "On speaking terms",
+    "definition": "Amicable or friendly enough to talk (often used in negative form).",
+    "sentence": {
+      "en": "I'm not on speaking terms with my family at the moment.",
+      "uz": "Hozirda oilam bilan gaplashmayapman (aloqalarimiz sovuqlashgan)."
+    },
+    "options": [
+      "gaplashib turadigan darajada munosabati yaxshi bo'lish",
+      "noto'g'ri gapirish",
+      "xorijiy tilda gapirish",
+      "urishib qolish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 184,
+    "word": "On the loose",
+    "definition": "A dangerous animal/criminal who walks free (mostly because they have escaped from prison/cage).",
+    "sentence": {
+      "en": "The dangerous criminal is still on the loose.",
+      "uz": "Xavfli jinoyatchi hali ham ozodlikda (hali tutilmagan)."
+    },
+    "options": [
+      "bo'shashib qolish",
+      "ozodlikda yurish (qochib ketgan xavfli shaxs/hayvon haqida)",
+      "qamoqda bo'lish",
+      "yo'qolib qolish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 185,
+    "word": "On the verge of something",
+    "definition": "Very close to experiencing something; the moment when something is about to happen.",
+    "sentence": {
+      "en": "We are on the verge of a big discovery.",
+      "uz": "Biz katta kashfiyot arafasida (juda yaqinida) turibmiz."
+    },
+    "options": [
+      "arafasida, sodir bo'lishiga juda yaqin qolish",
+      "uzoq o'tmishda bo'lish",
+      "chetlab o'tish",
+      "shubha qilish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 186,
+    "word": "On your own head be it",
+    "definition": "To warn someone that they will have to take full responsibility for what they are about to do.",
+    "sentence": {
+      "en": "If you choose to disobey my order, then on your own heads be it!",
+      "uz": "Agar mening buyrug'imga bo'ysunmaslikni tanlasangiz, javobgarlik o'zingizning bo'yningizda (o'zingizdan ko'ring)!"
+    },
+    "options": [
+      "boshida narsa bo'lish",
+      "javobgarlik o'z bo'ynida bo'lish (o'zidan ko'rish)",
+      "boshqalarni ayblash",
+      "yordam olish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 187,
+    "word": "Out of sorts",
+    "definition": "Slightly ill/unwell/unhappy.",
+    "sentence": {
+      "en": "He's feeling a bit out of sorts today.",
+      "uz": "U bugun o'zini biroz nosog'lom (tobasiz/kayfiyatsiz) his qilyapti."
+    },
+    "options": [
+      "turli xil bo'lish",
+      "o'zini nosog'lom, tobasiz yoki kayfiyatsiz his qilish",
+      "juda sog'lom bo'lish",
+      "tartibga solish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 188,
+    "word": "Out of the corner of one's eye",
+    "definition": "Looking at something indirectly; when you see something briefly, rather than clearly.",
+    "sentence": {
+      "en": "Out of the corner of my eye, I saw my wife talking to a stranger.",
+      "uz": "Ko'zimning qiri bilan xotinimning begona odam bilan gaplashayotganini ko'rib qoldim."
+    },
+    "options": [
+      "ko'zini qiri bilan qarash, bilinar-bilinmas ko'rish",
+      "to'g'ridan-to'g'ri qarash",
+      "ko'r bo'lish",
+      "ko'zini yumish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 189,
+    "word": "Over the hill",
+    "definition": "No longer young and fit; too old to perform as well as before.",
+    "sentence": {
+      "en": "Ron is over the hill as a professional basketball player.",
+      "uz": "Professional basketbolchi sifatida Ronning yoshi o'tib qoldi (endi avvalgidek yosh va baquvvat emas)."
+    },
+    "options": [
+      "tog'dan oshib o'tish",
+      "yoshi o'tib qolish, keksalik tufayli avvalgi qobiliyatini yo'qotish",
+      "yosh va g'ayratli",
+      "sportchi bo'lish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 190,
+    "word": "Pale into insignificance",
+    "definition": "To appear less important, significant, or impressive when compared with something else.",
+    "sentence": {
+      "en": "All my problems pale into insignificance when compared to the problems of the homeless.",
+      "uz": "Uysizlar muammosi bilan solishtirganda mening barcha muammolarim ip esholmay qoladi (mutlaqo ahamiyatsiz bo'lib ko'rinadi)."
+    },
+    "options": [
+      "oqargan rang",
+      "boshqa narsa oldida o'z qiymatini/ahamiyatini mutlaqo yo'qotish",
+      "muhim bo'lib qolish",
+      "rang berish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 191,
+    "word": "Paragon of virtue",
+    "definition": "One who has perfect moral values.",
+    "sentence": {
+      "en": "Ron was considered to be a paragon of virtue.",
+      "uz": "Ron yuksak xulq-atvor (fazilat) namunasi deb hisoblanar edi."
+    },
+    "options": [
+      "fazilat/yuksak xulq-atvor namunasi",
+      "yomon xulqli odam",
+      "boy aristokrat",
+      "shubhali shaxs"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 192,
+    "word": "Pass the buck",
+    "definition": "To shift the responsibility to someone else.",
+    "sentence": {
+      "en": "It's your fault because you're in charge, so don't try to pass the buck.",
+      "uz": "Siz mas'ul bo'lganingiz uchun bu sizning aybingiz, shuning uchun javobgarlikni birovga ag'darishga urinmang."
+    },
+    "options": [
+      "pul to'lash",
+      "mas'uliyatni/aybni boshqaga ag'darish",
+      "yordam taklif qilish",
+      "aybni tan olish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 193,
+    "word": "Perish the thought",
+    "definition": "To emphasize that the proposed idea/concept/plan is ridiculous and unlikely to be implemented.",
+    "sentence": {
+      "en": "I will never marry her - perish the thought!",
+      "uz": "Men unga hech qachon uylanmayman - Xudo ko'rsatmasin (xayolingga ham keltirma)!"
+    },
+    "options": [
+      "Xudo ko'rsatmasin, xayolga ham keltirmaslik kerak bo'lgan narsa",
+      "chuqur o'ylash",
+      "yaxshi g'oya",
+      "unutib yuborish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 194,
+    "word": "Pipe dream",
+    "definition": "Something that is not destined to come true.",
+    "sentence": {
+      "en": "His plans to become president of several countries are simply pipe dreams.",
+      "uz": "Uning bir vaqtning o'zida bir nechta davlatga prezident bo'lish rejalari shunchaki xomxayol (amalga oshmaydigan orzu)."
+    },
+    "options": [
+      "quvur tushi",
+      "amalga oshmaydigan xomxayol/orzu",
+      "haqiqatga aylangan reja",
+      "tungi tush"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 195,
+    "word": "Plain sailing",
+    "definition": "Without problems; smooth; easy.",
+    "sentence": {
+      "en": "Her surgery was plain sailing; everything went well.",
+      "uz": "Uning jarrohlik amaliyoti juda oson va muammosiz (silliq) o'tdi."
+    },
+    "options": [
+      "kemada suzish",
+      "muammosiz, oson, silliq kechish",
+      "og'ir kechish",
+      "tekis joyda yurish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 196,
+    "word": "Play into someone's hands",
+    "definition": "To do something that will be to your disadvantage and to your opponent's advantage; to act in the way your opponent wants you to act.",
+    "sentence": {
+      "en": "It would be playing into Rita's hands to react to her humiliating jokes.",
+      "uz": "Ritaning haqoratomuz hazillariga javob qaytarish uning tegirmoniga suv quyish (uning foydasiga ishlash) bo'ladi."
+    },
+    "options": [
+      "birovning tegirmoniga suv quyish, raqibining foydasiga ishlab qo'yish",
+      "karta o'ynash",
+      "yordam berish",
+      "g'alaba qozonish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 197,
+    "word": "Play your cards right",
+    "definition": "To behave in a way that is beneficial in a given situation; to do something in a well-planned way.",
+    "sentence": {
+      "en": "If you play your cards right, you can win this competition.",
+      "uz": "Agar aqlli ish tutsangiz (reja bo'yicha to'g'ri harakat qilsangiz), bu musobaqada g'olib chiqishingiz mumkin."
+    },
+    "options": [
+      "karta o'yinini qoidalari bilan o'ynash",
+      "aqlli ish tutish, vaziyatdan to'g'ri foydalanish",
+      "yolg'on gapirish",
+      "yutqazish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 198,
+    "word": "Pull out all the stops",
+    "definition": "To make every possible effort; do the best you can.",
+    "sentence": {
+      "en": "The police pulled out all the stops to find the robber.",
+      "uz": "Polisiya o'g'rini topish uchun bor imkoniyatini ishga soldi (qo'lidan kelgan barcha choralarni ko'rdi)."
+    },
+    "options": [
+      "to'xtash joyini olib tashlash",
+      "bor imkoniyatini ishga solish, qo'lidan kelgancha harakat qilish",
+      "taslim bo'lish",
+      "ishni to'xtatish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 199,
+    "word": "Pull someone's leg",
+    "definition": "To tell someone a lie, as a joke.",
+    "sentence": {
+      "en": "Calm down Ian, it's not true, I was only pulling your leg.",
+      "uz": "Tinchlaning Ian, bu haqiqat emas, men shunchaki sizni laqillatgandim (hazillashgandim)."
+    },
+    "options": [
+      "birovning oyog'idan tortish",
+      "hazillashish, laqillatish",
+      "yiqitish",
+      "yordam berish"
+    ],
+    "correct_option_index": 1
+  }
+]

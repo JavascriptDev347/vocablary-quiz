@@ -1,0 +1,1929 @@
+[
+  {
+    "id": 1,
+    "word": "A good many",
+    "definition": "A lot of.",
+    "sentence": {
+      "en": "A good many people entered the building while you were talking.",
+      "uz": "Siz gaplashayotganingizda binoga ancha-muncha (ko'p) odam kirdi."
+    },
+    "options": ["juda oz", "hech kim", "ancha-muncha, ko'p", "yaxshi odamlar"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 2,
+    "word": "All hands on deck",
+    "definition": "The phrase is said when there is some kind of emergency, and it requires everyone to work hard; something that takes a lot of effort.",
+    "sentence": {
+      "en": "It's been a bit of an all hands on deck effort organizing this meeting.",
+      "uz": "Ushbu uchrashuvni tashkil qilish uchun barchaning birdek qattiq mehnat qilishi talab etildi."
+    },
+    "options": [
+      "dam olish",
+      "barchaning birdek qattiq mehnat qilishi",
+      "kemani boshqarish",
+      "ishdan qochish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 3,
+    "word": "All hell broke loose",
+    "definition": "A situation that suddenly gets out of control and people start fighting or arguing.",
+    "sentence": {
+      "en": "When a fan at a rock concert jumped onto the stage, all hell broke loose.",
+      "uz": "Rok-konsertda muxlislardan biri sahnaga sakrab chiqqanida, vaziyat to'satdan nazoratdan chiqib ketdi (g'alayon boshlandi)."
+    },
+    "options": [
+      "tinchlik o'rnatildi",
+      "vaziyat to'satdan nazoratdan chiqib ketdi",
+      "hamma xursand bo'ldi",
+      "konsert tugadi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 4,
+    "word": "All walks of life",
+    "definition": "People of all social and economic classes.",
+    "sentence": {
+      "en": "In the 19th century, this game was played by all walks of life.",
+      "uz": "19-asrda bu o'yinni jamiyatning barcha qatlamlaridagi (har xil tabaqadagi) odamlar o'ynashgan."
+    },
+    "options": [
+      "faqat boylar",
+      "piyoda yuruvchilar",
+      "jamiyatning barcha qatlamlari",
+      "sog'lom odamlar"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "id": 5,
+    "word": "A mile a minute",
+    "definition": "Extremely fast; very rapidly.",
+    "sentence": {
+      "en": "My friend talks a mile a minute about his cars.",
+      "uz": "Do'stim mashinalari haqida juda tez (og'zi-og'ziga tegmay) gapiradi."
+    },
+    "options": ["juda sekin", "juda tez, shiddat bilan", "bir daqiqa davomida", "u uzoq o'ylaydi"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 6,
+    "word": "An awful lot",
+    "definition": "A large amount; very much.",
+    "sentence": {
+      "en": "Our friend is completely devastated, and there is not an awful lot we can do about it, unfortunately.",
+      "uz": "Do'stimiz butunlay tushkunlikda, afsuski, biz qila oladigan narsa juda kam."
+    },
+    "options": ["juda ko'p, katta miqdorda", "daxshatli voqea", "hech narsa", "tasodifiy hodisa"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 7,
+    "word": "Any port in a storm",
+    "definition": "To emphasize that in a bad situation you will accept any help or take advantage of any opportunity.",
+    "sentence": {
+      "en": "Thanks, Dan! It's not an ideal solution, but hey, any port in a storm.",
+      "uz": "Rahmat, Dan! Bu ideal yechim emas, lekin og'ir vaziyatda har qanday yordam yoki imkoniyat g'animat."
+    },
+    "options": [
+      "kema halokati",
+      "ideal reja",
+      "sayohat qilish",
+      "og'ir vaziyatda har qanday yordamning g'animatligi"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "id": 8,
+    "word": "Article of faith",
+    "definition": "Something you deeply believe in.",
+    "sentence": {
+      "en": "This book is an article of faith for her.",
+      "uz": "Bu kitob u ko'r-ko'rona va qattiq ishonadigan narsadir."
+    },
+    "options": ["gazeta maqolasi", "qattiq ishoniladigan narsa", "shubha", "qonun hujjati"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 9,
+    "word": "As broad as it's long",
+    "definition": "With no significant difference; without any advantage; the same.",
+    "sentence": {
+      "en": "Hotel A is a little cheaper, but Hotel B has free breakfast, so it's as broad as it's long.",
+      "uz": "A mehmonxona biroz arzonroq, lekin B mehmonxonada nonushta bepul, shuning uchun hech qanday farqi yo'q (baribir bir xil)."
+    },
+    "options": [
+      "juda keng",
+      "uzun va noqulay",
+      "hech qanday farqi yo'q, bir xil",
+      "foydali taklif"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "id": 10,
+    "word": "As drunk as a lord",
+    "definition": "Extremely drunk.",
+    "sentence": {
+      "en": "He was as drunk as a lord after the party.",
+      "uz": "U ziyofatdan keyin bo'kib ichgan edi (juda mast edi)."
+    },
+    "options": ["juda mast", "aristokrat", "hushyor", "kamtar odam"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 11,
+    "word": "As good a place as any",
+    "definition": "Not perfect, but not worse than any other.",
+    "sentence": {
+      "en": "This hotel is as good a place as any to spend the night.",
+      "uz": "Bu mehmonxona tunab qolish uchun eng zo'ri bo'lmasa-da, boshqalaridan yomon ham emas."
+    },
+    "options": [
+      "eng mukammal joy",
+      "eng yomon joy",
+      "boshqalaridan yomon bo'lmagan joy",
+      "yangi bino"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "id": 12,
+    "word": "As keen as mustard",
+    "definition": "Extremely excited, interested, or enthusiastic.",
+    "sentence": {
+      "en": "John got a job at a big company because he was as keen as mustard.",
+      "uz": "Jon katta kompaniyaga ishga kirdi, chunki u juda g'ayratli va qiziquvchan edi."
+    },
+    "options": ["juda g'ayratli, qiziquvchan", "achchiq gapiradigan", "dangasa", "kasalmand"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 13,
+    "word": "As long as one's arm",
+    "definition": "Extremely long.",
+    "sentence": {
+      "en": "My wife owes money to a list of people as long as my arm.",
+      "uz": "Xotinimning qarzdorlar ro'yxati bir quchoq (juda uzun)."
+    },
+    "options": ["juda kalta", "juda uzun", "qo'li ochiq", "jismonan baquvvat"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 14,
+    "word": "At a low ebb",
+    "definition": "In a state of weakness.",
+    "sentence": {
+      "en": "Our economy is now at a low ebb.",
+      "uz": "Iqtisodiyotimiz hozirda zaif (pasayish) holatida."
+    },
+    "options": ["gullab-yashnash", "eng yuqori nuqta", "suv sathi", "zaif, pasayish holatida"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 15,
+    "word": "At long last",
+    "definition": "Finally; after a long wait.",
+    "sentence": {
+      "en": "At long last the pizza has arrived.",
+      "uz": "Uzoq kutilgandan keyin, nihoyat, pitsa ham yetib keldi."
+    },
+    "options": [
+      "nihoyat, uzoq kutilgandan keyin",
+      "juda uzoq vaqt oldin",
+      "hech qachon",
+      "tez orada"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 16,
+    "word": "A torrid time",
+    "definition": "A difficult period filled with problems and challenges.",
+    "sentence": {
+      "en": "Our team will definitely face a torrid time in tomorrow's game.",
+      "uz": "Ertangi o'yinda jamoamiz albatta qiyin davrni (muammoli daqiqalarni) boshdan kechiradi."
+    },
+    "options": ["omadli davr", "qiyin, muammoli davr", "issiq ob-havo", "dam olish vaqti"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 17,
+    "word": "At your earliest convenience",
+    "definition": "As soon as possible.",
+    "sentence": {
+      "en": "Please reply to my letter at your earliest convenience.",
+      "uz": "Iltimos, imkon qadar tezroq xatimga javob bering."
+    },
+    "options": ["kechroq", "hech qachon", "malol kelmasa", "imkon qadar tezroq"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 18,
+    "word": "Avoid something like the plague",
+    "definition": "To avoid something as much as possible.",
+    "sentence": {
+      "en": "Rita's been avoiding me like the plague ever since I confessed my love.",
+      "uz": "Sevgimni izhor qilganimdan beri Rita mendan o'zini uzoqqa olib qochadi (vabo kabi qochadi)."
+    },
+    "options": [
+      "yaqin bo'lish",
+      "o'zini uzoqqa olib qochish, qochish",
+      "kasal bo'lish",
+      "yordam so'rash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 19,
+    "word": "Back the wrong horse",
+    "definition": "To support something unsuccessful; make the wrong choice or decision.",
+    "sentence": {
+      "en": "You really backed the wrong horse when you bought this abandoned house.",
+      "uz": "Bu tashlab ketilgan uyni sotib olib, mutlaqo noto'g'ri tanlov qildingiz (yutqazadigan tomonga tikdingiz)."
+    },
+    "options": [
+      "ot poygasida yutish",
+      "noto'g'ri tanlov/qaror qabul qilish",
+      "ot sotib olish",
+      "to'g'ri yo'ldan borish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 20,
+    "word": "Barking up the wrong tree",
+    "definition": "Follow the wrong course of action; doing something that will not produce the result you want.",
+    "sentence": {
+      "en": "If you expect me to solve all your financial problems, you are barking up the wrong tree.",
+      "uz": "Agar barcha moliyaviy muammolaringizni men hal qilib beradi deb o'ylasangiz, mutlaqo yanglishyapsiz."
+    },
+    "options": [
+      "daraxtga chiqish",
+      "itni hurishi",
+      "mutlaqo yanglishish, noto'g'ri yo'ldan ketish",
+      "to'g'ri taxmin qilish"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "id": 21,
+    "word": "Batten down the hatches",
+    "definition": "To prepare for a difficult or unpleasant situation.",
+    "sentence": {
+      "en": "Many companies are battening down the hatches before the crisis.",
+      "uz": "Ko'pgina kompaniyalar inqirozdan oldin qiyin vaziyatga tayyorgarlik ko'rishmoqda."
+    },
+    "options": [
+      "qiyin vaziyatga tayyorgarlik ko'rish",
+      "eshiklarni qulflash",
+      "xursandchilik qilish",
+      "taslim bo'lish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 22,
+    "word": "Be a barrel of fun",
+    "definition": "Be very cheerful, sociable, and enjoyable.",
+    "sentence": {
+      "en": "My friend Joe is a real barrel of fun.",
+      "uz": "Do'stim Jo haqiqiy quvnoq va suhbatdosh inson."
+    },
+    "options": [
+      "juda zerikarli odam",
+      "og'ir vaznli bo'lish",
+      "quvnoq, suhbatdosh bo'lish",
+      "ichkilikka ruju qo'yish"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "id": 23,
+    "word": "Be at a loose end",
+    "definition": "Not knowing what to do; have nothing to do.",
+    "sentence": {
+      "en": "You can come and help me clean up if you're at a loose end.",
+      "uz": "Agar bekor bo'lsang (nima qilishni bilmayotgan bo'lsang), kelib menga tozalashga yordam berishing mumkin."
+    },
+    "options": [
+      "bekor bo'lish, nima qilishni bilmaslik",
+      "juda band bo'lish",
+      "arqonni bog'lash",
+      "ish qidirish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 24,
+    "word": "Beat someone hollow",
+    "definition": "To defeat someone easily and thoroughly.",
+    "sentence": {
+      "en": "We scored an incredible 130 points per game and beat that team hollow.",
+      "uz": "Biz har bir o'yinda aqlbovar qilmas 130 ochko to'pladik va u jamoani osongina, batamom mag'lub etdik."
+    },
+    "options": ["yutqazish", "osongina va batamom mag'lub etish", "do'stlashish", "teng bo'lish"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 25,
+    "word": "Be beside yourself",
+    "definition": "Being overwhelmed by strong feelings or emotions; unable to think clearly or control oneself.",
+    "sentence": {
+      "en": "Tanya was beside herself with grief when her husband died.",
+      "uz": "Eri vafot etganida, Tanya qayg'udan o'zini yo'qotib qo'ygan edi (kuchli his-tuyg'ular ostida edi)."
+    },
+    "options": [
+      "o'zini yo'qotib qo'yish, kuchli his-tuyg'uda bo'lish",
+      "yonma-yon turish",
+      "xotirjam bo'lish",
+      "beparvo bo'lish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 26,
+    "word": "Be chasing your own tail",
+    "definition": "To do something extremely inefficient or unproductive.",
+    "sentence": {
+      "en": "I need to start taking only effective steps towards my goal and stop chasing my own tail.",
+      "uz": "Men maqsadim sari faqat samarali qadamlar tashlashni boshlashim va samarasiz ishlarga vaqt sarflashni to'xtatishim kerak."
+    },
+    "options": [
+      "samarasiz, samarasiz ishlar bilan ovora bo'lish",
+      "tez yugurish",
+      "it bilan o'ynash",
+      "muvaffaqiyatga erishish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 27,
+    "word": "Bee's knees",
+    "definition": "Excellent; of a very high standard; ideal.",
+    "sentence": {
+      "en": "This new TV show is the bee's knees.",
+      "uz": "Bu yangi teleko'rsatuv shunchaki daxshat (ajoyib, oliy darajada)."
+    },
+    "options": [
+      "asalari chaqishi",
+      "past sifatli",
+      "ajoyib, oliy darajada, ideal",
+      "kichkina narsa"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "id": 28,
+    "word": "Be for the high jump",
+    "definition": "Prepare to be punished; to warn someone that you will punish them if they do something wrong/illegal.",
+    "sentence": {
+      "en": "If I catch you stealing, you'll be for the high jump.",
+      "uz": "Agar seni o'g'rilik ustida tutib olsam, jazoyingni olasan (jazolanishga tayyor tur)."
+    },
+    "options": [
+      "balandlikka sakrash poygasi",
+      "jazolanishga tayyor turish",
+      "mukofotlanish",
+      "tezda qochib ketish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 29,
+    "word": "Before your very eyes",
+    "definition": "Right in front you; while you are watching.",
+    "sentence": {
+      "en": "Before your very eyes, I will make this ball disappear.",
+      "uz": "Ko'z o'ngingizda men bu to'pni yo'q qilib yuboraman."
+    },
+    "options": ["orqada, ko'rinmas joyda", "ko'z o'ngida, qarab turganida", "tushida", "u uzoqda"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 30,
+    "word": "Beggar belief",
+    "definition": "Impossible or not worth believing; impossible to describe or explain.",
+    "sentence": {
+      "en": "It almost beggars belief that you completed the project on your own.",
+      "uz": "Loyihani yolg'iz o'zingiz tugatganingizga ishonish qiyin (aqlga sig'maydi)."
+    },
+    "options": [
+      "ishonish qiyin, aqlga sig'maydi",
+      "tilanchilik qilish",
+      "mutlaqo to'g'ri",
+      "osongina tushunarli"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 31,
+    "word": "Be in a tight corner",
+    "definition": "To be in a difficult or tough situation.",
+    "sentence": {
+      "en": "With funding being cut, my science project is in a tight corner.",
+      "uz": "Moliyalashtirish qisqartirilgach, mening ilmiy loyiham qiyin ahvolda qoldi."
+    },
+    "options": [
+      "burchakda turish",
+      "qiyin, og'ir ahvolda qolish",
+      "xavfsiz joyda bo'lish",
+      "yangi uyga ko'chish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 32,
+    "word": "Be in deep water",
+    "definition": "To get into serious trouble.",
+    "sentence": {
+      "en": "Having lost all his savings in the casino, he is now in deep water.",
+      "uz": "Kazino barcha jamg'armalarini yutqazib qo'ygach, u hozir jiddiy muammoga duch keldi (chuqur botqoqqa botdi)."
+    },
+    "options": [
+      "suzishni o'rganish",
+      "jiddiy muammoga, xavfga duch kelish",
+      "chuqur dengizga borish",
+      "boyib ketish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 33,
+    "word": "Be in over your head",
+    "definition": "To be involved in a difficult, dangerous, or unpleasant situation that you cannot handle due to lack of strength, knowledge, or experience.",
+    "sentence": {
+      "en": "No, you can't beat them! You are in over your head and you know it.",
+      "uz": "Yo'q, ularni yuta olmaysan! Bu sening qo'lingdan kelmaydigan, tishing o'tmaydigan ish va buni o'zing ham bilasan."
+    },
+    "options": [
+      "qo'lidan kelmaydigan, tajribasizlik qiladigan qiyin vaziyatda bo'lish",
+      "boshi og'rish",
+      "aqlli bo'lish",
+      "g'alaba qozonish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 34,
+    "word": "Be in the soup",
+    "definition": "To be in serious trouble.",
+    "sentence": {
+      "en": "If Tony and his wife find out what you've done, you'll be in the soup.",
+      "uz": "Agar Toni va uning xotini nima qilganingni bilib qolishsa, boshing baloda qoladi (jiddiy muammoga duch kelasan)."
+    },
+    "options": [
+      "sho'rva ichish",
+      "oshxonada ishlash",
+      "jiddiy muammoga, baloga duch kelish",
+      "boyib ketish"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "id": 35,
+    "word": "Belt and braces",
+    "definition": "Do some extra actions to make sure something is safe; providing double security.",
+    "sentence": {
+      "en": "I set an alarm on my phone, tablet, and watch - belt and braces, I admit.",
+      "uz": "Men telefonimga, planshetimga va soatimga budilnik qo'ydim - bu ortiqcha ehtiyotkorlik (ikki karra xavfsizlik) ekanini tan olaman."
+    },
+    "options": [
+      "shim kiyish",
+      "ikki karra xavfsizlik chorasi, ortiqcha ehtiyotkorlik",
+      "shoshilish",
+      "kamarni bog'lash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 36,
+    "word": "Be on the best of terms with someone",
+    "definition": "To have a good/excellent relationship with someone.",
+    "sentence": {
+      "en": "I'm not on the best of terms with Dan at the moment.",
+      "uz": "Hozirda Dan bilan munosabatlarim unchalik yaxshi emas."
+    },
+    "options": [
+      "yaxshi/a'lo munosabatda bo'lish",
+      "urishib qolish",
+      "shartnoma imzolash",
+      "yangi tanishish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 37,
+    "word": "Be on tenterhooks",
+    "definition": "Very nervous, excited, and thrilled because you are wondering what is going to happen in a specific situation.",
+    "sentence": {
+      "en": "We were on tenterhooks all evening waiting for the big news.",
+      "uz": "Katta yangilikni kutib, butun oqshom davomida igna ustida o'tirdik (juda asabiylashdik/hayajonlandik)."
+    },
+    "options": [
+      "igna ustida o'tirish, qattiq hayajonlanish/asabiylashish",
+      "uxlab qolish",
+      "beparvo bo'lish",
+      "ilgakka osilish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 38,
+    "word": "Be on the cusp of",
+    "definition": "To be at the time when a situation/condition is going to change.",
+    "sentence": {
+      "en": "We're on the very cusp of the new world.",
+      "uz": "Biz yangi dunyoning (yangi o'zgarishlarning) ostonasida turibmiz."
+    },
+    "options": [
+      "chekada qolish",
+      "eski holatda qolish",
+      "vaziyat o'zgarishi ostonasida/arafasida bo'lish",
+      "tushunmaslik"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "id": 39,
+    "word": "Be on the skids",
+    "definition": "To be in a difficult or bad situation.",
+    "sentence": {
+      "en": "Their family business seems to be on the skids.",
+      "uz": "Ularning oilaviy biznesi inqirozga yuz tutayotganga (yomon ahvoldalikka) o'xshaydi."
+    },
+    "options": [
+      "konkida uchish",
+      "inqirozga yuz tutish, yomon ahvolda bo'lik",
+      "gullab-yashnash",
+      "yangi boshlash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 40,
+    "word": "Between the devil and the deep blue sea",
+    "definition": "In a bad situation with two equally unpleasant options.",
+    "sentence": {
+      "en": "With all my debts, I'm really between the devil and the deep blue sea.",
+      "uz": "Barcha qarzlarim bilan ikki o't orasida (og'ir chorasiz vaziyatda) qoldim."
+    },
+    "options": [
+      "ikki o't orasida qolish, chorasiz qolish",
+      "dengizda suzish",
+      "shayton bilan gaplashish",
+      "yaxshi tanlovga ega bo'lish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 41,
+    "word": "Blot on something",
+    "definition": "A fault or mistake that ruins someone's reputation; something that spoils something.",
+    "sentence": {
+      "en": "This incident is a serious blot on our family name.",
+      "uz": "Bu voqea oilamiz nomiga tushgan qora dog'dir (obro'ni to'kadigan xato)."
+    },
+    "options": [
+      "qora dog', obro'ni to'kadigan xato",
+      "yaxshi belgi",
+      "siyoh dog'i",
+      "muvaffaqiyat qozonish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 42,
+    "word": "Blow something out of the water",
+    "definition": "Completely destroy, ruin, or defeat someone/something.",
+    "sentence": {
+      "en": "These terrible reviews from the critics will blow my restaurant out of the water.",
+      "uz": "Tanqidchilarning bu daxshatli sharhlari mening restoranimni butunlay yakson qiladi (yer bilan bitta qiladi)."
+    },
+    "options": [
+      "suvga tashlash",
+      "suvdan olib chiqish",
+      "butunlay yakson/barbod qilish",
+      "mashhur qilish"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "id": 43,
+    "word": "Bone of contention",
+    "definition": "Something that people argue about; subject of a disagreement.",
+    "sentence": {
+      "en": "The main bone of contention between us is money.",
+      "uz": "O'rtamizdagi asosiy nizo predmeti (g'alva/talash manbai) bu - pul."
+    },
+    "options": [
+      "nizo predmeti, kelishmovchilik sababi",
+      "suyak sinishi",
+      "kelishuv shartnomasi",
+      "sovg'a taqdim etish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 44,
+    "word": "Bring something to the table",
+    "definition": "To contribute; to provide something useful to others in your group; bring up for discussion.",
+    "sentence": {
+      "en": "Our new worker will bring many important skills to the table.",
+      "uz": "Yangi xodimimiz o'zi bilan birga ko'plab muhim ko'nikmalarni olib keladi (jamoaga foyda keltiradi)."
+    },
+    "options": [
+      "dasturxon yozish",
+      "jamoaga/ishga foydali narsa (hissa) qo'shish",
+      "ovqat olib kelish",
+      "muammoni yashirish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 45,
+    "word": "Burn the midnight oil",
+    "definition": "To work/read/study late into the night.",
+    "sentence": {
+      "en": "I have to burn the midnight oil to finish my homework.",
+      "uz": "Uy vazifasini tugatish uchun yarim kechagacha mijja qoqmay ishlashim/o'qishim kerak."
+    },
+    "options": [
+      "moy yoqish",
+      "yarim kechagacha qattiq ishlash/o'qish",
+      "erta uxlash",
+      "chiroqni o'chirish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 46,
+    "word": "Bursting at the seams",
+    "definition": "Extremely full or crowded.",
+    "sentence": {
+      "en": "When the whole family comes home for Christmas, our house is bursting at the seams.",
+      "uz": "Rojdestvoda butun oila uyga kelganida, uyimiz liq to'la (odam bilan limmo-lim) bo'lib ketadi."
+    },
+    "options": [
+      "kiyim yirtilishi",
+      "bo'sh qolish",
+      "liq to'la, limmo-lim bo'lish",
+      "yig'lab yuborish"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "id": 47,
+    "word": "Burst someone's bubble",
+    "definition": "To end someone's illusions, dreams, beliefs, or hopes by telling them the truth.",
+    "sentence": {
+      "en": "I don't want to burst your bubble, but she's gone and won't come back to you.",
+      "uz": "Sening shirin xayollaringni barbod qilmoqchi emasman-u, lekin u ketgan va senga qaytib kelmaydi."
+    },
+    "options": [
+      "sovun pufakchasini portlatish",
+      "shirin xayollarni, xomxayollarni barbod qilish",
+      "yordam berish",
+      "orzu qilish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 48,
+    "word": "By jove",
+    "definition": "To emphasize that you are very surprised or excited.",
+    "sentence": {
+      "en": "Will you, by jove? Well, get on with it then!",
+      "uz": "Rostdanmi, voy xudo-ye! Unda davom eta qol!"
+    },
+    "options": [
+      "juda hayratda qolganda yoki hayajonlanganda ishlatiladigan xitob",
+      "g'azablanish",
+      "sokinlik",
+      "iltimos qilish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 49,
+    "word": "By leaps and bounds",
+    "definition": "Extremely fast.",
+    "sentence": {
+      "en": "His English is improving by leaps and bounds.",
+      "uz": "Uning ingliz tili juda tez (katta qadamlar bilan) yaxshilanmoqda."
+    },
+    "options": ["juda sekin", "sakrab-sakrab", "juda tez, shiddat bilan", "tasodifiy ravishda"],
+    "correct_option_index": 2
+  },
+  
+  
+  {
+    "id": 200,
+    "word": "Pull the plug",
+    "definition": "To prevent further activity; to prevent something from continuing.",
+    "sentence": {
+      "en": "She decided to pull the plug on her research.",
+      "uz": "U o'z tadqiqotini to'xtatishga (davom etishiga yo'l qo'ymaslikka) qaror qildi."
+    },
+    "options": [
+      "vilkani rozetkadan sug'urish",
+      "faoliyatni/ishni butunlay to'xtatish, chek qo'yish",
+      "elektrni yoqish",
+      "yordam berish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 201,
+    "word": "Put it down to experience",
+    "definition": "To regard a bad, difficult, or unpleasant situation as a learning experience rather than a punishment.",
+    "sentence": {
+      "en": "Everyone makes mistakes, don't worry so much and put it down to experience.",
+      "uz": "Hamma xato qiladi, ko'p siqilavermang, buni shunchaki bir tajriba (saboq) deb qabul qiling."
+    },
+    "options": [
+      "buni bir hayotiy tajriba/saboq deb bilish",
+      "tajribasizlikda ayblash",
+      "jazolash",
+      "unutib yuborish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 202,
+    "word": "Put someone wise to something",
+    "definition": "To clarify something for someone; to tell someone about something.",
+    "sentence": {
+      "en": "Tommy put me wise to the situation and we started negotiations.",
+      "uz": "Tommi menga vaziyatni tushuntirdi (ko'zimni ochdi) va biz muzokaralarni boshladik."
+    },
+    "options": [
+      "birovni dono qilish",
+      "vaziyatni tushuntirib berish, ko'zini ochish",
+      "sir saqlash",
+      "aldash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 203,
+    "word": "Put something to bed",
+    "definition": "To successfully deal with something; to finish work on something.",
+    "sentence": {
+      "en": "Let's just put the issue to bed and stop arguing!",
+      "uz": "Keling, yaxshisi bu masalani uzil-kesil hal qilaylik (yopaylik) va janjallashishni to'xtataylik!"
+    },
+    "options": [
+      "uxlatishga yotqizish",
+      "masalani uzil-kesil hal qilish, ishni muvaffaqiyatli yakunlash",
+      "kechiktirish",
+      "muammoni kattalashtirish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 204,
+    "word": "Put the cart before the horse",
+    "definition": "To do something in the wrong order.",
+    "sentence": {
+      "en": "Aren't you putting the cart before the horse by choosing a wedding venue before the actual proposal?",
+      "uz": "Hali taklif qilmasdan turib to'yxona tanlash bilan ishni teskari (noto'g'ri ketma-ketlikda) qilmangmi?"
+    },
+    "options": [
+      "aravani otning oldiga qo'yish (ishni teskari/noto'g'ri tartibda qilish)",
+      "ot minish",
+      "to'g'ri ketma-ketlikda bajarish",
+      "reja tuzish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 205,
+    "word": "Raining cats and dogs",
+    "definition": "Heavy rain.",
+    "sentence": {
+      "en": "Better stay at home, it's raining cats and dogs outside.",
+      "uz": "Yaxshisi uyda qolgan ma'qul, tashqarida chelaklab yomg'ir yog'yapti."
+    },
+    "options": [
+      "tashqarida hayvonlar ko'pligi",
+      "chelaklab, qattiq yomg'ir yog'ishi",
+      "qor yog'ishi",
+      "issiq ob-havo"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 206,
+    "word": "Rain on someone's parade",
+    "definition": "To do something that ruins someone's plans; dampen one's excitement.",
+    "sentence": {
+      "en": "I hate to rain on your parade, but I think your name on the list is just a typo.",
+      "uz": "Quvonchingizni (rejangizni) chippakka chiqarishni xohlamayman-u, lekin sizning ismingiz ro'yxatga xato tufayli kirib qolgan shekilli."
+    },
+    "options": [
+      "paradda yomg'ir yog'ishi",
+      "birovning kayfiyatini yoki rejasini chippakka chiqarish/barbod qilish",
+      "yordam berish",
+      "xursandchilikka sherik bo'lish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 207,
+    "word": "Ride for a fall",
+    "definition": "To do something unwise and reckless that will lead to failure or injury.",
+    "sentence": {
+      "en": "Nina's riding for a fall with the dubious investments she's been making lately.",
+      "uz": "Nina oxirgi vaqtlarda kiritayotgan shubhali investisiyalari bilan o'z boshiga balo qidirmoqda (halokat sari ketmoqda)."
+    },
+    "options": [
+      "otdan yiqilish",
+      "o'z boshiga balo qidirish, halokat/omadsizlikka olib keladigan ahmoqona ish qilish",
+      "g'alaba qozonish",
+      "velosiped haydash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 208,
+    "word": "Rob someone blind",
+    "definition": "To cheat someone and take their money; to steal everything someone owns.",
+    "sentence": {
+      "en": "You are trying to rob me blind with that price. I won't buy it!",
+      "uz": "Bu narx bilan siz meni shishib (borimni shilib) olmoqchisiz. Men buni sotib olmayman!"
+    },
+    "options": [
+      "ko'r odamni tunash",
+      "borini shilib olish, aldab bor pulini tortib olish",
+      "yordam berish",
+      "arzon sotish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 209,
+    "word": "Rocky road",
+    "definition": "A difficult/challenging period.",
+    "sentence": {
+      "en": "The rocky road to the championship.",
+      "uz": "Chempionlikka olib boradigan qiyinchiliklarga to'la (toshloq) yo'l."
+    },
+    "options": [
+      "toshloq yo'l",
+      "qiyinchiliklar va muammolarga to'la davr/yo'l",
+      "tekis sayohat",
+      "shirinlik turi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 210,
+    "word": "Rub shoulders with",
+    "definition": "To spend time with someone.",
+    "sentence": {
+      "en": "She loves rubbing shoulders with the rich and famous.",
+      "uz": "U boylar va mashhurlar davrasida bo'lishni (ular bilan aralashib yurishni) yaxshi ko'radi."
+    },
+    "options": [
+      "elkasini tegizish",
+      "mashhurlar/boylar davrasida bo'lish, muloqot qilish",
+      "urishish",
+      "ishdan bo'shash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 211,
+    "word": "Rue the day",
+    "definition": "To curse or bitterly regret a moment in your life; to be very sorry for something.",
+    "sentence": {
+      "en": "When I find him, he'll rue the day he was born!",
+      "uz": "Uni topsam, tug'ilgan kuniga la'nat aytadi (qattiq pushaymon bo'ladi)!"
+    },
+    "options": [
+      "kunga la'nat aytish, qattiq pushaymon bo'lish",
+      "bayram qilish",
+      "baxtli kunni eslash",
+      "kutish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 212,
+    "word": "Said the pot to the kettle",
+    "definition": "A witty remark to someone who says something bad/insulting about another person, when they themselves are guilty of the same thing.",
+    "sentence": {
+      "en": "He is so arrogant! - Said the pot to the kettle.",
+      "uz": "U shunchalik kibrli-ki! - Qozon qorani ko'rib, o'zini oqlabdi (o'zing ham shunaqasan-ku)."
+    },
+    "options": [
+      "oshxona jihozlari",
+      "o'zi ham shu aybga ega bo'la turib boshqani ayblash (qozon qorani ko'ribdi)",
+      "yaxshi maslahat",
+      "maqtash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 213,
+    "word": "Sail close to the wind",
+    "definition": "To do something dangerous, risky, illegal, or unacceptable.",
+    "sentence": {
+      "en": "The illegal tobacco company was sailing close to the wind.",
+      "uz": "Noqonuniy tamaki kompaniyasi xavfli (qonun buzilishi) yoqasida turgan edi."
+    },
+    "options": [
+      "shamolga qarshi suzish",
+      "qonun yoki xavf yoqasida turadigan tavakkal ish qilish",
+      "xavfsiz sayohat",
+      "tez yugurish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 214,
+    "word": "Salt something away",
+    "definition": "To save something for later.",
+    "sentence": {
+      "en": "Don't worry about the expenses, I have fifty thousand pounds salted away for that.",
+      "uz": "Xarajatlardan xavotirlanmang, menda buning uchun yig'ib (yashirib) qo'yilgan ellik ming funt bor."
+    },
+    "options": [
+      "tuz sepish",
+      "kelajak uchun pul yoki narsa yig'ib/yashirib qo'yish",
+      "sotib yuborish",
+      "yo'qotish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 215,
+    "word": "Say your piece",
+    "definition": "To state your opinion; to say what you want to say.",
+    "sentence": {
+      "en": "Stop glaring at us! Just say your piece about the incident.",
+      "uz": "Bizga o'qrayishni to'xtat! Hodisa haqida o'z fikringni ayt (aytagan gapingni aytib ol)."
+    },
+    "options": [
+      "o'z fikrini/aytmoqchi bo'lgan gapini aytib olish",
+      "bo'laklarga bo'lish",
+      "jim turish",
+      "yolg'on guvohlik berish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 216,
+    "word": "See fit",
+    "definition": "To consider proper or desirable.",
+    "sentence": {
+      "en": "When you find this fraudster, deal with him however you see fit.",
+      "uz": "Ushbu firibgarlarni topganingizda, unga o'zingiz to'g'ri deb bilganingizcha chora ko'ring."
+    },
+    "options": [
+      "lozim deb topish, o'zi to'g'ri deb bilish",
+      "ko'ziga yaxshi ko'rinish",
+      "sport bilan shug'ullanish",
+      "rad etish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 217,
+    "word": "See the light of day",
+    "definition": "To come into existence; first time to appear.",
+    "sentence": {
+      "en": "This video game first saw the light of day in 2005.",
+      "uz": "Bu video o'yin birinchi marta 2005-yilda dunyo yuzini ko'rgan (ommaga taqdim etilgan)."
+    },
+    "options": [
+      "kun yorug'ini ko'rish",
+      "dunyo yuzini ko'rish, birinchi marta paydo bo'lish/chiqish",
+      "ertalab uyg'onish",
+      "yo'qolib ketish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 218,
+    "word": "Serve someone right",
+    "definition": "To emphasize that someone deserves all the bad things that happen to them.",
+    "sentence": {
+      "en": "He is in trouble with the law again. - It serves him right!",
+      "uz": "U yana qonun bilan muammoga duch keldi. - Unga shu ham kam (boshiga tushgan muammoga loyiq)!"
+    },
+    "options": [
+      "to'g'ri xizmat qilish",
+      "unga shu ham kam, jazosiga loyiq",
+      "yordam ko'rsatish",
+      "haqini to'lash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 219,
+    "word": "Set someone's mind at ease",
+    "definition": "Help someone to calm down/stop worrying.",
+    "sentence": {
+      "en": "He could set her mind at ease by telling her the truth.",
+      "uz": "U haqiqatni aytib, uning ko'nglini joyiga tushirishi (tinchlantirishi) mumkin edi."
+    },
+    "options": [
+      "ko'nglini joyiga tushirish, tinchlantirish",
+      "asabiylashtirish",
+      "aqldan ozdirish",
+      "yaxshi fikr berish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 220,
+    "word": "Set something in motion",
+    "definition": "To start a process/series of events.",
+    "sentence": {
+      "en": "By not taking their money, you set the bankruptcy in motion.",
+      "uz": "Ularning pulini olmaslik bilan siz bankrotlik jarayonini boshlab yubordingiz."
+    },
+    "options": [
+      "harakatga keltirish, jarayonni boshlab yuborish",
+      "harakatni to'xtatish",
+      "kino tomosha qilish",
+      "buzib qo'yish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 221,
+    "word": "Settle a score",
+    "definition": "To punish or harm someone for something bad that they did to you in the past; take revenge; pay the debt off.",
+    "sentence": {
+      "en": "Yes, I will join the fight; I have some scores to settle with them.",
+      "uz": "Ha, men jangga qo'shilaman; ular bilan hisob-kitob qilib oladigan (o'ch oladigan) gapim bor."
+    },
+    "options": [
+      "hisobni tenglashtirish",
+      "eski adovat uchun hisob-kitob qilib olish, o'ch olish",
+      "qarzni kechirish",
+      "o'yinni yakunlash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 222,
+    "word": "Shadow of one's former self",
+    "definition": "Not as good, powerful, or capable as before.",
+    "sentence": {
+      "en": "Three years after her injury, she returned but was only a shadow of her former self.",
+      "uz": "Jarohatidan uch yil o'tib u qaytdi, lekin avvalgi o'zining soyasi xolos edi (avvalgi kuch-quvvati yo'q edi)."
+    },
+    "options": [
+      "soyasidan qo'rqish",
+      "avvalgi holatidan asar ham qolmagan, kuchsizlanib qolgan bo'lish",
+      "xuddi o'zidek bo'lish",
+      "orqasidan ergashish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 223,
+    "word": "Shed some light",
+    "definition": "To provide additional/missing information about something.",
+    "sentence": {
+      "en": "Hopefully these documents will shed some light on her past.",
+      "uz": "Umid qilamizki, bu hujjatlar uning o'tmishiga biroz oydinlik kiritadi."
+    },
+    "options": [
+      "chiroqni o'chirish",
+      "oydinlik kiritish, qo'shimcha ma'lumot berish",
+      "yashirish",
+      "quyosh chiqishi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 224,
+    "word": "Sitting duck",
+    "definition": "Easy target; someone who is very easy for the enemy to attack.",
+    "sentence": {
+      "en": "Without body armor and a helmet, I am a sitting duck for the enemy.",
+      "uz": "Bronijilet va dubulg'asiz men dushman uchun oson o'lja (tayyor nishon)man."
+    },
+    "options": ["o'tirgan o'rdak", "oson o'lja, tayyor nishon", "yashirin joy", "ovchi"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 225,
+    "word": "Sitting pretty",
+    "definition": "To be in a good, comfortable, privileged, or favored position.",
+    "sentence": {
+      "en": "Cariba really is sitting pretty with her new job as CEO.",
+      "uz": "Yangi bosh direktorlik ishi bilan Kariba chindan ham qulay va imtiyozli joyni egallab oldi."
+    },
+    "options": [
+      "chiroyli o'tirish",
+      "qulay, foydali yoki yuqori mavqeda bo'lish",
+      "kambag'al bo'lish",
+      "xafa bo'lish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 226,
+    "word": "Slip of the tongue",
+    "definition": "Something that was said by accident/mistakenly.",
+    "sentence": {
+      "en": "Did I call you Rachel? It must have been a slip of the tongue.",
+      "uz": "Sizni Reychel deb chaqirdimmi? Tilim toyib ketgan bo'lsa kerak (tasodifan adashib aytdim)."
+    },
+    "options": [
+      "tili toyib ketishi, yanglishib gapirib yuborish",
+      "tili og'rishi",
+      "to'g'ri gapirish",
+      "tilini ko'rsatish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 227,
+    "word": "Small wonder",
+    "definition": "Not surprising.",
+    "sentence": {
+      "en": "It's small wonder the kids are bored.",
+      "uz": "Bolalarning zerikib qolgani ajablanarli emas (tabiiy hol)."
+    },
+    "options": [
+      "kichik mo'jiza",
+      "ajablanarli emas, tabiiy hol",
+      "juda hayratlanarli",
+      "kichik xato"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 228,
+    "word": "Smarten up your act",
+    "definition": "To improve your behavior; make more of an effort.",
+    "sentence": {
+      "en": "He'll have to smarten up his act if he needs me as an ally.",
+      "uz": "Agar u meni ittifoqchi sifatida ko'rmoqchi bo'lsa, o'z xulq-atvorini yaxshilashi kerak."
+    },
+    "options": [
+      "chiroyli kiyinish",
+      "o'z xulq-atvorini/harakatini yaxshilash, ko'proq harakat qilish",
+      "aqllilik qilish",
+      "ishni buzish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 229,
+    "word": "Someone's lot in life",
+    "definition": "General state of life; general situation in life.",
+    "sentence": {
+      "en": "John seems happy enough with his lot in life.",
+      "uz": "Jon o'zining hayotiy qismati (peshana taqdiri) bilan yetarlicha baxtli ko'rinadi."
+    },
+    "options": [
+      "hayotiy qismat, peshana taqdiri",
+      "lotereyada yutish",
+      "ko'p pul topish",
+      "sayohat qilish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 230,
+    "word": "Splinter off from something",
+    "definition": "To separate from the greater part of something; to separate from a larger group.",
+    "sentence": {
+      "en": "A small group splintered off from the main camp.",
+      "uz": "Kichik bir guruh asosiy lagerdan ajralib chiqdi."
+    },
+    "options": [
+      "yog'och sinishi",
+      "kattaroq guruh yoki narsadan ajralib chiqish",
+      "birlashish",
+      "lager qurish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 231,
+    "word": "Squeeze something out of someone",
+    "definition": "To force someone to do or give something (mostly information).",
+    "sentence": {
+      "en": "It's a shame we couldn't squeeze anything out of Dan and his accomplices.",
+      "uz": "Dand va uning jinoiy sheriklaridan biror ma'lumot sug'urib (majburlab ololmaganimiz) achinarli."
+    },
+    "options": [
+      "siqib suvini chiqarish",
+      "majburlab ma'lumot yoki biror narsani sug'urib/undirib olish",
+      "sovg'a berish",
+      "kechirish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 232,
+    "word": "Stand your ground",
+    "definition": "To refuse to change your opinion; continue to support a particular position or point of view in an argument; to stay where you are when someone threatens or intimidates you.",
+    "sentence": {
+      "en": "Our meeting was unsuccessful because Harry stood his ground.",
+      "uz": "Uchrashuvimiz muvaffaqiyatsiz tugadi, chunki Harri o'z so'zida turib oldi (ortga chekinmadi)."
+    },
+    "options": [
+      "yerda turish",
+      "o'z fikrida/so'zida qat'iy turib olish, ortga chekinmaslik",
+      "taslim bo'lish",
+      "yugurib qochish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 233,
+    "word": "Stem the tide",
+    "definition": "To stop the growth or continuation of something.",
+    "sentence": {
+      "en": "These strict measures are designed to stem the tide of illegal immigration.",
+      "uz": "Ushbu qat'iy choralar noqonuniy immigrasiya oqimini to'xtatish (oldini olish) uchun mo'ljallangan."
+    },
+    "options": [
+      "oqimni/tarqalishni to'xtatish, oldini olish",
+      "dengiz to'lqini",
+      "ko'paytirish",
+      "suzishni boshlash"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 234,
+    "word": "Straight from the horse's mouth",
+    "definition": "To hear information from someone who knows for sure that it's true (mainly because that person has personally seen or heard something that confirms the accuracy of the information).",
+    "sentence": {
+      "en": "John already told me, but I'd like to hear it straight from the horse's mouth.",
+      "uz": "Jon menga aytdi, lekin buni birinchi manbaning o'zidan (haqiqiy guvohidan) eshitishni xohlardim."
+    },
+    "options": [
+      "otning og'zidan",
+      "birinchi manbadan, haqiqiy guvohidan eshitish",
+      "yolg'on xabar tarqatish",
+      "sir saqlash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 235,
+    "word": "Strain every nerve",
+    "definition": "To make every possible effort; do the best you can.",
+    "sentence": {
+      "en": "I will strain every nerve to finish the book on time.",
+      "uz": "Kitobni vaqtida tugatish uchun bor kuch-g'ayratimni ishga solaman."
+    },
+    "options": [
+      "asabiylashish",
+      "bor kuch-g'ayratini ishga solish, jon-jahdi bilan urinish",
+      "dam olish",
+      "kasal bo'lish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 236,
+    "word": "Sure as eggs is eggs",
+    "definition": "Without any doubt; for certain.",
+    "sentence": {
+      "en": "Are you sure you are pregnant? - Sure as eggs is eggs!",
+      "uz": "Homiladorligingizga aminsizmi? - Ikki karra ikki to'rtdek aniq (shubhasiz)!"
+    },
+    "options": [
+      "tuxum pishirish",
+      "ikki karra ikki to'rtdek aniq, shubhasiz",
+      "shubhali bo'lish",
+      "noto'g'ri taxmin"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 237,
+    "word": "Sweep something under the carpet",
+    "definition": "To deliberately ignore a problem/issue in the hope that it will be overlooked or forgotten.",
+    "sentence": {
+      "en": "You can't just sweep your financial problems under the carpet.",
+      "uz": "Moliyaviy muammolaringizni shunchaki xaspo'shlay (beparvo bo'lib yashira) olmaysiz."
+    },
+    "options": [
+      "gilam tagini supirish",
+      "muammoni xaspo'shlash, yashirishga urinish",
+      "tozalash ishlari",
+      "muammoni hal qilish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 238,
+    "word": "Sweep the board",
+    "definition": "To win everything possible.",
+    "sentence": {
+      "en": "My team swept the board in the boxing competition.",
+      "uz": "Mening jamoam boks musobaqasida barcha sovrinlarni yutib oldi (katta g'alabaga erishdi)."
+    },
+    "options": [
+      "doskani artish",
+      "barcha mumkin bo'lgan sovrinlarni/g'alabalarni qo'lga kiritish",
+      "yutqazish",
+      "o'yinni buzish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 239,
+    "word": "Take a hint",
+    "definition": "To understand something that is suggested or offered to you indirectly.",
+    "sentence": {
+      "en": "I'd love to go out, but my knee hurts. - Okay, I can take a hint.",
+      "uz": "Aylangani chiqardim-u, lekin tizzam og'riyapti. - Mayli, ishorangizni tushundim (majburlamayman)."
+    },
+    "options": [
+      "ishorani/shamani tushunish",
+      "sovg'a olish",
+      "rad javobini berish",
+      "tushunmasdan so'rayverish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 240,
+    "word": "Take it from me",
+    "definition": "To emphasize that you are absolutely sure of what you are saying.",
+    "sentence": {
+      "en": "You can take it from me, he's a wonderful man.",
+      "uz": "Mening gapimga ishoning (so'zimga shubha qilmang), u ajoyib inson."
+    },
+    "options": [
+      "mendan narsani olish",
+      "gapimga ishonish, so'zimga shubha qilmaslik",
+      "yordam so'rash",
+      "rad etish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 241,
+    "word": "Take matters into your own hands",
+    "definition": "To do something yourself because others have refused or failed.",
+    "sentence": {
+      "en": "They failed to eliminate the target, so he took matters into his own hands.",
+      "uz": "Ular nishonni yo'q qila olishmadi, shuning uchun u ishni o'z qo'liga oldi."
+    },
+    "options": [
+      "ishni o'z qo'liga olish (o'zi mustaqil bajarish)",
+      "qo'lini yuvish",
+      "boshqalarga topshirish",
+      "taslim bo'lish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 242,
+    "word": "Take something as read",
+    "definition": "To agree/accept that something is true without any evidence.",
+    "sentence": {
+      "en": "We took it as read that he was a spy.",
+      "uz": "Biz uning josus ekanligini hujjatsiz/isbotsiz to'g'ri deb qabul qildik."
+    },
+    "options": [
+      "kitobni o'qib bo'lish",
+      "isbotsiz/shubhasiz to'g'ri deb qabul qilish",
+      "rad etish",
+      "dalil qidirish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 243,
+    "word": "Take the bull by the horns",
+    "definition": "To confidently deal with a dangerous or difficult situation.",
+    "sentence": {
+      "en": "It's time to take the bull by the horns and fire inefficient employees.",
+      "uz": "Bu qiyinchilikka qarshi mardona turish (buqani shoxidan tutish) va samarasiz xodimlarni bo'shatish vaqti keldi."
+    },
+    "options": [
+      "buqani shoxidan tutish (qiyinchilikka qarshi mardona/keskin kurashish)",
+      "chorvachilik qilish",
+      "muammodan qochish",
+      "qo'rqib ketish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 244,
+    "word": "Tall order",
+    "definition": "A request or task that is extremely difficult to complete.",
+    "sentence": {
+      "en": "Completing this task on time was a tall order, but we did it.",
+      "uz": "Bu vazifani vaqtida bajarish o'ta qiyin vazifa (bajarib bo'lmas buyurtma) edi, lekin biz buni uddaladik."
+    },
+    "options": [
+      "baland bo'yli odam",
+      "bajarish o'ta qiyin/murakkab bo'lgan vazifa yoki buyurtma",
+      "oson topshiriq",
+      "restorandagi buyurtma"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 245,
+    "word": "Thank your lucky stars",
+    "definition": "To be extremely grateful.",
+    "sentence": {
+      "en": "You should thank your lucky stars that you managed to survive the accident.",
+      "uz": "Baxtingiz bor ekan (omadli yulduzingizga rahmat ayting), baxtsiz hodisadan omon qoldingiz."
+    },
+    "options": [
+      "yulduzlarni sanash",
+      "omadi chopganiga shukr qilish, o'ta minnatdor bo'lish",
+      "tunda osmonga qarash",
+      "yig'lash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 246,
+    "word": "That's one way of putting it",
+    "definition": "To emphasize that someone said something completely different from the intended meaning of their words (mostly in a sarcastic or flirty manner).",
+    "sentence": {
+      "en": "You look really hot! - Well, that's one way of putting it.",
+      "uz": "Juda jozibali ko'rinyapsiz! - Shunday desangiz ham bo'ladi (shunaqa tushunish mumkin)."
+    },
+    "options": [
+      "buni shunday tushunsa ham bo'ladi (shunday ta'riflash ham mumkin)",
+      "noto'g'ri yo'ldan borish",
+      "joyiga qo'yish",
+      "gapirishni taqiqlash"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 247,
+    "word": "The jury is still out",
+    "definition": "To emphasize that something has not yet been decided/answered.",
+    "sentence": {
+      "en": "The jury is still out on whether red wine can be good for you.",
+      "uz": "Qizil vinoning foydasi bor-yo'qligi bo'yicha yakuniy qaror hali qabul qilinmagan (masala ochiq qolmoqda)."
+    },
+    "options": [
+      "sud tugashi",
+      "yakuniy qaror qabul qilinmagan, masala hali ham ochiq",
+      "hamma rozi bo'lishi",
+      "yashirincha ketish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 248,
+    "word": "The lion's share",
+    "definition": "Bigger half; largest part.",
+    "sentence": {
+      "en": "I spend the lion's share of my salary on rent.",
+      "uz": "Maoshimning sher ulushini (eng katta qismini) ijaraga sarflayman."
+    },
+    "options": ["sher ulushi, eng katta qismi", "kichik bo'lak", "sher ovi", "hayvonot bog'i"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 249,
+    "word": "The mists of time",
+    "definition": "To emphasize that something happened so long ago that you barely remember it.",
+    "sentence": {
+      "en": "The origins of this phrase are lost in the mists of history.",
+      "uz": "Bu iboraning kelib chiqishi tarix qa'rida (unutilgan uzoq o'tmishda) yo'qolib ketgan."
+    },
+    "options": [
+      "tumanli ob-havo",
+      "unutilgan uzoq o'tmish, tarix qa'ri",
+      "kelajak rejalari",
+      "vaqtni o'lchash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 250,
+    "word": "The more the merrier",
+    "definition": "To emphasize that more people will make the event or activity more enjoyable.",
+    "sentence": {
+      "en": "Can I bring my brother to your party? - Sure, the more the merrier!",
+      "uz": "Akamni ham ziyofatga olib kelsam bo'ladimi? - Albatta, qancha ko'p bo'lsak, shuncha quvnoq bo'ladi!"
+    },
+    "options": [
+      "qancha ko'p bo'lsa, shuncha quvnoq/yaxshi",
+      "odamlardan qochish",
+      "juda zerikarli",
+      "joy yetishmasligi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 251,
+    "word": "There's no telling",
+    "definition": "Impossible to know for sure.",
+    "sentence": {
+      "en": "If he fails in negotiations, there's no telling how many people will lose their jobs.",
+      "uz": "Agar u muzokaralarda yutqazsa, qancha odam ishsiz qolishini bashorat qilib (aniq bilib) bo'lmaydi."
+    },
+    "options": [
+      "gapirish taqiqlangan",
+      "aniq bilib/bashorat qilib bo'lmaslik",
+      "hamma narsa ma'lum",
+      "yolg'on gapirish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 252,
+    "word": "There's no time like the present",
+    "definition": "To emphasize that now is the best time to do something.",
+    "sentence": {
+      "en": "When would you like to meet? - There's no time like the present.",
+      "uz": "Qachon ko'rishishni xohlaysiz? - Hozirgisi eng yaxshi vaqt (kechiktirishga hojat yo'q)."
+    },
+    "options": [
+      "ishni keyinga qoldirish",
+      "hozirgi vaqt eng yaxshisi ekanligi (ishni darhol bajarish kerakligi)",
+      "o'tmishni eslash",
+      "kelajakni kutish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 253,
+    "word": "There's safety in numbers",
+    "definition": "To emphasize that when you are in a large group with other people, you are less likely to be harmed.",
+    "sentence": {
+      "en": "We must stick together in the woods; there's safety in numbers.",
+      "uz": "O'rmonda birga bo'lishimiz kerak; ko'pchilik bo'lsa xavfsiz bo'ladi (ko'pda baraka)."
+    },
+    "options": [
+      "matematika o'rganish",
+      "ko'pchilik bo'lganda xavfsizroq bo'lish (ko'pda baraka)",
+      "yolg'iz yurish",
+      "xavfli hudud"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 254,
+    "word": "The worse for wear",
+    "definition": "Exhausted; tired; in poor condition; beaten up from use.",
+    "sentence": {
+      "en": "Your jacket seems to be the worse for wear - I'll buy you a new one.",
+      "uz": "Kamzulingiz urinib qolibdi (eskirib, holati yomonlashibdi) - sizga yangisini sotib olaman."
+    },
+    "options": [
+      "yangi kiyim",
+      "charchagan, eskirgan yoki holati yomonlashgan bo'lish",
+      "yaxshi holatda",
+      "kiyishni xohlamaslik"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 255,
+    "word": "Throw a spanner in the works",
+    "definition": "To prevent things from going as planned (mainly by causing problems or difficulties).",
+    "sentence": {
+      "en": "I was ready to publish my novel when my sister threw a spanner in the works by deleting the file.",
+      "uz": "Men romanomni nashr etishga tayyor edim, lekin singlim faylni o'chirib tashlab, ishimni chippakka chiqardi (g'ildirakka cho'p suqdi)."
+    },
+    "options": [
+      "asbobni tashlab yuborish",
+      "ishni chippakka chiqarish, g'ildirakka cho'p suqish",
+      "yordam berish",
+      "reja tuzish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 256,
+    "word": "Throw cold water on something",
+    "definition": "To destroy someone's enthusiasm for something; be extremely pessimistic about someone's plans or ideas.",
+    "sentence": {
+      "en": "You're always throwing cold water on my new ideas!",
+      "uz": "Siz har doim mening yangi g'oyalarimga sovuq suv quyasiz (shijoatimni so'ndirasiz)!"
+    },
+    "options": [
+      "sovuq suv sepish",
+      "shijoatni so'ndirish, g'oyaga nisbatan o'ta pessimistik munosabatda bo'lish",
+      "qo'llab-quvvatlash",
+      "cho'milish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 257,
+    "word": "Tie up loose ends",
+    "definition": "To deal with little issues/problems left unresolved from something; to complete minor matters that are the result of a previous action.",
+    "sentence": {
+      "en": "All that remained was to tie up loose ends after the project.",
+      "uz": "Loyihadan keyin faqat mayda-chuyda hal qilinmagan masalalarni yakunlash (oxiriga yetkazish) qoldi."
+    },
+    "options": [
+      "arqonni bog'lash",
+      "mayda-chuyda, qolib ketgan masalalarni yakunlash/hal qilish",
+      "ishni chalkam-chust qilish",
+      "yangi muammo yaratish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 258,
+    "word": "Till the cows come home",
+    "definition": "For a long period of time.",
+    "sentence": {
+      "en": "You can convince me till the cows come home, but I won't change my mind.",
+      "uz": "Meni sigirlar uyga kelguncha (juda uzoq vaqt) ko'ndirishga urinishing mumkin, lekin barbir fikrimni o'zgartirmayman."
+    },
+    "options": [
+      "sigir boqish",
+      "juda uzoq vaqt davomida, cheksiz ravishda",
+      "qisqa fursatda",
+      "kechga yaqin"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 259,
+    "word": "To someone's liking",
+    "definition": "Fitting someone's preferences; enjoyable to someone.",
+    "sentence": {
+      "en": "Is everything to your liking, thus far?",
+      "uz": "Hozircha hamma narsa sizga yoqadigan darajadami (didingizga mosmi)?"
+    },
+    "options": [
+      "kimningdir didiga/xohishiga mos kelish, yoqish",
+      "yomon ko'rish",
+      "fikrini o'zgartirish",
+      "sotib olish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 260,
+    "word": "To the untrained eye",
+    "definition": "Without special knowledge of the subject.",
+    "sentence": {
+      "en": "To the untrained eye, it looks like a stack of old papers, but it is an original manuscript.",
+      "uz": "Mutaxassis bo'lmagan (oddiy) odam ko'ziga bu shunchaki eski qog'ozlar uyumi bo'lib ko'rinadi, lekin bu asl qo'lyozmadir."
+    },
+    "options": [
+      "ko'r odamga",
+      "mutaxassis bo'lmagan, maxsus bilimsiz odam nazarida",
+      "shifokor ko'rigida",
+      "yaxshilab qaraganda"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 261,
+    "word": "Tough act to follow",
+    "definition": "Someone or something so successful, exemplary, or effective that it overshadows anything that follows.",
+    "sentence": {
+      "en": "John was a tough act to follow - a Nobel laureate with 40 years of experience.",
+      "uz": "Jondan keyin uning o'rnini bosish o'ta qiyin (chunki u 40 yillik tajribaga ega Nobel mukofoti sovrindori)."
+    },
+    "options": [
+      "orqasidan ergashish",
+      "o'rnini bosish yoki ortidan yetishish juda qiyin bo'lgan yuksak namuna/shaxs",
+      "oson vazifa",
+      "teatr aktyori"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 262,
+    "word": "To your heart's content",
+    "definition": "As long as you wish; as much as you want.",
+    "sentence": {
+      "en": "His wife let him eat and drink to his heart's content.",
+      "uz": "Xotini unga ko'ngli tusaganicha (to'yguncha) yeb-ichishga ruxsat berdi."
+    },
+    "options": [
+      "yuragi og'rish",
+      "ko'ngli tusaganicha, xohlagancha, to'yguncha",
+      "ozgina",
+      "beparvo bo'lish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 263,
+    "word": "Treat with kid gloves",
+    "definition": "To treat someone/something very gently and carefully; be extremely polite and kind.",
+    "sentence": {
+      "en": "She needs to be handled with kid gloves; she is very sensitive.",
+      "uz": "Unga juda ham muloyim va ehtiyotkorona munosabatda bo'lish kerak; u juda ta'sirchan."
+    },
+    "options": [
+      "qo'lqop kiyish",
+      "o'ta muloyim, ehtiyotkorona va muloyim munosabatda bo'lish",
+      "qo'pol muomala qilish",
+      "bolalarni boqish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 264,
+    "word": "Trouble is brewing",
+    "definition": "A dangerous or difficult situation is developing.",
+    "sentence": {
+      "en": "The informant made it clear that trouble was brewing.",
+      "uz": "Informator (gofchi) yaqin orada ko'ngilsizlik/xavf yetilib kelayotganini aniq tushuntirdi."
+    },
+    "options": [
+      "kofe damlash",
+      "ko'ngilsizlik/xavf yetilib kelayotganligi, muammo yaqinligi",
+      "tinchlik o'rnatilishi",
+      "ishlar yaxshilanishi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 265,
+    "word": "True to form",
+    "definition": "Behaving in expected or predictable manner; as usual.",
+    "sentence": {
+      "en": "True to form, Rita and Sam are late again.",
+      "uz": "O'z odatiga ko'ra (kutilganidek), Rita va Sem yana kechikishdi."
+    },
+    "options": [
+      "anketa to'ldirish",
+      "o'z odatiga ko'ra, kutilganidek, har doimgidek",
+      "kutilmaganda",
+      "to'g'ri so'zlash"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 266,
+    "word": "Try your hand at something",
+    "definition": "To do something for the first time.",
+    "sentence": {
+      "en": "I've always wanted to try my hand at scuba diving.",
+      "uz": "Men har doim akvalang bilan suzishni o'zimda sinab ko'rishni (birinchi marta urunishni) xohlaganman."
+    },
+    "options": [
+      "qo'l berib ko'rishish",
+      "biror ishni birinchi marta o'zida sinab ko'rmoq/urinmoq",
+      "qo'lini jarohatlash",
+      "ishlashni rad etish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 267,
+    "word": "Until all hours",
+    "definition": "Very late; until a very late hour.",
+    "sentence": {
+      "en": "We were up talking until all hours.",
+      "uz": "Biz yarim kechagacha (juda kech bo'lguncha) gaplashib o'tirdik."
+    },
+    "options": [
+      "soatni tekshirish",
+      "yarim kechagacha, tun yarmigacha o'ta kech vaqt",
+      "erta tongda",
+      "bir necha soat ichida"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 268,
+    "word": "Until the dust settles",
+    "definition": "Until the situation becomes calmer.",
+    "sentence": {
+      "en": "You've caused a lot of trouble, and we'll have to leave town until the dust settles.",
+      "uz": "Siz ko'p muammo yaratdingiz, vaziyat tinchiguncha (chang bosilguncha) shahardan chiqib turishimiz kerak."
+    },
+    "options": [
+      "changni artguncha",
+      "vaziyat tinchiguncha, hamma narsa o'z joyiga tushguncha",
+      "uy tozalash",
+      "urush boshlanguncha"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 269,
+    "word": "Walk with a spring in your step",
+    "definition": "Walk energetically and happily.",
+    "sentence": {
+      "en": "As Rita walked into the school, there was a spring in her step.",
+      "uz": "Maktabga kirib borarkan, Ritaning qadamlarida quvonch va g'ayrat sezilib turardi (baxtiyor qadam tashlardi)."
+    },
+    "options": [
+      "bahorda sayr qilish",
+      "quvnoq va g'ayrat bilan (baxtiyor) qadam tashlash",
+      "oyoq og'rishi",
+      "asta yurish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 270,
+    "word": "Water under the bridge",
+    "definition": "Something that happened a long time ago and doesn't bother you anymore.",
+    "sentence": {
+      "en": "I forgive you, that old quarrel is just water under the bridge!",
+      "uz": "Seni kechiraman, u eski janjal endi o'tmishda qoldi (o'tgan ishga salovot)!"
+    },
+    "options": [
+      "ko'prik ostidagi suv",
+      "o'tmishda qolgan, ahamiyatini yo'qotgan voqea (o'tgan ishga salovot)",
+      "suv toshqini",
+      "yangi kelishmovchilik"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 271,
+    "word": "When push comes to shove",
+    "definition": "When a situation becomes critical and you need to act; when a decision needs to be made; when something can no longer be ignored.",
+    "sentence": {
+      "en": "Only Bella was there to help me when push came to shove.",
+      "uz": "Vaziyat o'ta jiddiylashganda (pichoq suyakka taqalganda) faqat Bella menga yordam berdi."
+    },
+    "options": [
+      "birovni turtish",
+      "vaziyat o'ta jiddiylashganda, pichoq suyakka taqalganda",
+      "oson qaror qabul qilish",
+      "qochib ketish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 272,
+    "word": "With flying colours",
+    "definition": "Successfully.",
+    "sentence": {
+      "en": "He passed his college entrance exam with flying colours.",
+      "uz": "U kollejga kirish imtihonidan o'ta muvaffaqiyatli (g'olibona) o'tdi."
+    },
+    "options": [
+      "turli ranglar bilan",
+      "o'ta muvaffaqiyatli, a'lo darajada",
+      "yutqazib qo'yish",
+      "rasm chizish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 273,
+    "word": "With one accord",
+    "definition": "All together; in full agreement; at the same time.",
+    "sentence": {
+      "en": "With one accord they left the room.",
+      "uz": "Ular bir ovozdan (birdaniga/hammasi kelishgan holda) xonani tark etishdi."
+    },
+    "options": [
+      "akkordeon chalish",
+      "bir ovozdan, yakdillik bilan, bir vaqtda",
+      "urishgan holda",
+      "alohida-alohida"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "id": 274,
+    "word": "Without a hitch",
+    "definition": "Smoothly, easily, without any difficulties or problems.",
+    "sentence": {
+      "en": "The knee surgery went off without a hitch.",
+      "uz": "Tizza jarrohligi hech qanday muammosiz (silliq) o'tib ketdi."
+    },
+    "options": [
+      "hech qanday muammosiz, silliq, oson",
+      "qiyinchiliklar bilan",
+      "to'xtab qolish",
+      "mashina nosozligi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "id": 275,
+    "word": "Worth your while",
+    "definition": "Something that is worth your attention/time and you can gain some benefit or advantage from it.",
+    "sentence": {
+      "en": "Is it really worth your while to keep looking for that necklace? - Yes, it is a family heirloom.",
+      "uz": "U marjonni qidirishga vaqt sarflash arziydimi? - Ha, u oilaviy meros."
+    },
+    "options": [
+      "vaqtni bekorga ketkazish",
+      "vaqt va e'tibor ajratishga arziydigan (foydali/manfaatli) ish",
+      "arzimas narsa",
+      "juda qimmat baho"
+    ],
+    "correct_option_index": 1
+  }
+]
