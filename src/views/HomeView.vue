@@ -4,7 +4,7 @@ import type { Question, QuizQuestion, ShuffledOption, WrongAnswer } from '@/type
 
 // Mavjud kunlik JSON fayllar ro'yxati
 const availableDays = ref<string[]>(['reading_1', 'june_1', '3000_vocab_1', '3000_vocab_2', '3000_vocab_3', '3000_vocab_4', '3000_vocab_5', '3000_vocab_common', 'idioms_1', 'idioms_2', 'idioms_3'])
-const selectedDay = ref<string>('june_1')
+const selectedDay = ref<string>('reading_1')
 
 const rawQuestions = ref<Question[]>([])
 const quizQuestions = ref<QuizQuestion[]>([])
