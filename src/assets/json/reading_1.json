@@ -1,0 +1,695 @@
+[
+  {
+    "id": 1,
+    "word": "Complex (adj)",
+    "definition": "Difficult to understand",
+    "sentence": {
+      "en": "The math problem was too complex for the students to solve without help.",
+      "uz": "Matematika masalasi talabalar yordamsiz yechishi uchun juda murakkab edi."
+    },
+    "options": ["Oddiy", "Murakkab", "Tez", "Sekin"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 2,
+    "word": "Attempt (n)",
+    "definition": "the act of trying to do something, especially something difficult",
+    "sentence": {
+      "en": "She made a brave attempt to climb the mountain.",
+      "uz": "U toqqa chiqish uchun jasorat bilan urinish qildi."
+    },
+    "options": ["Qochish", "Yozish", "Urinish", "Kutish"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 3,
+    "word": "Heartily appreciated",
+    "definition": "highly valued or esteemed",
+    "sentence": {
+      "en": "Your help during this difficult time is heartily appreciated.",
+      "uz": "Ushbu qiyin davrdagi yordamingiz chin dildan qadrlanadi."
+    },
+    "options": ["E'tiborsiz qoldirildi", "Chin dildan qadrlanadi", "Unutilgan", "Rad etilgan"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 4,
+    "word": "Discouraged (adj)",
+    "definition": "having lost your confidence or enthusiasm for something",
+    "sentence": {
+      "en": "He felt discouraged after failing the exam.",
+      "uz": "U imtihondan o'tolmagach, tushkunlikka tushgan edi."
+    },
+    "options": ["Xursand", "Tushkunlikka tushgan", "Hayratda", "Jahli chiqqan"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 5,
+    "word": "Be accustomed to (adj)",
+    "definition": "be familiar with something",
+    "sentence": {
+      "en": "I am accustomed to waking up early in the morning.",
+      "uz": "Men erta tongda uyg'onishga o'rganib qolganman."
+    },
+    "options": ["Qo'rqish", "Hayron bo'lish", "O'rganib qolish", "Tark etish"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 6,
+    "word": "Stumble through (v)",
+    "definition": "to make a mistake, such as repeating something or pausing for too long, while speaking",
+    "sentence": {
+      "en": "He managed to stumble through his speech despite being very nervous.",
+      "uz": "U juda asabiy bo'lishiga qaramay, nutqi davomida qoqilib ketish bilan bo'lsa ham gapira oldi."
+    },
+    "options": ["Tez yugurish", "Qoqilib ketish", "Jim turish", "Kulgiga qolish"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 7,
+    "word": "Brush up on (v)",
+    "definition": "to improve your knowledge of something already learned but partly forgotten (refresh)",
+    "sentence": {
+      "en": "I need to brush up on my French before traveling to Paris.",
+      "uz": "Parijga sayohat qilishdan oldin fransuz tilidagi bilimlarimni yangilashim kerak."
+    },
+    "options": ["Unutish", "Yangi til o'rganish", "Bilimlarni yangilash", "Kitob o'qish"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 8,
+    "word": "Compulsory (adj)",
+    "definition": "if something is compulsory, you must do it because of a rule or law",
+    "sentence": {
+      "en": "Education is compulsory for children in many countries.",
+      "uz": "Ko'plab mamlakatlarda bolalar uchun ta'lim olish majburiy hisoblanadi."
+    },
+    "options": ["Ixtiyoriy", "Majburiy", "Taqiqlangan", "Bepul"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 9,
+    "word": "Wiped off (school) (adj)",
+    "definition": "to be removed from something(school)",
+    "sentence": {
+      "en": "His name was wiped off the school register after he moved away.",
+      "uz": "U ko'chib ketganidan so'ng, uning ismi maktab ro'yxatidan o'chirilgan."
+    },
+    "options": ["Qo'shilgan", "O'zgartirilgan", "O'chirilgan", "Tasdiqlangan"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 10,
+    "word": "School curriculum (n)",
+    "definition": "the subjects studied in a school, college, etc. and what subject includes",
+    "sentence": {
+      "en": "The new school curriculum focuses more on science and technology.",
+      "uz": "Yangi maktab o'quv dasturi ko'proq fan va texnologiyalarga qaratilgan."
+    },
+    "options": ["Maktab binosi", "Maktab formasi", "Maktab o'quv dasturi", "Maktab oshxonasi"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 11,
+    "word": "Appeal to",
+    "definition": "to attract someone’s attention",
+    "sentence": {
+      "en": "The new advertisement is designed to appeal to younger audiences.",
+      "uz": "Yangi reklama yoshroq auditoriyani jalb qilish uchun mo'ljallangan."
+    },
+    "options": ["Jalb qilish", "Rad etish", "Qochish", "Kutish"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 12,
+    "word": "Assist (v)",
+    "definition": "to help",
+    "sentence": {
+      "en": "I will assist you with your heavy luggage.",
+      "uz": "Men sizga og'ir yuklaringiz bilan yordamlashmoqchiman."
+    },
+    "options": ["To'sqinlik qilish", "Yordamlashmoq", "Qarash", "Ketish"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 13,
+    "word": "Surrounded (adj)",
+    "definition": "to have a lot of a particular type of people or things near you",
+    "sentence": {
+      "en": "The famous singer was surrounded by her fans.",
+      "uz": "Mashhur xonanda o'z muxlislari bilan qurshab olingan edi."
+    },
+    "options": ["Yolg'iz qolgan", "Qochgan", "Qurshab olingan", "Unutilgan"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 14,
+    "word": "Content (adj)",
+    "definition": "pleased with your situation not hoping for change or improvement",
+    "sentence": {
+      "en": "He was quite content with his simple life in the village.",
+      "uz": "U qishloqdagi oddiy hayotidan ancha qoniqarli edi."
+    },
+    "options": ["Norozi", "Xafa", "Qoniqarli", "Shoshilgan"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 15,
+    "word": "Decent (adj)",
+    "definition": "of an acceptable standard; satisfactory",
+    "sentence": {
+      "en": "Everyone deserves a decent place to live.",
+      "uz": "Har kim yashash uchun munosib joyga loyiqdir."
+    },
+    "options": ["Munosib", "Yomon", "Qimmat", "Keraksiz"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 16,
+    "word": "Wealthy background (adj)",
+    "definition": "someone who is wealthy has a large amount of money, property, or valuable possessions",
+    "sentence": {
+      "en": "She came from a wealthy background and never had to worry about money.",
+      "uz": "U boy kelib chiqishga ega edi va hech qachon pul haqida qayg'urmagan."
+    },
+    "options": ["Kambag'al oila", "O'rta sinf", "Boy kelib chiqish", "Oddiy yashash"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 17,
+    "word": "Financed (adj)",
+    "definition": "a person who is provided by money",
+    "sentence": {
+      "en": "The new project was completely financed by the government.",
+      "uz": "Yangi loyiha to'liq hukumat tomonidan moliyalangan."
+    },
+    "options": ["To'xtatilgan", "Moliyalangan", "Bekor qilingan", "Rejalashtirilgan"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 18,
+    "word": "Profitable (adj)",
+    "definition": "beneficial; useful",
+    "sentence": {
+      "en": "Investing in real estate has proven to be very profitable.",
+      "uz": "Ko'chmas mulkka sarmoya kiritish juda foydali ekanini ko'rsatdi."
+    },
+    "options": ["Zararli", "Foydali", "Qiziqmas", "Xavfli"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 19,
+    "word": "Plenty of (pronoun)",
+    "definition": "a large or sufficient amount or quantity; more than enough.",
+    "sentence": {
+      "en": "We have plenty of time to finish the work before the deadline.",
+      "uz": "Muddatidan oldin ishni tugatish uchun bizda vaqt mo'l."
+    },
+    "options": ["Kam", "Yetishmaydi", "Mo'l", "Hech qancha"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 20,
+    "word": "Lack (v)",
+    "definition": "be without or deficient in",
+    "sentence": {
+      "en": "The team members lack the experience needed for this project.",
+      "uz": "Jamoa a'zolarida ushbu loyiha uchun kerakli tajriba yetishmasligi bor."
+    },
+    "options": ["Ko'payish", "Yetishmaslik", "Saqlash", "Yig'ish"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 21,
+    "word": "Illiterate (n)",
+    "definition": "a person who is unable to read or write",
+    "sentence": {
+      "en": "Programs have been set up to help illiterate adults learn to read.",
+      "uz": "Savodsiz kattalarga o'qishni o'rganishda yordam berish uchun dasturlar yo'lga qo'yilgan."
+    },
+    "options": ["Olim", "Savodsiz", "Talaba", "O'qituvchi"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 22,
+    "word": "Force (n)",
+    "definition": "In scientific use, (a measure of) the influence that changes movement",
+    "sentence": {
+      "en": "Gravity is the force that pulls objects toward the Earth.",
+      "uz": "Gravitatsiya - ob'ektlarni Yerga tortadigan kuch."
+    },
+    "options": ["Tezlik", "Kuch", "Vaqt", "Massa"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 23,
+    "word": "Meanwhile (adv)",
+    "definition": "In the intervening period of time",
+    "sentence": {
+      "en": "She was studying for exams; meanwhile, her friends were playing outside.",
+      "uz": "U imtihonlarga tayyorlanayotgan edi; shu vaqtda do'stlari tashqarida o'ynashyotgan edi."
+    },
+    "options": ["Keyin", "Shu vaqtda", "Oldin", "Hech qachon"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 24,
+    "word": "Redundant (adj)",
+    "definition": "Not or no longer needed or useful; superfluous.",
+    "sentence": {
+      "en": "The introduction of the new software made the old system redundant.",
+      "uz": "Yangi dasturiy ta'minotning joriy etilishi eski tizimni keraksiz qildi."
+    },
+    "options": ["Muhim", "Yangi", "Foydali", "Keraksiz"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 25,
+    "word": "Redeployment (n)",
+    "definition": "The assignment of employees or resources to a new place or task.",
+    "sentence": {
+      "en": "The factory closure led to the redeployment of many workers to other branches.",
+      "uz": "Zavodning yopilishi ko'plab xodimlarning boshqa filiallarga ishchilar rolini almashuviga olib keldi."
+    },
+    "options": ["Ishdan bo'shatish", "Ishchilar rolini almashuvi", "Oylik oshishi", "Dam olish"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 26,
+    "word": "Labour (n)",
+    "definition": "Work, especially physical work",
+    "sentence": {
+      "en": "Building the pyramids required a massive amount of manual labour.",
+      "uz": "Piramidalarni qurish juda katta hajmdagi jismoniy mehnat talab qilgan."
+    },
+    "options": ["O'yin", "Mehnat", "Uxlash", "Sayohat"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 27,
+    "word": "Leisure (n)",
+    "definition": "Time when one is not working or occupied; free time.",
+    "sentence": {
+      "en": "He enjoys reading books during his leisure hours.",
+      "uz": "U o'zining bo'sh vaqtlarida kitob o'qishni yoqtiradi."
+    },
+    "options": ["Ish vaqti", "Bosh vaqt", "Tanaffus", "Uchrashuv"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 28,
+    "word": "Upheaval (n)",
+    "definition": "A violent or sudden change or disruption to something.",
+    "sentence": {
+      "en": "The country experienced a major political upheaval last year.",
+      "uz": "Mamlakat o'tgan yili yirik siyosiy g'alayonni boshdan kechirdi."
+    },
+    "options": ["Tinchlik", "Rivojlanish", "G'alayon", "Kelishuv"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 29,
+    "word": "Attitude (n)",
+    "definition": "A settled way of thinking or feeling about something",
+    "sentence": {
+      "en": "She has a very positive attitude towards her work.",
+      "uz": "Uning o'z ishiga nisbatan juda ijobiy munosabati bor."
+    },
+    "options": ["Munosabat", "Qo'rquv", "Kiyim", "Maosh"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 30,
+    "word": "Regard as (v)",
+    "definition": "To consider or have an opinion about something or someone",
+    "sentence": {
+      "en": "He is widely regarded as one of the best doctors in the city.",
+      "uz": "U shahar ichidagi eng yaxshi shifokorlardan biri deb hisoblanadi."
+    },
+    "options": ["Unutmoq", "Rad etmoq", "Deb hisoblamoq", "Inkor qilmoq"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 31,
+    "word": "Exaggerated (adj)",
+    "definition": "Regarded or represented as larger, better, or worse than in reality",
+    "sentence": {
+      "en": "The reports of the damage were highly exaggerated.",
+      "uz": "Zarar haqidagi xabarlar juda bo'rttirilgan edi."
+    },
+    "options": ["Aniq", "Kichik", "Bo'rttirilgan", "To'g'ri"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 32,
+    "word": "Confined to (adj)",
+    "definition": "Restricted in area or volume; cramped.",
+    "sentence": {
+      "en": "Because of his illness, he was confined to his bed for a week.",
+      "uz": "Kasalligi sababli u bir hafta davomida to'shakka cheklangan edi."
+    },
+    "options": ["Erkin", "Cheklangan", "Keng tarqalgan", "Ruxsat etilgan"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 33,
+    "word": "Exceed (v)",
+    "definition": "Be greater in number or size than (a quantity, number, or other measurable thing)",
+    "sentence": {
+      "en": "The cost of the repairs will not exceed one hundred dollars.",
+      "uz": "Ta'mirlash xarajatlari yuz dollardan oshib ketmaydi."
+    },
+    "options": ["Kamayish", "Teng bo'lish", "Oshib ketish", "Qolish"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 34,
+    "word": "Imply (v)",
+    "definition": "Indicate the truth or existence of (something) by suggestion rather than explicit reference",
+    "sentence": {
+      "en": "Did his words imply that he was unhappy with the decision?",
+      "uz": "Uning so'zlari qarordan norozi ekanligiga ishora qildimi?"
+    },
+    "options": ["Yashirish", "Ishora qilish", "To'g'ridan-to'g'ri aytish", "Jim turish"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 35,
+    "word": "Widespread (adj)",
+    "definition": "Found or distributed over a large area or number of people.",
+    "sentence": {
+      "en": "There is widespread support for the new environmental policy.",
+      "uz": "Yangi ekologik siyosat uchun keng tarqalgan qo'llab-quvvatlash mavjud."
+    },
+    "options": ["Kam yoyilgan", "Maxfiy", "Cheklangan", "Keng tarqalgan"],
+    "correct_option_index": 3
+  },
+  {
+    "id": 36,
+    "word": "Inevitable (adj)",
+    "definition": "A situation that is unavoidable.",
+    "sentence": {
+      "en": "When dealing with strict deadlines, some stress is inevitable.",
+      "uz": "Qat'iy muddatlar bilan ishlaganda biroz stress bo'lishi muqarrar."
+    },
+    "options": ["Muqarrar", "Tasodifiy", "Qochib bo'ladigan", "Kutilmagan"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 37,
+    "word": "Workload (n)",
+    "definition": "The amount of work to be done by someone or something.",
+    "sentence": {
+      "en": "She struggled to manage her heavy workload at the office.",
+      "uz": "U ofisdagi og'ir ish hajmini eplay olishga qiynaldi."
+    },
+    "options": ["Ish joyi", "Dam olish", "Ish hajmi", "Maosh"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 38,
+    "word": "Disillusionment (n)",
+    "definition": "A feeling of disappointment resulting from the discovery that something is not as good as one believed it to be.",
+    "sentence": {
+      "en": "There is growing disillusionment among voters with the current political system.",
+      "uz": "Saylovchilar orasida hozirgi siyosiy tizimdan ko'ngil qolishi o'sib bormoqda."
+    },
+    "options": ["Ilhomlanish", "Ko'ngil qolishi", "Xursandchilik", "Umid"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 39,
+    "word": "Clutch (v)",
+    "definition": "grasp (something) tightly.",
+    "sentence": {
+      "en": "He started to clutch his chest tightly in sudden pain.",
+      "uz": "U to'satdan og'riq tufayli ko'kragini qattiq siqmoqni boshladi."
+    },
+    "options": ["Uzatmoq", "Siqmoq", "Tashlab yubormoq", "Ochmoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 40,
+    "word": "Claws (n)",
+    "definition": "a curved pointed horny nail on each digit of the foot in birds, lizards, and some mammals.",
+    "sentence": {
+      "en": "The cat sharpened its claws on the scratching post.",
+      "uz": "Mushuk tirnash ustunida tirnoqlarini o'tkirladi."
+    },
+    "options": ["Qanotlar", "Tishlar", "Tirnoqlar", "Quloqlar"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 41,
+    "word": "Crushing (bite) (adj)",
+    "definition": "physically or spiritually devastating",
+    "sentence": {
+      "en": "The tiger has a crushing bite that easily breaks bones.",
+      "uz": "Yo'lbarsning osongina suyaklarni sindiradigan o'ldiruvchi tishlashi bor."
+    },
+    "options": ["Yengil teginish", "Qattiq qichqiriq", "O'ldiruvchi tishlash", "Tezkor qochish"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 42,
+    "word": "Splash (v)",
+    "definition": "cause (liquid) to strike or fall on something in irregular drops",
+    "sentence": {
+      "en": "The children love to splash water in the pool.",
+      "uz": "Bolalar basseynda suv sachratishni yaxshi ko'radilar."
+    },
+    "options": ["Sachratmoq", "Quritmoq", "Suv ichmoq", "Oqizmoq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 43,
+    "word": "Apparently (adv)",
+    "definition": "as far as one knows or can see",
+    "sentence": {
+      "en": "Apparently, it is going to rain this afternoon.",
+      "uz": "Aftidan, bugun tushdan keyin yomg'ir yog'adi."
+    },
+    "options": ["Aniq", "Hech qachon", "Aftidan", "Tasodifan"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 44,
+    "word": "Damp (adj)",
+    "definition": "slightly wet.",
+    "sentence": {
+      "en": "The ground was still damp from the morning dew.",
+      "uz": "Yer ertalabki shudring tufayli hamon nam edi."
+    },
+    "options": ["Quruq", "Nam", "Issiq", "Sovuq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 45,
+    "word": "Vegetation (n)",
+    "definition": "plants considered collectively, especially those found in a particular area or habitat.",
+    "sentence": {
+      "en": "The jungle is known for its dense and lush vegetation.",
+      "uz": "Changalzor o'zining qalin va yam-yashil o'simliklari bilan mashhur."
+    },
+    "options": ["Hayvonlar", "Toshlar", "O'simliklar", "Qumlar"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 46,
+    "word": "Prey (n)",
+    "definition": "an animal that is caught and killed by another for food",
+    "sentence": {
+      "en": "The eagle swooped down to catch its prey.",
+      "uz": "Burgut o'z o'ljasini ushlash uchun pastga sho'ng'idi."
+    },
+    "options": ["Ovchi", "O'lja", "Uya", "Daraxt"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 47,
+    "word": "Rely heavily on (v)",
+    "definition": "to trust or believe (someone or something), heavily",
+    "sentence": {
+      "en": "Modern businesses rely heavily on the internet to operate.",
+      "uz": "Zamonaviy korxonalar faoliyat yuritish uchun internetga qattiq ishonadi."
+    },
+    "options": ["Gumon qilish", "Qattiq ishongan", "E'tibor bermaslik", "Mustaqil bo'lish"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 48,
+    "word": "Flat terrain (n)",
+    "definition": "land that lacks significant variation in elevation",
+    "sentence": {
+      "en": "The region consists mostly of flat terrain, making it ideal for farming.",
+      "uz": "Mintaqa asosan yassi erlardan iborat, bu uni dehqonchilik uchun qulay qiladi."
+    },
+    "options": ["Tog'li joy", "O'rmon", "Yassi er", "Cho'l"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 49,
+    "word": "Shelter (v)",
+    "definition": "protect or shield from something harmful, especially bad weather.",
+    "sentence": {
+      "en": "We had to shelter under a tree during the heavy rain.",
+      "uz": "Kuchli yomg'ir paytida biz daraxt ostida boshpana topishga majbur bo'ldik."
+    },
+    "options": ["Boshpana bermoq", "Yo'qolmoq", "Ochiqda qolmoq", "Yugurmoq"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 50,
+    "word": "Chilly (adj)",
+    "definition": "uncomfortably or unpleasantly cold",
+    "sentence": {
+      "en": "It was a bit chilly outside, so she wore a sweater.",
+      "uz": "Tashqari biroz sovuq edi, shuning uchun u sviter kiyib oldi."
+    },
+    "options": ["Juda issiq", "Iliq", "Sovuq", "Quyoshli"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 51,
+    "word": "Invariably (adv)",
+    "definition": "in every case or on every occasion; always",
+    "sentence": {
+      "en": "He invariably arrives late for meetings.",
+      "uz": "U yig'ilishlarga o'zgarmas holda kechikib keladi."
+    },
+    "options": ["Kamdan-kam", "Ba'zan", "O'zgarmas holda", "Hech qachon"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 52,
+    "word": "Concept (n)",
+    "definition": "an abstract idea",
+    "sentence": {
+      "en": "The concept of infinity is difficult for many to grasp.",
+      "uz": "Cheksizlik tushunchasi ko'pchilik uchun tushunishga qiyin."
+    },
+    "options": ["Qoida", "Tushuncha", "O'yin", "Natija"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 53,
+    "word": "Established (adj)",
+    "definition": "having existed or done something for a long time and therefore recognized and generally accepted.",
+    "sentence": {
+      "en": "The university is an established institution with a long history.",
+      "uz": "Universitet uzoq tarixga ega bo'lgan ta'sis etilgan muassasadir."
+    },
+    "options": ["Yangi", "Vaqtinchalik", "Ta'sis etilgan", "Yopilgan"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 54,
+    "word": "Pertain (v)",
+    "definition": "be appropriate, related, or applicable to.",
+    "sentence": {
+      "en": "We only need information that pertains directly to this case.",
+      "uz": "Bizga faqat ushbu ishga bevosita tegishli bo'lgan ma'lumotlar kerak."
+    },
+    "options": ["Ajralib turmoq", "Tegishli bo'lmoq", "Qarshi bo'lmoq", "Unutmoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 55,
+    "word": "Scholarly (adj)",
+    "definition": "involving or relating to serious academic study.",
+    "sentence": {
+      "en": "She has written numerous scholarly articles on ancient history.",
+      "uz": "U qadimgi tarixga oid ko'plab ilmiy maqolalar yozgan."
+    },
+    "options": ["Ilmiy", "Badiiy", "Kulgili", "Oddiy"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 56,
+    "word": "Take into account (v)",
+    "definition": "consider (something) along with other factors before reaching a decision.",
+    "sentence": {
+      "en": "We must take into account the budget before planning the trip.",
+      "uz": "Sayohatni rejalashtirishdan oldin biz byudjetni hisobga olishimiz kerak."
+    },
+    "options": ["E'tiborsiz qoldirmoq", "Hisobga olmoq", "Kutmoq", "Unutmoq"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 57,
+    "word": "Prevailing (adj)",
+    "definition": "existing at a particular time; current.",
+    "sentence": {
+      "en": "The prevailing opinion is that the project will succeed.",
+      "uz": "Ustun keluvchi fikr shundaki, loyiha muvaffaqiyatli bo'ladi."
+    },
+    "options": ["Ustun keluvchi", "Zaif", "Eski", "Noma'lum"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 58,
+    "word": "Guideline (n)",
+    "definition": "a general rule, principle, or piece of advice.",
+    "sentence": {
+      "en": "The government issued a new health safety guideline.",
+      "uz": "Hukumat yangi sog'liqni saqlash xavfsizligi yo'riqnomasini chiqardi."
+    },
+    "options": ["Jazo", "Yo'riqnoma", "Savol", "Ruxsatnoma"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 59,
+    "word": "Feared (adj)",
+    "definition": "producing fear in others",
+    "sentence": {
+      "en": "The lion is one of the most feared predators in the wild.",
+      "uz": "Sher yovvoyi tabiatdagi eng qo'rqinchli yirtqichlardan biridir."
+    },
+    "options": ["Qo'rqinchli", "Yoqimli", "Kuchsiz", "Zararsiz"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 60,
+    "word": "Transform (v)",
+    "definition": "make a marked change in the form, nature, or appearance of",
+    "sentence": {
+      "en": "The caterpillar will slowly transform into a beautiful butterfly.",
+      "uz": "Kapalak qurti sekin-asta chiroyli kapalakka o'zgaradi."
+    },
+    "options": ["Saqlab qolish", "Buzish", "O'zgartirish", "Yashirish"],
+    "correct_option_index": 2
+  },
+  {
+    "id": 61,
+    "word": "In a matter of (minutes) (idiom)",
+    "definition": "used to emphasize that an amount is small.",
+    "sentence": {
+      "en": "The entire building was destroyed in a matter of minutes.",
+      "uz": "Butun bino bir necha daqiqada vayron bo'ldi."
+    },
+    "options": ["Uzoq yillar davomida", "Bir necha daqiqada", "Sekin-asta", "Hech qachon"],
+    "correct_option_index": 1
+  },
+  {
+    "id": 62,
+    "word": "Edible (adj)",
+    "definition": "suitable or safe for eating",
+    "sentence": {
+      "en": "Not all mushrooms you find in the forest are edible.",
+      "uz": "O'rmonda topilgan barcha qo'ziqorinlar ham yeyishli emas."
+    },
+    "options": ["Yeyishli", "Zaharli", "Xavfli", "Mazali"],
+    "correct_option_index": 0
+  },
+  {
+    "id": 63,
+    "word": "Absence (n)",
+    "definition": "the fact of not being where you are usually expected to be",
+    "sentence": {
+      "en": "Her long absence from school was due to a severe illness.",
+      "uz": "Uning maktabdagi uzoq muddatli yo'qligi og'ir kasallik tufayli edi."
+    },
+    "options": ["Mavjudlik", "Ishtirok", "Yo'qligi", "E'tibor"],
+    "correct_option_index": 2
+  }
+]
